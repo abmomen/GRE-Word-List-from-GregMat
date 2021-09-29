@@ -2,39 +2,57 @@
 	[
 	   {
 		  "word":"abate",
-		  "meaning":"become less intense or widespread, remove or reduce law"
+		  "meaning":"become less intense or widespread, remove or reduce law",
+		  "example": ["The storm suddenly abated", "This action would not have been sufficient to abate the odour nuisance"],
+		  "image":"https://dailyvocab.com/wp-content/uploads/2013/09/Abate.webp"
 	   },
 	   {
 		  "word":"abound",
-		  "meaning":"large numbers or amounts"
+		  "meaning":"large numbers or amounts",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"abstain",
-		  "meaning":"restrain oneself from doing"
+		  "meaning":"restrain oneself from doing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"accentuate",
-		  "meaning":"make more noticeable or prominent"
+		  "meaning":"make more noticeable or prominent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"acumen",
-		  "meaning":"the ability to make good judgments and take quick decisions"
+		  "meaning":"the ability to make good judgments and take quick decisions",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"admonish",
-		  "meaning":"warn or reprimand someone firmly"
+		  "meaning":"warn or reprimand someone firmly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"adulterate",
-		  "meaning":"render poorer in quality by adding another substance"
+		  "meaning":"render poorer in quality by adding another substance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"aloof",
-		  "meaning":"not friendly, distant, detached"
+		  "meaning":"not friendly, distant, detached",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"appease",
-		  "meaning":"pacify or placate, assuage or satisfy"
+		  "meaning":"pacify or placate, assuage or satisfy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"boorish",
@@ -44,39 +62,57 @@
 	[
 	   {
 		  "word":"abjure",
-		  "meaning":"solemnly renounce (a belief, cause or claim)"
+		  "meaning":"solemnly renounce (a belief, cause or claim)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"advocate",
-		  "meaning":"publicly recommend or support"
+		  "meaning":"publicly recommend or support",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"aesthetic",
-		  "meaning":"concerned with beauty"
+		  "meaning":"concerned with beauty",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"amorphous",
-		  "meaning":"without a clearly defined shape or form"
+		  "meaning":"without a clearly defined shape or form",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"antithesis",
-		  "meaning":"contrast or opposition between two things"
+		  "meaning":"contrast or opposition between two things",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"approbation",
-		  "meaning":"approval or praise"
+		  "meaning":"approval or praise",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"arbitrary",
-		  "meaning":"based on random choice/ unrestrained and autocratic in the use of authority"
+		  "meaning":"based on random choice/ unrestrained and autocratic in the use of authority",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"brook",
-		  "meaning":"tolerate"
+		  "meaning":"tolerate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"clangor",
-		  "meaning":"a continuously loud banging or ringing sound"
+		  "meaning":"a continuously loud banging or ringing sound",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conjectural",
@@ -86,39 +122,57 @@
 	[
 	   {
 		  "word":"affectation",
-		  "meaning":"pretension, facade"
+		  "meaning":"pretension, facade",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"aggrandize",
-		  "meaning":"increase power, status, reputation of someone"
+		  "meaning":"increase power, status, reputation of someone",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"anomalous",
-		  "meaning":"deviating from what is standard"
+		  "meaning":"deviating from what is standard",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"archaic",
-		  "meaning":"very old or old-fashioned"
+		  "meaning":"very old or old-fashioned",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ascribe",
-		  "meaning":"regard text, quotation or work/ regard a quality as belonging to"
+		  "meaning":"regard text, quotation or work/ regard a quality as belonging to",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"austere",
-		  "meaning":"severe or strict in manner or attitude. or severe self-discipline or ascetic"
+		  "meaning":"severe or strict in manner or attitude. or severe self-discipline or ascetic",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cherish",
-		  "meaning":"protect and care for lovingly"
+		  "meaning":"protect and care for lovingly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"circumspect",
-		  "meaning":"wary, cautious"
+		  "meaning":"wary, cautious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conventional",
-		  "meaning":"following traditional forms and genres"
+		  "meaning":"following traditional forms and genres",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"convivial",
@@ -128,35 +182,51 @@
 	[
 	   {
 		  "word":"alacrity",
-		  "meaning":"brisk and cheerful readiness"
+		  "meaning":"brisk and cheerful readiness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"alleviate",
-		  "meaning":"make suffering less severe"
+		  "meaning":"make suffering less severe",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"antipathy ",
-		  "meaning":"a deep-seated feeling of aversion"
+		  "meaning":"a deep-seated feeling of aversion",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"befuddled",
-		  "meaning":"unable to think clearly"
+		  "meaning":"unable to think clearly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"clamorous",
-		  "meaning":"making loud and confused noise/expressing or characterized by vehement protects or demands"
+		  "meaning":"making loud and confused noise/expressing or characterized by vehement protects or demands",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"comity",
-		  "meaning":"an association of nations for their mutual benefit/ considerate behavior towards others"
+		  "meaning":"an association of nations for their mutual benefit/ considerate behavior towards others",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"corroborate",
-		  "meaning":"confirm or give support to a statement, theory or finding"
+		  "meaning":"confirm or give support to a statement, theory or finding",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"debunk",
-		  "meaning":"expose the falseness or hollowness of an idea or belief"
+		  "meaning":"expose the falseness or hollowness of an idea or belief",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"decadent",
@@ -166,39 +236,57 @@
 	[
 	   {
 		  "word":"ambivalent",
-		  "meaning":"having mixed feelings or contradictory ideas"
+		  "meaning":"having mixed feelings or contradictory ideas",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"analogous",
-		  "meaning":"comparable in certain respects"
+		  "meaning":"comparable in certain respects",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"arcane",
-		  "meaning":"understood by few, mysterious or secret"
+		  "meaning":"understood by few, mysterious or secret",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"capricious",
-		  "meaning":"sudden change of mood, unpredictable, fickle"
+		  "meaning":"sudden change of mood, unpredictable, fickle",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"commensurate",
-		  "meaning":"corresponding in size or degree, in proportion"
+		  "meaning":"corresponding in size or degree, in proportion",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dearth",
-		  "meaning":"a scarcity or lack of something"
+		  "meaning":"a scarcity or lack of something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"diminutive",
-		  "meaning":"extremely or unusually small"
+		  "meaning":"extremely or unusually small",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disparate",
-		  "meaning":"essentially different in kind, notable to be compared, containing elements very different from one another"
+		  "meaning":"essentially different in kind, notable to be compared, containing elements very different from one another",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"egregious",
-		  "meaning":"outstandingly bad, shocking"
+		  "meaning":"outstandingly bad, shocking",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eschew",
@@ -208,39 +296,57 @@
 	[
 	   {
 		  "word":"ameliorate",
-		  "meaning":"make something bad better"
+		  "meaning":"make something bad better",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"arduous",
-		  "meaning":"involving or requiring strenuous effort, tiring"
+		  "meaning":"involving or requiring strenuous effort, tiring",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bolster",
-		  "meaning":"support or strength"
+		  "meaning":"support or strength",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cerebral",
-		  "meaning":"of the cerebrum of the brain, intellectual rather than physical"
+		  "meaning":"of the cerebrum of the brain, intellectual rather than physical",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cordial",
-		  "meaning":"warm and friendly"
+		  "meaning":"warm and friendly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"discernible",
-		  "meaning":"able to be discerned, perceptible, visible, noticeable"
+		  "meaning":"able to be discerned, perceptible, visible, noticeable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"emulate",
-		  "meaning":"match or surpass a person or achievement, typically by imitation"
+		  "meaning":"match or surpass a person or achievement, typically by imitation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"esoteric",
-		  "meaning":"likely to be understood by only a small number of people/ abstruse/ arcane/ obscure"
+		  "meaning":"likely to be understood by only a small number of people/ abstruse/ arcane/ obscure",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"evanescent",
-		  "meaning":"soon passing out of sight, memory or existence, quickly fading or disappearing"
+		  "meaning":"soon passing out of sight, memory or existence, quickly fading or disappearing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"explicable",
@@ -250,39 +356,57 @@
 	[
 	   {
 		  "word":"amenable",
-		  "meaning":"open to suggestions, easily persuaded, susceptible"
+		  "meaning":"open to suggestions, easily persuaded, susceptible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"artless",
-		  "meaning":"without deception, effort or pretentiousness, natural"
+		  "meaning":"without deception, effort or pretentiousness, natural",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chauvinistic",
-		  "meaning":"displaying aggressive patriotism, displaying excessive support for their own cause, group or sex"
+		  "meaning":"displaying aggressive patriotism, displaying excessive support for their own cause, group or sex",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"congenial",
-		  "meaning":"pleasant or agreeable because suited to one's taste"
+		  "meaning":"pleasant or agreeable because suited to one's taste",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deleterious",
-		  "meaning":"causing harm"
+		  "meaning":"causing harm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"enervate",
-		  "meaning":"make someone feel drained of energy, lacking in energy"
+		  "meaning":"make someone feel drained of energy, lacking in energy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"enigmatic",
-		  "meaning":"difficult to understand, mysterious"
+		  "meaning":"difficult to understand, mysterious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"evasive",
-		  "meaning":"tending to avoid commitment or self-revelation"
+		  "meaning":"tending to avoid commitment or self-revelation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"flamboyant",
-		  "meaning":"(of a person or their behaviour) tending to attract attention because of their exuberance, confidence, and stylishness or confidence of style or manner"
+		  "meaning":"(of a person or their behaviour) tending to attract attention because of their exuberance, confidence, and stylishness or confidence of style or manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hyperbole",
@@ -292,39 +416,57 @@
 	[
 	   {
 		  "word":"anachronistic",
-		  "meaning":"belonging to a period other than that being portrayed conspicuously old-fashioned"
+		  "meaning":"belonging to a period other than that being portrayed conspicuously old-fashioned",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ascetic",
-		  "meaning":"severe self-discipline, austere"
+		  "meaning":"severe self-discipline, austere",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"connoisseur",
-		  "meaning":"an expert judge in matters of taste"
+		  "meaning":"an expert judge in matters of taste",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conspicuous",
-		  "meaning":"clearly visible, attracting notice or attention"
+		  "meaning":"clearly visible, attracting notice or attention",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dichotomy",
-		  "meaning":"a division or contrast between two things that are or are represented as being opposed or entirely different"
+		  "meaning":"a division or contrast between two things that are or are represented as being opposed or entirely different",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ephemeral",
-		  "meaning":"lasting for a very short time"
+		  "meaning":"lasting for a very short time",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"estranged",
-		  "meaning":"no longer close to someone, alienated"
+		  "meaning":"no longer close to someone, alienated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exculpate",
-		  "meaning":"show or declare that someone is not guilty of wrongdoing"
+		  "meaning":"show or declare that someone is not guilty of wrongdoing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"forestall",
-		  "meaning":"prevent or obstruct by taking advanced action"
+		  "meaning":"prevent or obstruct by taking advanced action",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"immutable",
@@ -334,39 +476,57 @@
 	[
 	   {
 		  "word":"assuage",
-		  "meaning":"satisfy, make an unpleasant feeling less intense"
+		  "meaning":"satisfy, make an unpleasant feeling less intense",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"audacious",
-		  "meaning":"willingness to take surprisingly bold risks, showing impudent lack of respect"
+		  "meaning":"willingness to take surprisingly bold risks, showing impudent lack of respect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cursory",
-		  "meaning":"hasty and therefore not through or detailed"
+		  "meaning":"hasty and therefore not through or detailed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dissemble",
-		  "meaning":"conceal or disguise one's true feelings or beliefs"
+		  "meaning":"conceal or disguise one's true feelings or beliefs",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"edify",
-		  "meaning":"instruct or improve (someone) morally or intellectually"
+		  "meaning":"instruct or improve (someone) morally or intellectually",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"expedite",
-		  "meaning":"make (an action) happen sooner or be accomplished more quickly"
+		  "meaning":"make (an action) happen sooner or be accomplished more quickly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"extravagant",
-		  "meaning":"excessive, elaborate"
+		  "meaning":"excessive, elaborate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fervid",
-		  "meaning":"intensely enthusiastic or passionate, especially to an excessive degree"
+		  "meaning":"intensely enthusiastic or passionate, especially to an excessive degree",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gainsay",
-		  "meaning":"deny, contradict, speak against or oppose"
+		  "meaning":"deny, contradict, speak against or oppose",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"indefatigable",
@@ -376,39 +536,57 @@
 	[
 	   {
 		  "word":"avaricious",
-		  "meaning":"showing extreme greed for wealth or material gain"
+		  "meaning":"showing extreme greed for wealth or material gain",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"betray",
-		  "meaning":"gravely disloyal, unintentionally reveal, be evidence of"
+		  "meaning":"gravely disloyal, unintentionally reveal, be evidence of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"daunting",
-		  "meaning":"difficult to deal with, discourage through fear"
+		  "meaning":"difficult to deal with, discourage through fear",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dogged",
-		  "meaning":"showing tenacity and grim persistence"
+		  "meaning":"showing tenacity and grim persistence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"elicit",
-		  "meaning":"evoke or draw out (a reaction answer) from someone"
+		  "meaning":"evoke or draw out (a reaction answer) from someone",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fanciful",
-		  "meaning":"over-imaginative, unrealistic, highly ornamental"
+		  "meaning":"over-imaginative, unrealistic, highly ornamental",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fastidious",
-		  "meaning":"very attentive and concerned about accuracy and detail"
+		  "meaning":"very attentive and concerned about accuracy and detail",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"galvanize",
-		  "meaning":"shock or excite someone into taking action"
+		  "meaning":"shock or excite someone into taking action",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"garrulous",
-		  "meaning":"excessively talkative, especially on trivial matters"
+		  "meaning":"excessively talkative, especially on trivial matters",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"indolent",
@@ -418,39 +596,57 @@
 	[
 	   {
 		  "word":"banal",
-		  "meaning":"lacking in originality as to be obvious and boring"
+		  "meaning":"lacking in originality as to be obvious and boring",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bucolic",
-		  "meaning":"relating to the pleasant aspects of the countryside"
+		  "meaning":"relating to the pleasant aspects of the countryside",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deify",
-		  "meaning":"worship or regard as a god"
+		  "meaning":"worship or regard as a god",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dupe",
-		  "meaning":"trick, a victim of deception"
+		  "meaning":"trick, a victim of deception",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"erudite",
-		  "meaning":"having or showing great knowledge or learning"
+		  "meaning":"having or showing great knowledge or learning",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"feign",
-		  "meaning":"pretend to be affected by (a feeling, state or injury)"
+		  "meaning":"pretend to be affected by (a feeling, state or injury)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"frivolous",
-		  "meaning":"carefree, not having any serious purpose"
+		  "meaning":"carefree, not having any serious purpose",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"incendiary",
-		  "meaning":"tending to stir up conflict"
+		  "meaning":"tending to stir up conflict",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"indiscriminate",
-		  "meaning":"done at random or without careful judgment"
+		  "meaning":"done at random or without careful judgment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"insular",
@@ -460,39 +656,57 @@
 	[
 	   {
 		  "word":"benign",
-		  "meaning":"gentle and kind, not harmful to the environment"
+		  "meaning":"gentle and kind, not harmful to the environment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"burgeon",
-		  "meaning":"begin to grow or increase rapidly, flourish"
+		  "meaning":"begin to grow or increase rapidly, flourish",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"didactic",
-		  "meaning":"instructive, particularly so as to appear patronizing"
+		  "meaning":"instructive, particularly so as to appear patronizing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"empirical",
-		  "meaning":"based on observation rather than theory"
+		  "meaning":"based on observation rather than theory",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fecund",
-		  "meaning":"highly fertile"
+		  "meaning":"highly fertile",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"furtive",
-		  "meaning":"secretive/ suggestive of guilty nervousness"
+		  "meaning":"secretive/ suggestive of guilty nervousness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"heterogeneous",
-		  "meaning":"diverse in character or content"
+		  "meaning":"diverse in character or content",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inimical",
-		  "meaning":"tending to obstruct, unfriendly hostile"
+		  "meaning":"tending to obstruct, unfriendly hostile",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"innocuous",
-		  "meaning":"not harmful or offensive"
+		  "meaning":"not harmful or offensive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intransigent",
@@ -502,39 +716,57 @@
 	[
 	   {
 		  "word":"brazen",
-		  "meaning":"bold and without shame"
+		  "meaning":"bold and without shame",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cacophonous ",
-		  "meaning":"involving or producing harsh sounds"
+		  "meaning":"involving or producing harsh sounds",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disseminate",
-		  "meaning":"spread widely"
+		  "meaning":"spread widely",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"engender",
-		  "meaning":"cause or give rise to a feeling situation"
+		  "meaning":"cause or give rise to a feeling situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"feeble",
-		  "meaning":"lacking physical strength/ lacking strength of character/ failing to convince or impress"
+		  "meaning":"lacking physical strength/ lacking strength of character/ failing to convince or impress",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hamper",
-		  "meaning":"basket/ hinder"
+		  "meaning":"basket/ hinder",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"imperious",
-		  "meaning":"arrogant and domineering"
+		  "meaning":"arrogant and domineering",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intimate",
-		  "meaning":"closely acquainted, familiar, detailed or thorough"
+		  "meaning":"closely acquainted, familiar, detailed or thorough",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intrepid",
-		  "meaning":"fearless, adventurous (often used for humorous effect)"
+		  "meaning":"fearless, adventurous (often used for humorous effect)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"momentary",
@@ -544,39 +776,57 @@
 	[
 	   {
 		  "word":"calumny",
-		  "meaning":"false and slanderous statement about someone"
+		  "meaning":"false and slanderous statement about someone",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"canonize",
-		  "meaning":"treat of great significance, place in or regard as belonging to a canon of literacy or artistic works"
+		  "meaning":"treat of great significance, place in or regard as belonging to a canon of literacy or artistic works",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"entitled",
-		  "meaning":"give someone a legal right"
+		  "meaning":"give someone a legal right",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"feasible",
-		  "meaning":"possible to do easily or conveniently"
+		  "meaning":"possible to do easily or conveniently",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"felicitous",
-		  "meaning":"well chosen or suited to the circumstances/ pleasing"
+		  "meaning":"well chosen or suited to the circumstances/ pleasing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impertinent",
-		  "meaning":"not showing proper respect, irrelevant"
+		  "meaning":"not showing proper respect, irrelevant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"indispensable",
-		  "meaning":"absolutely necessary"
+		  "meaning":"absolutely necessary",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"invigorate",
-		  "meaning":"give strength or energy to"
+		  "meaning":"give strength or energy to",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"irreverent",
-		  "meaning":"showing lack of respect for people or things that are generally taken seriously"
+		  "meaning":"showing lack of respect for people or things that are generally taken seriously",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mundane",
@@ -586,39 +836,57 @@
 	[
 	   {
 		  "word":"candid",
-		  "meaning":"truthful and straightforward"
+		  "meaning":"truthful and straightforward",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"censure",
-		  "meaning":"express severe disapproval, especially in formal statement"
+		  "meaning":"express severe disapproval, especially in formal statement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"flout",
-		  "meaning":"openly disregard, mock, scoff"
+		  "meaning":"openly disregard, mock, scoff",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"forbear",
-		  "meaning":"refrain from doing something"
+		  "meaning":"refrain from doing something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"invasive",
-		  "meaning":"tending to spread very quickly or undesirably, harmfully"
+		  "meaning":"tending to spread very quickly or undesirably, harmfully",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lament",
-		  "meaning":"a passionate expression of grief or sorrow"
+		  "meaning":"a passionate expression of grief or sorrow",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"loathe",
-		  "meaning":"intense dislike or disgust for"
+		  "meaning":"intense dislike or disgust for",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mitigate",
-		  "meaning":"make something bad less severe, serious or painful"
+		  "meaning":"make something bad less severe, serious or painful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nettlesome",
-		  "meaning":"causing annoyance or difficulty"
+		  "meaning":"causing annoyance or difficulty",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pertinacious",
@@ -628,39 +896,57 @@
 	[
 	   {
 		  "word":"castigate",
-		  "meaning":"reprimand severely"
+		  "meaning":"reprimand severely",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chicanery",
-		  "meaning":"use of deception or subterfuge"
+		  "meaning":"use of deception or subterfuge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"haphazard",
-		  "meaning":"lacking any obvious principle of organization"
+		  "meaning":"lacking any obvious principle of organization",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"homogeneous",
-		  "meaning":"of the same kind"
+		  "meaning":"of the same kind",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"irresolute",
-		  "meaning":"showing or feeling hesitancy; uncertain"
+		  "meaning":"showing or feeling hesitancy; uncertain",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"malign",
-		  "meaning":"evil in nature, speak about someone in a spitefully critical manner"
+		  "meaning":"evil in nature, speak about someone in a spitefully critical manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"myopic",
-		  "meaning":"short-sighted"
+		  "meaning":"short-sighted",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nullify",
-		  "meaning":"make null and void, invalidate"
+		  "meaning":"make null and void, invalidate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obsolete",
-		  "meaning":"out of date"
+		  "meaning":"out of date",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"presumptuous",
@@ -670,39 +956,57 @@
 	[
 	   {
 		  "word":"caustic",
-		  "meaning":"sarcastic in a bitter way, chemical"
+		  "meaning":"sarcastic in a bitter way, chemical",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"coalesce",
-		  "meaning":"come together to from one mass or whole"
+		  "meaning":"come together to from one mass or whole",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hodgepodge",
-		  "meaning":"a confused mixture"
+		  "meaning":"a confused mixture",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"humdrum",
-		  "meaning":"lacking excitement or variety; boringly monotonous"
+		  "meaning":"lacking excitement or variety; boringly monotonous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"laudable",
-		  "meaning":"deserving praise and commendation"
+		  "meaning":"deserving praise and commendation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"malleable",
-		  "meaning":"easily influenced, pliable"
+		  "meaning":"easily influenced, pliable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nonchalant",
-		  "meaning":"calm and relaxed/ not displaying anxiety"
+		  "meaning":"calm and relaxed/ not displaying anxiety",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obviate",
-		  "meaning":"remove, avoid or prevent"
+		  "meaning":"remove, avoid or prevent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"opaque",
-		  "meaning":"unclear, not transparent"
+		  "meaning":"unclear, not transparent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"probity",
@@ -712,39 +1016,57 @@
 	[
 	   {
 		  "word":"cogent",
-		  "meaning":"clear, logical and convincing"
+		  "meaning":"clear, logical and convincing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"construe",
-		  "meaning":"interpret in a particular way"
+		  "meaning":"interpret in a particular way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impede",
-		  "meaning":"hinder"
+		  "meaning":"hinder",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"insipid",
-		  "meaning":"tasteless, lacking interest"
+		  "meaning":"tasteless, lacking interest",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lax",
-		  "meaning":"not sufficiently strict or careful, negligible / of muscle(relaxed)"
+		  "meaning":"not sufficiently strict or careful, negligible / of muscle(relaxed)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"neophyte",
-		  "meaning":"a person who is new to a subject, activity, or religion"
+		  "meaning":"a person who is new to a subject, activity, or religion",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"omnipresent",
-		  "meaning":"widely or constantly encountered; widespread"
+		  "meaning":"widely or constantly encountered; widespread",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"paradigmatic",
-		  "meaning":"serving as a typical example of something, of or denoting"
+		  "meaning":"serving as a typical example of something, of or denoting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"partial",
-		  "meaning":"incomplete/ biased/ having a liking for"
+		  "meaning":"incomplete/ biased/ having a liking for",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"proliferate",
@@ -754,39 +1076,57 @@
 	[
 	   {
 		  "word":"compelling",
-		  "meaning":"evoking interest in a powerful irresistible way"
+		  "meaning":"evoking interest in a powerful irresistible way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"contrite",
-		  "meaning":"feeling or expressing remorse that one has done wrong"
+		  "meaning":"feeling or expressing remorse that one has done wrong",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impetuous",
-		  "meaning":"acting or done quickly and without thought or care"
+		  "meaning":"acting or done quickly and without thought or care",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"loquacious",
-		  "meaning":"talkative"
+		  "meaning":"talkative",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"marginalize",
-		  "meaning":"treat a person, group as insignificant or peripheral"
+		  "meaning":"treat a person, group as insignificant or peripheral",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"oust",
-		  "meaning":"drive out or expel from a position or place"
+		  "meaning":"drive out or expel from a position or place",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pedantic",
-		  "meaning":"excessively concerned with minor details, over-scrupulous"
+		  "meaning":"excessively concerned with minor details, over-scrupulous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pensive",
-		  "meaning":"engaged in serious thought"
+		  "meaning":"engaged in serious thought",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"plastic",
-		  "meaning":"easily shaped/artificial/offering scope for creativity"
+		  "meaning":"easily shaped/artificial/offering scope for creativity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"specious",
@@ -796,39 +1136,57 @@
 	[
 	   {
 		  "word":"contend",
-		  "meaning":"struggle to surmount a difficulty, assert something as a position in an argument"
+		  "meaning":"struggle to surmount a difficulty, assert something as a position in an argument",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"convoluted",
-		  "meaning":"extremely complex and difficult to follow and twisted"
+		  "meaning":"extremely complex and difficult to follow and twisted",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"irascible",
-		  "meaning":"having or showing a tendency to be easily angered"
+		  "meaning":"having or showing a tendency to be easily angered",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"misanthropic",
-		  "meaning":"having or showing dislike of other people"
+		  "meaning":"having or showing dislike of other people",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"palpable",
-		  "meaning":"so intense as to seem, almost tangible/ plain to see or comprehend, able to be touched or felt"
+		  "meaning":"so intense as to seem, almost tangible/ plain to see or comprehend, able to be touched or felt",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"panache",
-		  "meaning":"flamboyant confidence of style or manner"
+		  "meaning":"flamboyant confidence of style or manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"placid",
-		  "meaning":"not easily upset or excited, calm and peaceful"
+		  "meaning":"not easily upset or excited, calm and peaceful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"platitude",
-		  "meaning":"used too often to be interesting or thoughtful"
+		  "meaning":"used too often to be interesting or thoughtful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"portend",
-		  "meaning":"be a sign or warning that something calamitous is likely to happen"
+		  "meaning":"be a sign or warning that something calamitous is likely to happen",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"spurious",
@@ -838,39 +1196,57 @@
 	[
 	   {
 		  "word":"copious",
-		  "meaning":"abundant in supply"
+		  "meaning":"abundant in supply",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"covet",
-		  "meaning":"yearn to possess something belonging to another"
+		  "meaning":"yearn to possess something belonging to another",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mercenary",
-		  "meaning":"making money at the expense of ethics/ a professional soldier hired to serve in a foreign army"
+		  "meaning":"making money at the expense of ethics/ a professional soldier hired to serve in a foreign army",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"misnomer",
-		  "meaning":"a wrong or inaccurate name or designation"
+		  "meaning":"a wrong or inaccurate name or designation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perfidy",
-		  "meaning":"state of being deceitful and untrustworthy"
+		  "meaning":"state of being deceitful and untrustworthy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"plodding",
-		  "meaning":"slow moving and unexciting"
+		  "meaning":"slow moving and unexciting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"polemical",
-		  "meaning":"of or involving strongly critical writing or speech"
+		  "meaning":"of or involving strongly critical writing or speech",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prescient",
-		  "meaning":"showing knowledge of events before they take place"
+		  "meaning":"showing knowledge of events before they take place",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"provincial",
-		  "meaning":"concerning a province of a country/religions regarded as narrow-minded"
+		  "meaning":"concerning a province of a country/religions regarded as narrow-minded",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subjective",
@@ -880,39 +1256,57 @@
 	[
 	   {
 		  "word":"cosmopolitan",
-		  "meaning":"mixture of cultures"
+		  "meaning":"mixture of cultures",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"craven",
-		  "meaning":"lacking in courage, cowardly"
+		  "meaning":"lacking in courage, cowardly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"meticulous",
-		  "meaning":"very careful and precious"
+		  "meaning":"very careful and precious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"negligent",
-		  "meaning":"failing to take proper care over something"
+		  "meaning":"failing to take proper care over something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"precipitate",
-		  "meaning":"cause to happen suddenly, unexpectedly or premature"
+		  "meaning":"cause to happen suddenly, unexpectedly or premature",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pristine",
-		  "meaning":"spotless, clean and fresh, immaculate"
+		  "meaning":"spotless, clean and fresh, immaculate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"profuse",
-		  "meaning":"abundant"
+		  "meaning":"abundant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prosaic",
-		  "meaning":"lacking originality, commonplace, unromantic"
+		  "meaning":"lacking originality, commonplace, unromantic",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"rudimentary",
-		  "meaning":"limited to basic principles/ relating to immature form"
+		  "meaning":"limited to basic principles/ relating to immature form",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subvert",
@@ -922,39 +1316,57 @@
 	[
 	   {
 		  "word":"decorum",
-		  "meaning":"behavior in keeping with good taste and propriety"
+		  "meaning":"behavior in keeping with good taste and propriety",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deference",
-		  "meaning":"polite submission and respect"
+		  "meaning":"polite submission and respect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mordant",
-		  "meaning":"(humor) having or showing a sharp or critical quality, biting"
+		  "meaning":"(humor) having or showing a sharp or critical quality, biting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obsequious",
-		  "meaning":"obedient to an excessive or servile degree"
+		  "meaning":"obedient to an excessive or servile degree",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"profundity",
-		  "meaning":"great depth of insight or knowledge"
+		  "meaning":"great depth of insight or knowledge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pugnacious",
-		  "meaning":"eager to argue, quarrel or fight"
+		  "meaning":"eager to argue, quarrel or fight",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"remedial",
-		  "meaning":"intended as cure/ provided or intended for children with learning difficulties/ provided or intended for children with learning difficulties"
+		  "meaning":"intended as cure/ provided or intended for children with learning difficulties/ provided or intended for children with learning difficulties",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"reproach",
-		  "meaning":"expression of disapproval"
+		  "meaning":"expression of disapproval",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"salutary",
-		  "meaning":"producing good efforts/ beneficial"
+		  "meaning":"producing good efforts/ beneficial",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"timorous",
@@ -964,35 +1376,51 @@
 	[
 	   {
 		  "word":"deft",
-		  "meaning":"demonstrating skill and cleverness"
+		  "meaning":"demonstrating skill and cleverness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"desultory",
-		  "meaning":"lacking plan, purpose or enthusiasm, occurring randomly"
+		  "meaning":"lacking plan, purpose or enthusiasm, occurring randomly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"outstrip",
-		  "meaning":"move faster and overtake/ exceed"
+		  "meaning":"move faster and overtake/ exceed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"placate",
-		  "meaning":"make less angry"
+		  "meaning":"make less angry",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prophetic",
-		  "meaning":"accurately predicting what will happen in future"
+		  "meaning":"accurately predicting what will happen in future",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"restive",
-		  "meaning":"unable to remain still, silent, or submissive, especially because of boredom"
+		  "meaning":"unable to remain still, silent, or submissive, especially because of boredom",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"robust",
-		  "meaning":"vigorous/ able to withstand adverse conditions/ forceful"
+		  "meaning":"vigorous/ able to withstand adverse conditions/ forceful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sagacious",
-		  "meaning":"wise or shrewd, intelligent"
+		  "meaning":"wise or shrewd, intelligent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tortuous",
@@ -1002,39 +1430,57 @@
 	[
 	   {
 		  "word":"demur",
-		  "meaning":"raise objections or show reluctance"
+		  "meaning":"raise objections or show reluctance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"diffident",
-		  "meaning":"modest or shy because of a lack of self-confidence"
+		  "meaning":"modest or shy because of a lack of self-confidence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"precarious",
-		  "meaning":"not securely held or in position; dangerously likely to fall or collapse/ uncertain"
+		  "meaning":"not securely held or in position; dangerously likely to fall or collapse/ uncertain",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"proclivity",
-		  "meaning":"a tendency to choose or do something regularly"
+		  "meaning":"a tendency to choose or do something regularly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prudent",
-		  "meaning":"acting with or showing care and thought for future"
+		  "meaning":"acting with or showing care and thought for future",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"salubrious",
-		  "meaning":"healthy, pleasant"
+		  "meaning":"healthy, pleasant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sanguine",
-		  "meaning":"optimistic, positive/blood-red"
+		  "meaning":"optimistic, positive/blood-red",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"slight",
-		  "meaning":"small in degree/ inconsiderate/ insult by treating without proper respect"
+		  "meaning":"small in degree/ inconsiderate/ insult by treating without proper respect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sporadic",
-		  "meaning":"infrequent, scattered or isolated, occasional"
+		  "meaning":"infrequent, scattered or isolated, occasional",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tractable",
@@ -1044,39 +1490,57 @@
 	[
 	   {
 		  "word":"derivative",
-		  "meaning":"imitative of the work of another"
+		  "meaning":"imitative of the work of another",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dilatory",
-		  "meaning":"slow to act, intended to cause delay"
+		  "meaning":"slow to act, intended to cause delay",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"puerile",
-		  "meaning":"childishly silly"
+		  "meaning":"childishly silly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"punctilious",
-		  "meaning":"showing great attention to detail or correct behavior"
+		  "meaning":"showing great attention to detail or correct behavior",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quirky",
-		  "meaning":"having or characterized by peculiar or unexpected traits or aspects"
+		  "meaning":"having or characterized by peculiar or unexpected traits or aspects",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sanction",
-		  "meaning":"official permission/ a threatened penalty for disobeying rule"
+		  "meaning":"official permission/ a threatened penalty for disobeying rule",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"scant",
-		  "meaning":"insufficient or barely sufficient"
+		  "meaning":"insufficient or barely sufficient",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"somnolent",
-		  "meaning":"sleepy, drowsy"
+		  "meaning":"sleepy, drowsy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stigmatize",
-		  "meaning":"great disapproval"
+		  "meaning":"great disapproval",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"transient",
@@ -1086,39 +1550,57 @@
 	[
 	   {
 		  "word":"desiccate",
-		  "meaning":"cause to become completely dry"
+		  "meaning":"cause to become completely dry",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"equivocate",
-		  "meaning":"use ambiguous language"
+		  "meaning":"use ambiguous language",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quixotic",
-		  "meaning":"extremely idealistic, unrealistic, impractical"
+		  "meaning":"extremely idealistic, unrealistic, impractical",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"recondite",
-		  "meaning":"little known, abstruse"
+		  "meaning":"little known, abstruse",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"repudiate",
-		  "meaning":"refuse to accept/ deny the truth or validity"
+		  "meaning":"refuse to accept/ deny the truth or validity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sedulous",
-		  "meaning":"showing dedication and diligence"
+		  "meaning":"showing dedication and diligence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"skulduggery",
-		  "meaning":"dishonest behavior or activities/ trickery"
+		  "meaning":"dishonest behavior or activities/ trickery",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stoic",
-		  "meaning":"a person who can endure pain without complaining"
+		  "meaning":"a person who can endure pain without complaining",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ubiquitous",
-		  "meaning":"present, appearing or found everywhere, omnipresent"
+		  "meaning":"present, appearing or found everywhere, omnipresent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"undermine",
@@ -1128,35 +1610,51 @@
 	[
 	   {
 		  "word":"diatribe",
-		  "meaning":"a forceful and bitter verbal attack"
+		  "meaning":"a forceful and bitter verbal attack",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"polarize",
-		  "meaning":"divide or cause it divide into two sharply contrasting group"
+		  "meaning":"divide or cause it divide into two sharply contrasting group",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"scrupulous",
-		  "meaning":"careful, thorough, and extremely attentive to details"
+		  "meaning":"careful, thorough, and extremely attentive to details",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"soporific",
-		  "meaning":"tediously boring or monotonous"
+		  "meaning":"tediously boring or monotonous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"spendthrift",
-		  "meaning":"a person who spends money in an irresponsible way"
+		  "meaning":"a person who spends money in an irresponsible way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"supersede",
-		  "meaning":"take the place of other/ supplant"
+		  "meaning":"take the place of other/ supplant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"trivial",
-		  "meaning":"of little value or importance."
+		  "meaning":"of little value or importance.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"underscore",
-		  "meaning":"emphasize"
+		  "meaning":"emphasize",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"utterly",
@@ -1166,39 +1664,57 @@
 	[
 	   {
 		  "word":"incredulous",
-		  "meaning":"unwilling or unable to believe something"
+		  "meaning":"unwilling or unable to believe something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prodigal",
-		  "meaning":"spending money recklessly"
+		  "meaning":"spending money recklessly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stern",
-		  "meaning":"serious, strict and severe"
+		  "meaning":"serious, strict and severe",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"taciturn",
-		  "meaning":"saying little"
+		  "meaning":"saying little",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tout",
-		  "meaning":"attempt to sell/ attempt to persuade people of the merits of/ informer"
+		  "meaning":"attempt to sell/ attempt to persuade people of the merits of/ informer",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tranquil",
-		  "meaning":"free from disturbance, calm"
+		  "meaning":"free from disturbance, calm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"trifling",
-		  "meaning":"unimportant or trivial"
+		  "meaning":"unimportant or trivial",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"utilitarian",
-		  "meaning":"designed to be useful or practical rather"
+		  "meaning":"designed to be useful or practical rather",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"venal",
-		  "meaning":"bribery, corrupt"
+		  "meaning":"bribery, corrupt",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"weary",
@@ -1208,39 +1724,57 @@
 	[
 	   {
 		  "word":"ingenuous",
-		  "meaning":"innocent, naive or unsuspecting"
+		  "meaning":"innocent, naive or unsuspecting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tendentious",
-		  "meaning":"intending to promote a point of view (controversial one)"
+		  "meaning":"intending to promote a point of view (controversial one)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"turbulent",
-		  "meaning":"characterized by conflict, disorder/ not stable"
+		  "meaning":"characterized by conflict, disorder/ not stable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vacillate",
-		  "meaning":"waver between different opinions or actions, be indecisive"
+		  "meaning":"waver between different opinions or actions, be indecisive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vapid",
-		  "meaning":"offering nothing that is stimulating or challenging/ bland"
+		  "meaning":"offering nothing that is stimulating or challenging/ bland",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"venerate",
-		  "meaning":"regard with great respect, reverence"
+		  "meaning":"regard with great respect, reverence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"verbose",
-		  "meaning":"using or expressed in more words that are needed"
+		  "meaning":"using or expressed in more words that are needed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"wane",
-		  "meaning":"decrease in vigor or extent, become weaker"
+		  "meaning":"decrease in vigor or extent, become weaker",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"wary",
-		  "meaning":"feeling or showing caution about possible dangers"
+		  "meaning":"feeling or showing caution about possible dangers",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"zealous",
@@ -1250,39 +1784,57 @@
 	[
 	   {
 		  "word":"abet",
-		  "meaning":"encourage or assist someone to do something wrong"
+		  "meaning":"encourage or assist someone to do something wrong",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"abhor",
-		  "meaning":"regard with disgust and hatred"
+		  "meaning":"regard with disgust and hatred",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"abreast",
-		  "meaning":"side by side and facing the same way"
+		  "meaning":"side by side and facing the same way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"acclaim",
-		  "meaning":"praise enthusiastically and publicly"
+		  "meaning":"praise enthusiastically and publicly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"acolyte",
-		  "meaning":"an assistant or follower"
+		  "meaning":"an assistant or follower",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"acquiesce",
-		  "meaning":"accept something reluctantly without protest"
+		  "meaning":"accept something reluctantly without protest",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"acrimonious",
-		  "meaning":"angry and bitter"
+		  "meaning":"angry and bitter",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"affinity",
-		  "meaning":"a natural liking for something/ resemblance"
+		  "meaning":"a natural liking for something/ resemblance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"alienate",
-		  "meaning":"experiencing or inducing feelings of isolation or estrangement"
+		  "meaning":"experiencing or inducing feelings of isolation or estrangement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"antedate",
@@ -1292,39 +1844,57 @@
 	[
 	   {
 		  "word":"accessible",
-		  "meaning":"(of a place) able to be reached or entered"
+		  "meaning":"(of a place) able to be reached or entered",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"adroit",
-		  "meaning":"clever or skillful"
+		  "meaning":"clever or skillful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"altruistic",
-		  "meaning":"selfless"
+		  "meaning":"selfless",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"anoint",
-		  "meaning":"rubbing with oil/ choose as successor to or leading candidate for a position"
+		  "meaning":"rubbing with oil/ choose as successor to or leading candidate for a position",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"apathy",
-		  "meaning":"lack of interest, enthusiasm or concern"
+		  "meaning":"lack of interest, enthusiasm or concern",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ascertain",
-		  "meaning":"find (something) out for certain, make sure of"
+		  "meaning":"find (something) out for certain, make sure of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"banish",
-		  "meaning":"send someone away from a country as an official punishment/ get rid of"
+		  "meaning":"send someone away from a country as an official punishment/ get rid of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"belligerent",
-		  "meaning":"hostile and aggressive"
+		  "meaning":"hostile and aggressive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"boisterous",
-		  "meaning":"noisy, energetic and cheerful/(of weather) stormy"
+		  "meaning":"noisy, energetic and cheerful/(of weather) stormy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"confound",
@@ -1334,35 +1904,51 @@
 	[
 	   {
 		  "word":"acquisitive",
-		  "meaning":"excessively interested in acquiring money or materials"
+		  "meaning":"excessively interested in acquiring money or materials",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"amend",
-		  "meaning":"improve by minor change"
+		  "meaning":"improve by minor change",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"apropos",
-		  "meaning":"with reference to; concerning/very appropriate to a particular situation"
+		  "meaning":"with reference to; concerning/very appropriate to a particular situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"assertive",
-		  "meaning":"having or showing a confident and forceful personality"
+		  "meaning":"having or showing a confident and forceful personality",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"baroque",
-		  "meaning":"highly ornate and extravagant in style"
+		  "meaning":"highly ornate and extravagant in style",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"beneficent",
-		  "meaning":"generous and doing good"
+		  "meaning":"generous and doing good",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bridle",
-		  "meaning":"used to control movement/ show one's anger"
+		  "meaning":"used to control movement/ show one's anger",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chivalrous",
-		  "meaning":"courteous and gallant especially towards women"
+		  "meaning":"courteous and gallant especially towards women",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"digression",
@@ -1372,39 +1958,57 @@
 	[
 	   {
 		  "word":"amalgamate",
-		  "meaning":"combine or unite to form one organization or structure"
+		  "meaning":"combine or unite to form one organization or structure",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"animus",
-		  "meaning":"hostility or ill feeling/ motivation to do something"
+		  "meaning":"hostility or ill feeling/ motivation to do something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"apt",
-		  "meaning":"suitable in the circumstances/ having a tendency to do something/ quick to learn"
+		  "meaning":"suitable in the circumstances/ having a tendency to do something/ quick to learn",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bogus",
-		  "meaning":"not genuine or true"
+		  "meaning":"not genuine or true",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"byzantine",
-		  "meaning":"excessively complicated/ characterized by deviousness"
+		  "meaning":"excessively complicated/ characterized by deviousness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"canny",
-		  "meaning":"showing shrewdness and good judgment especially in money or business"
+		  "meaning":"showing shrewdness and good judgment especially in money or business",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"churlish",
-		  "meaning":"rude in a mean-spirited and surly way"
+		  "meaning":"rude in a mean-spirited and surly way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"coercion",
-		  "meaning":"the action or practice of persuading someone to do something by using force or thre"
+		  "meaning":"the action or practice of persuading someone to do something by using force or thre",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"comply",
-		  "meaning":"act in accordance with a wish or command"
+		  "meaning":"act in accordance with a wish or command",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"discrepancy",
@@ -1414,39 +2018,57 @@
 	[
 	   {
 		  "word":"apologist",
-		  "meaning":"a person who offers an argument in defense of something controversial/ defender"
+		  "meaning":"a person who offers an argument in defense of something controversial/ defender",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"attenuate",
-		  "meaning":"reduce the force, effect or value of"
+		  "meaning":"reduce the force, effect or value of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cataclysmic",
-		  "meaning":"large-scale and violent"
+		  "meaning":"large-scale and violent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cavalier",
-		  "meaning":"dashing man as a lady's escort/ showing lack of concern"
+		  "meaning":"dashing man as a lady's escort/ showing lack of concern",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"clandestine",
-		  "meaning":"kept secret or done secretively"
+		  "meaning":"kept secret or done secretively",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cloak",
-		  "meaning":"something serving to hide or disguise something"
+		  "meaning":"something serving to hide or disguise something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"coin",
-		  "meaning":"invent, create/ money"
+		  "meaning":"invent, create/ money",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"compromise",
-		  "meaning":"agreement/ harm by accepting standards that are lower than is desirable/ cause to become vulnerable"
+		  "meaning":"agreement/ harm by accepting standards that are lower than is desirable/ cause to become vulnerable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"crestfallen",
-		  "meaning":"sad and disappointed"
+		  "meaning":"sad and disappointed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"duplicitous",
@@ -1456,35 +2078,51 @@
 	[
 	   {
 		  "word":"astringent",
-		  "meaning":"sharp or severe in manner or style/ causing the contraction of skin cells and other body tissues"
+		  "meaning":"sharp or severe in manner or style/ causing the contraction of skin cells and other body tissues",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"augment",
-		  "meaning":"make something greater by adding to it, increase"
+		  "meaning":"make something greater by adding to it, increase",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"circumscribe",
-		  "meaning":"restrict (something) within limits"
+		  "meaning":"restrict (something) within limits",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"complacent",
-		  "meaning":"showing smug or uncritical satisfaction with oneself or one's achievements/ self-satisfied"
+		  "meaning":"showing smug or uncritical satisfaction with oneself or one's achievements/ self-satisfied",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conciliatory",
-		  "meaning":"intended or likely to placate or pacify"
+		  "meaning":"intended or likely to placate or pacify",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"consensus",
-		  "meaning":"a general agreement"
+		  "meaning":"a general agreement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cunning",
-		  "meaning":"skill in achieving one's ends by deceit"
+		  "meaning":"skill in achieving one's ends by deceit",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"distressed",
-		  "meaning":"suffering from extreme anxiety, sorrow or pain"
+		  "meaning":"suffering from extreme anxiety, sorrow or pain",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"expedient",
@@ -1494,39 +2132,57 @@
 	[
 	   {
 		  "word":"aversion",
-		  "meaning":"a strong dislike or disinclination"
+		  "meaning":"a strong dislike or disinclination",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"collaborate",
-		  "meaning":"work jointly on an activity or project/ corporate"
+		  "meaning":"work jointly on an activity or project/ corporate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"complementary",
-		  "meaning":"combining in such a way as to enhance or emphasize the qualities of each other or another"
+		  "meaning":"combining in such a way as to enhance or emphasize the qualities of each other or another",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"countenance",
-		  "meaning":"facial expression/ support or approval"
+		  "meaning":"facial expression/ support or approval",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cumbersome",
-		  "meaning":"large or heavy and therefore difficult to carry or use/ unwieldy/ complicated, inefficient"
+		  "meaning":"large or heavy and therefore difficult to carry or use/ unwieldy/ complicated, inefficient",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"discomfit",
-		  "meaning":"make (someone) feel uneasy or embarrassed"
+		  "meaning":"make (someone) feel uneasy or embarrassed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"distort",
-		  "meaning":"pull or twist out of shape/give an misleading or false account of or impression of"
+		  "meaning":"pull or twist out of shape/give an misleading or false account of or impression of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dwindling",
-		  "meaning":"gradually diminishing in size, amount or strength"
+		  "meaning":"gradually diminishing in size, amount or strength",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"elucidate",
-		  "meaning":"make something clear/ explain"
+		  "meaning":"make something clear/ explain",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fabricate",
@@ -1536,39 +2192,57 @@
 	[
 	   {
 		  "word":"blithe",
-		  "meaning":"showing a casual and cheerful indifference considered to be callous or improper"
+		  "meaning":"showing a casual and cheerful indifference considered to be callous or improper",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"competent",
-		  "meaning":"efficient and capable"
+		  "meaning":"efficient and capable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"contentious",
-		  "meaning":"controversial, quarrelsome"
+		  "meaning":"controversial, quarrelsome",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"covert",
-		  "meaning":"not openly acknowledged or displayed/secretive, clandestine"
+		  "meaning":"not openly acknowledged or displayed/secretive, clandestine",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"debilitating",
-		  "meaning":"make someone weak and infirm/ hinder, delay"
+		  "meaning":"make someone weak and infirm/ hinder, delay",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dissent",
-		  "meaning":"the holding or expression of opinions at variance with those commonly or officially held."
+		  "meaning":"the holding or expression of opinions at variance with those commonly or officially held.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"divergent",
-		  "meaning":"tending to be different or develop in different directions"
+		  "meaning":"tending to be different or develop in different directions",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eclipse",
-		  "meaning":"deprive something of significance and power"
+		  "meaning":"deprive something of significance and power",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"evade",
-		  "meaning":"escape or avoid something especially by guile or trickery"
+		  "meaning":"escape or avoid something especially by guile or trickery",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"glum",
@@ -1578,35 +2252,51 @@
 	[
 	   {
 		  "word":"contempt",
-		  "meaning":"the feeling that a person or a thing is worthless or beneath consideration"
+		  "meaning":"the feeling that a person or a thing is worthless or beneath consideration",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"correlate",
-		  "meaning":"correspond, connect"
+		  "meaning":"correspond, connect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"credible",
-		  "meaning":"able to be believed, trustworthy"
+		  "meaning":"able to be believed, trustworthy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deliberate",
-		  "meaning":"done consciously and intentionally"
+		  "meaning":"done consciously and intentionally",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disingenuous",
-		  "meaning":"not candid or sincere/ typically pretending that one"
+		  "meaning":"not candid or sincere/ typically pretending that one",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"distill",
-		  "meaning":"purify / extract the essential meaning or most important aspects of"
+		  "meaning":"purify / extract the essential meaning or most important aspects of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"encyclopedic ",
-		  "meaning":"comprehensive in terms of information"
+		  "meaning":"comprehensive in terms of information",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"feckless",
-		  "meaning":"lacking initiative or strength of character, irresponsible"
+		  "meaning":"lacking initiative or strength of character, irresponsible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"harbinger",
@@ -1616,39 +2306,57 @@
 	[
 	   {
 		  "word":"dawdle",
-		  "meaning":"waste time, be slow"
+		  "meaning":"waste time, be slow",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deride",
-		  "meaning":"ridicule"
+		  "meaning":"ridicule",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"diffuse",
-		  "meaning":"spread out/ lacking clarity or conciseness, verbose"
+		  "meaning":"spread out/ lacking clarity or conciseness, verbose",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"divulge",
-		  "meaning":"make known (private or sensitive info)/ disclose/ reveal"
+		  "meaning":"make known (private or sensitive info)/ disclose/ reveal",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"droll",
-		  "meaning":"curious or unusual in a way that provokes dry amusement/ funny/ comic/ amusing"
+		  "meaning":"curious or unusual in a way that provokes dry amusement/ funny/ comic/ amusing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dubious",
-		  "meaning":"hesitating/ not to be relied upon, morally suspect"
+		  "meaning":"hesitating/ not to be relied upon, morally suspect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"trenchant",
-		  "meaning":"vigorous or incisive in expression or style"
+		  "meaning":"vigorous or incisive in expression or style",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exacerbate",
-		  "meaning":"make problems worse"
+		  "meaning":"make problems worse",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fester",
-		  "meaning":"(of wound) become septic, (of feeling) become worse"
+		  "meaning":"(of wound) become septic, (of feeling) become worse",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intrinsic",
@@ -1658,35 +2366,51 @@
 	[
 	   {
 		  "word":"deflect",
-		  "meaning":"cause to change direction/ cause to deviate from intended"
+		  "meaning":"cause to change direction/ cause to deviate from intended",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dictate",
-		  "meaning":"an order or principle that must be obeyed/ give orders"
+		  "meaning":"an order or principle that must be obeyed/ give orders",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"documentary",
-		  "meaning":"based on official documents or aspects, comprehensive"
+		  "meaning":"based on official documents or aspects, comprehensive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dogmatic",
-		  "meaning":"inclined to law down principles as underlying true/ highly opinionated"
+		  "meaning":"inclined to law down principles as underlying true/ highly opinionated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ebullient",
-		  "meaning":"cheerful and full of energy"
+		  "meaning":"cheerful and full of energy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eccentric",
-		  "meaning":"(of a person) unconventional and slightly strange"
+		  "meaning":"(of a person) unconventional and slightly strange",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"entrenched",
-		  "meaning":"(of an attitude, habit or belief) firmly established and difficult or unlikely to change; ingrained"
+		  "meaning":"(of an attitude, habit or belief) firmly established and difficult or unlikely to change; ingrained",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exasperated",
-		  "meaning":"intensely irritated and frustrated"
+		  "meaning":"intensely irritated and frustrated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"iconoclastic",
@@ -1696,39 +2420,57 @@
 	[
 	   {
 		  "word":"discount",
-		  "meaning":"regard as being unworthy of consideration"
+		  "meaning":"regard as being unworthy of consideration",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"discreet",
-		  "meaning":"careful in order to keep something confidential/ intentionally unobtrusive"
+		  "meaning":"careful in order to keep something confidential/ intentionally unobtrusive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exhaustive",
-		  "meaning":" including all elements or aspects, comprehensive"
+		  "meaning":" including all elements or aspects, comprehensive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exotic",
-		  "meaning":"organizing in or characteristic of a distant foreign country/ attractive/ specially produced"
+		  "meaning":"organizing in or characteristic of a distant foreign country/ attractive/ specially produced",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"facetious",
-		  "meaning":"treating serious issues with deliberately inappropriate humor; flippant"
+		  "meaning":"treating serious issues with deliberately inappropriate humor; flippant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fallacious",
-		  "meaning":"based on a mistaken belief"
+		  "meaning":"based on a mistaken belief",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fractious",
-		  "meaning":"irritable and quarrelsome/ difficult to control, unruly"
+		  "meaning":"irritable and quarrelsome/ difficult to control, unruly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fungible",
-		  "meaning":"mutually interchangeable"
+		  "meaning":"mutually interchangeable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"immure",
-		  "meaning":"enclose or confine against their will"
+		  "meaning":"enclose or confine against their will",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"libertine",
@@ -1738,39 +2480,57 @@
 	[
 	   {
 		  "word":"dissident",
-		  "meaning":"in opposition of official policy/ dissenting"
+		  "meaning":"in opposition of official policy/ dissenting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"divorced",
-		  "meaning":"separate from something typically with an undesirable effect"
+		  "meaning":"separate from something typically with an undesirable effect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exhilarating",
-		  "meaning":" thrilling, making one fell very happy, animated"
+		  "meaning":" thrilling, making one fell very happy, animated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exploitative",
-		  "meaning":"treating others unfairly in order to gain an advantage"
+		  "meaning":"treating others unfairly in order to gain an advantage",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fallible",
-		  "meaning":"capable of making mistakes or being wrongs"
+		  "meaning":"capable of making mistakes or being wrongs",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"foolhardy",
-		  "meaning":"recklessly bold or harsh"
+		  "meaning":"recklessly bold or harsh",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hackneyed",
-		  "meaning":"having been overused; unoriginal and trite"
+		  "meaning":"having been overused; unoriginal and trite",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"improvise",
-		  "meaning":"create and perform spontaneously or without prep/ make from whatever is available"
+		  "meaning":"create and perform spontaneously or without prep/ make from whatever is available",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"limpid",
-		  "meaning":"completely clear and transparent/ accessible or melodious"
+		  "meaning":"completely clear and transparent/ accessible or melodious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"malfeasance",
@@ -1780,39 +2540,57 @@
 	[
 	   {
 		  "word":"efficacious",
-		  "meaning":"successful in producing a desired result, effective"
+		  "meaning":"successful in producing a desired result, effective",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"elitist",
-		  "meaning":" demonstrating a superior attitude or behavior associated with an elite"
+		  "meaning":" demonstrating a superior attitude or behavior associated with an elite",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"extraneous",
-		  "meaning":"irrelevant or unrelated to the subject"
+		  "meaning":"irrelevant or unrelated to the subject",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"florid",
-		  "meaning":"having red or flushed complexion/ excessively intricate or elaborate"
+		  "meaning":"having red or flushed complexion/ excessively intricate or elaborate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"foreseeable",
-		  "meaning":"able to foreseen or predicted"
+		  "meaning":"able to foreseen or predicted",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hinder",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"incongruous",
-		  "meaning":"not in harmony or keeping with surroundings"
+		  "meaning":"not in harmony or keeping with surroundings",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inhibit",
-		  "meaning":"prevent/ make someone self-conscious/ forbid to function"
+		  "meaning":"prevent/ make someone self-conscious/ forbid to function",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"manifest",
-		  "meaning":"obvious/ demonstrate/ become apparent through the appearance of a symptoms, (of ghost) appear"
+		  "meaning":"obvious/ demonstrate/ become apparent through the appearance of a symptoms, (of ghost) appear",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mawkish",
@@ -1822,39 +2600,57 @@
 	[
 	   {
 		  "word":"equitable",
-		  "meaning":"fair and impartial"
+		  "meaning":"fair and impartial",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exacting",
-		  "meaning":"demanding/ inflict (revenge) on someone"
+		  "meaning":"demanding/ inflict (revenge) on someone",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fervor",
-		  "meaning":"intense and passionate feeling"
+		  "meaning":"intense and passionate feeling",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"forsake",
-		  "meaning":"abandon, renounce"
+		  "meaning":"abandon, renounce",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gawky",
-		  "meaning":"nervously awkward and ungainly"
+		  "meaning":"nervously awkward and ungainly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impair",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inscrutable",
-		  "meaning":" impossible to understand or interpret"
+		  "meaning":" impossible to understand or interpret",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"interchangeable",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"minute",
-		  "meaning":" insignificant/ (of investigation) taking the smaller points into consideration/ summarized record"
+		  "meaning":" insignificant/ (of investigation) taking the smaller points into consideration/ summarized record",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obeisance",
@@ -1864,39 +2660,57 @@
 	[
 	   {
 		  "word":"erratic",
-		  "meaning":" not even or regular in pattern or movement, unpredictable"
+		  "meaning":" not even or regular in pattern or movement, unpredictable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"flummoxed",
-		  "meaning":" bewildered or perplexed"
+		  "meaning":" bewildered or perplexed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"futile",
-		  "meaning":" fruitless, pointless"
+		  "meaning":" fruitless, pointless",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gratify",
-		  "meaning":" give someone pleasure or satisfaction"
+		  "meaning":" give someone pleasure or satisfaction",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impugn",
-		  "meaning":"dispute the truth, call into question/ challenge"
+		  "meaning":"dispute the truth, call into question/ challenge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inveigle",
-		  "meaning":" persuade someone to do something by means of deception or flattered"
+		  "meaning":" persuade someone to do something by means of deception or flattered",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"laconic",
-		  "meaning":"using very few words"
+		  "meaning":"using very few words",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lionize",
-		  "meaning":"give a lot of public attention and approval to someone"
+		  "meaning":"give a lot of public attention and approval to someone",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"modish",
-		  "meaning":"following what is currently popular and fashionable"
+		  "meaning":"following what is currently popular and fashionable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ostentatious",
@@ -1906,39 +2720,57 @@
 	[
 	   {
 		  "word":"fruitful",
-		  "meaning":" fertile, productive"
+		  "meaning":" fertile, productive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"heed",
-		  "meaning":" pay attention to/ take notice of"
+		  "meaning":" pay attention to/ take notice of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"illusory",
-		  "meaning":"based on illusion"
+		  "meaning":"based on illusion",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"incessant",
-		  "meaning":" continuing without pause or interruption"
+		  "meaning":" continuing without pause or interruption",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"industrious",
-		  "meaning":" diligent and hardworking"
+		  "meaning":" diligent and hardworking",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"jettison",
-		  "meaning":" abandon or discard/ throw or drop"
+		  "meaning":" abandon or discard/ throw or drop",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lucrative",
-		  "meaning":"providing a great deal or profit"
+		  "meaning":"providing a great deal or profit",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"monotonous",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nascent",
-		  "meaning":" just coming into existence and beginning to display signs of future potential "
+		  "meaning":" just coming into existence and beginning to display signs of future potential ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"panacea",
@@ -1948,39 +2780,57 @@
 	[
 	   {
 		  "word":"inborn",
-		  "meaning":" natural to a person, or animal"
+		  "meaning":" natural to a person, or animal",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inclined",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inform",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"invidious",
-		  "meaning":"unpleasant, illusion"
+		  "meaning":"unpleasant, illusion",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"judicious",
-		  "meaning":" having, showing or done with good judgment"
+		  "meaning":" having, showing or done with good judgment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"magisterial",
-		  "meaning":" domineering, dictatorial"
+		  "meaning":" domineering, dictatorial",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mendacity",
-		  "meaning":" untruthfulness"
+		  "meaning":" untruthfulness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"peculiar",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perennial",
-		  "meaning":" everlasting/ permanently engaged in a specified role or way of life"
+		  "meaning":" everlasting/ permanently engaged in a specified role or way of life",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perfunctory",
@@ -1990,39 +2840,57 @@
 	[
 	   {
 		  "word":"inveterate",
-		  "meaning":" long-established and unlikely to change"
+		  "meaning":" long-established and unlikely to change",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"irksome",
-		  "meaning":"irritation, annoying"
+		  "meaning":"irritation, annoying",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lethargic",
-		  "meaning":" sluggish, lazy"
+		  "meaning":" sluggish, lazy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lucid",
-		  "meaning":"expressed clearly; easy to understand."
+		  "meaning":"expressed clearly; easy to understand.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"munificent",
-		  "meaning":"characterized by great generosity"
+		  "meaning":"characterized by great generosity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"onerous",
-		  "meaning":" involving great deal of effort, trouble, and burdensome"
+		  "meaning":" involving great deal of effort, trouble, and burdensome",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perilous",
-		  "meaning":" fall of danger or risk"
+		  "meaning":" fall of danger or risk",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pious ",
-		  "meaning":"devoutly religious."
+		  "meaning":"devoutly religious.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"polymath",
-		  "meaning":"a person of wide knowledge or learning"
+		  "meaning":"a person of wide knowledge or learning",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"premeditate",
@@ -2032,39 +2900,57 @@
 	[
 	   {
 		  "word":"manacle",
-		  "meaning":" shackles/ handcuffs"
+		  "meaning":" shackles/ handcuffs",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"metaphorical",
-		  "meaning":"figurative"
+		  "meaning":"figurative",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"miserly",
-		  "meaning":"of or characteristic by of a miser/(quantity) pitiably small/ inadequate"
+		  "meaning":"of or characteristic by of a miser/(quantity) pitiably small/ inadequate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"naive",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"opprobrium",
-		  "meaning":" harsh criticism or censure"
+		  "meaning":" harsh criticism or censure",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pertinent",
-		  "meaning":"relevant or applicable to a particular matter; apposite."
+		  "meaning":"relevant or applicable to a particular matter; apposite.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pervasive ",
-		  "meaning":" (unwelcome influence) spreading widely throughout an area or a group of people"
+		  "meaning":" (unwelcome influence) spreading widely throughout an area or a group of people",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"profligate",
-		  "meaning":"wasteful in the use of resources/ licentious, dissolute"
+		  "meaning":"wasteful in the use of resources/ licentious, dissolute",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"providential",
-		  "meaning":"occurring at a favorable time/ involving divine foresight or providence"
+		  "meaning":"occurring at a favorable time/ involving divine foresight or providence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"reticent",
@@ -2074,39 +2960,57 @@
 	[
 	   {
 		  "word":"mimic",
-		  "meaning":" imitate"
+		  "meaning":" imitate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"modest",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"noble",
-		  "meaning":" belonging by rank/ high moral principles/superior quality"
+		  "meaning":" belonging by rank/ high moral principles/superior quality",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"parsimonious",
-		  "meaning":" very unwilling to spend money or use resources"
+		  "meaning":" very unwilling to spend money or use resources",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"patent",
-		  "meaning":"government authority or license/ easily recognizable"
+		  "meaning":"government authority or license/ easily recognizable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"preclude",
-		  "meaning":"- prevent from happening; make impossible"
+		  "meaning":"- prevent from happening; make impossible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"propriety",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prowess",
-		  "meaning":" expertise in a particular activity or field/ bravery in battle"
+		  "meaning":" expertise in a particular activity or field/ bravery in battle",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"reconcile",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stringent",
@@ -2116,39 +3020,57 @@
 	[
 	   {
 		  "word":"noxious",
-		  "meaning":"harmful, poisonous or very unpleasant"
+		  "meaning":"harmful, poisonous or very unpleasant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"numinous",
-		  "meaning":" having strong religious or spiritual quality"
+		  "meaning":" having strong religious or spiritual quality",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"parochial",
-		  "meaning":"narrow-minded, limited outbreak or scope/ church"
+		  "meaning":"narrow-minded, limited outbreak or scope/ church",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"peripheral",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"petulant",
-		  "meaning":" bad-tempered/ peevish/ childishly sulky"
+		  "meaning":" bad-tempered/ peevish/ childishly sulky",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"predilection ",
-		  "meaning":" a preference or special liking for something/ bias in favor"
+		  "meaning":" a preference or special liking for something/ bias in favor",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"refine",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"schism",
-		  "meaning":"split between strongly opposed sections or parties"
+		  "meaning":"split between strongly opposed sections or parties",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"scintillating",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subservient",
@@ -2158,39 +3080,57 @@
 	[
 	   {
 		  "word":"obscure",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pedestrian",
-		  "meaning":" lacking excitement, dull/ walking rather than vehicle"
+		  "meaning":" lacking excitement, dull/ walking rather than vehicle",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pernicious",
-		  "meaning":"having a harmful effect especially in a gradual way"
+		  "meaning":"having a harmful effect especially in a gradual way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pithy",
-		  "meaning":" (of plant) containing much pith, (of language or style) terse and vigorously expressive "
+		  "meaning":" (of plant) containing much pith, (of language or style) terse and vigorously expressive ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"provocative",
-		  "meaning":"causing anger or another strong reaction, especially deliberately/ annoying"
+		  "meaning":"causing anger or another strong reaction, especially deliberately/ annoying",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"rapacious",
-		  "meaning":" aggressively greedy or grasping"
+		  "meaning":" aggressively greedy or grasping",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"relinquish",
-		  "meaning":" voluntarily cease to keep or claim/ give up"
+		  "meaning":" voluntarily cease to keep or claim/ give up",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sensational",
-		  "meaning":" causing great public interest and excitement"
+		  "meaning":" causing great public interest and excitement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"slander",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"surreptitious",
@@ -2200,39 +3140,57 @@
 	[
 	   {
 		  "word":"overt",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pliant",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"predicament",
-		  "meaning":" a difficult, unpleasant or embarrassing situation"
+		  "meaning":" a difficult, unpleasant or embarrassing situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prevaricate",
-		  "meaning":" speak or act in an evasive way"
+		  "meaning":" speak or act in an evasive way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"relish",
-		  "meaning":" great enjoyment/ pleasurable anticipation"
+		  "meaning":" great enjoyment/ pleasurable anticipation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"renounce",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ruminate",
-		  "meaning":" think deeply about something"
+		  "meaning":" think deeply about something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sophisticated",
-		  "meaning":"having, revealing or involving a great deal of worldly experience and knowledge of fashion or culture"
+		  "meaning":"having, revealing or involving a great deal of worldly experience and knowledge of fashion or culture",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stalwart",
-		  "meaning":"loyal, reliable and hardworking"
+		  "meaning":"loyal, reliable and hardworking",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tantalizing",
@@ -2242,39 +3200,57 @@
 	[
 	   {
 		  "word":"pellucid",
-		  "meaning":"clear, easily understood"
+		  "meaning":"clear, easily understood",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prime",
-		  "meaning":"of first importance/ most suitable/ hey-day"
+		  "meaning":"of first importance/ most suitable/ hey-day",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"proficient",
-		  "meaning":" competent or skilled in doing or using something"
+		  "meaning":" competent or skilled in doing or using something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sanctimonious",
-		  "meaning":"making a show of being morally superior to other people/ self-righteous"
+		  "meaning":"making a show of being morally superior to other people/ self-righteous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"satirical",
-		  "meaning":" containing or using satire/ mocking another's weakness"
+		  "meaning":" containing or using satire/ mocking another's weakness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"skittish",
-		  "meaning":"(of animal) easily scared, (of person) unpredictable, playfully frivolous"
+		  "meaning":"(of animal) easily scared, (of person) unpredictable, playfully frivolous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"strife",
-		  "meaning":" angry or bitter disagreement over fundamental issues"
+		  "meaning":" angry or bitter disagreement over fundamental issues",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"supplicate",
-		  "meaning":" ask or beg something earnestly or humbly"
+		  "meaning":" ask or beg something earnestly or humbly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tantamount",
-		  "meaning":"equivalent in seriousness to; virtually the same as"
+		  "meaning":"equivalent in seriousness to; virtually the same as",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tempestuous",
@@ -2284,39 +3260,57 @@
 	[
 	   {
 		  "word":"perpetuate",
-		  "meaning":" make (something) continue indefinitely "
+		  "meaning":" make (something) continue indefinitely ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prolix",
-		  "meaning":"(of speech or writing) using or containing too many words; tediously lengthy"
+		  "meaning":"(of speech or writing) using or containing too many words; tediously lengthy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"radical",
-		  "meaning":" far-reaching, thorough, revolutionary"
+		  "meaning":" far-reaching, thorough, revolutionary",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sham",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sound",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"superfluous",
-		  "meaning":" unnecessary, especially through being more than enough/ surplus, redundant"
+		  "meaning":" unnecessary, especially through being more than enough/ surplus, redundant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tenable",
-		  "meaning":"defensible"
+		  "meaning":"defensible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"terse",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"torpor",
-		  "meaning":"a state of physical or mental inactivity, lethargy"
+		  "meaning":"a state of physical or mental inactivity, lethargy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"understated",
@@ -2326,39 +3320,57 @@
 	[
 	   {
 		  "word":"rational",
-		  "meaning":" based on or in accordance with reason or logic"
+		  "meaning":" based on or in accordance with reason or logic",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"recrudescent",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"scorn",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"skirt",
-		  "meaning":"be situated along or around the edge of/ avoid dealing with"
+		  "meaning":"be situated along or around the edge of/ avoid dealing with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"synoptic ",
-		  "meaning":" of or forming general summary/ taking or involving a comprehensive mental views"
+		  "meaning":" of or forming general summary/ taking or involving a comprehensive mental views",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tarnish",
-		  "meaning":"make or become less valuable or respected"
+		  "meaning":"make or become less valuable or respected",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tirade",
-		  "meaning":" a long angry speech of criticism or accusation"
+		  "meaning":" a long angry speech of criticism or accusation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"transgression",
-		  "meaning":"act that goes against law"
+		  "meaning":"act that goes against law",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"trenchant",
-		  "meaning":"vigorous or incisive in expression or style"
+		  "meaning":"vigorous or incisive in expression or style",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"unscrupulous",
@@ -2368,39 +3380,57 @@
 	[
 	   {
 		  "word":"scathing",
-		  "meaning":"scornful/ harm"
+		  "meaning":"scornful/ harm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sluggish",
-		  "meaning":" slow moving, lacking energy or alertness"
+		  "meaning":" slow moving, lacking energy or alertness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subordinate",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"temporal",
-		  "meaning":"secular, worldly, non-spiritual"
+		  "meaning":"secular, worldly, non-spiritual",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tepid",
-		  "meaning":" lukewarm/ showing little enthusiasm"
+		  "meaning":" lukewarm/ showing little enthusiasm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"thorough",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"umbrage",
-		  "meaning":"offense or annoyance"
+		  "meaning":"offense or annoyance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"universal",
-		  "meaning":" applicable to all cases/ ubiquitous"
+		  "meaning":" applicable to all cases/ ubiquitous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"urbane",
-		  "meaning":"courteous and refined in manner"
+		  "meaning":"courteous and refined in manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"veracity",
@@ -2410,39 +3440,57 @@
 	[
 	   {
 		  "word":"spartan",
-		  "meaning":" austerity or lack of comfort or luxury/ harsh/ hard/ frugal"
+		  "meaning":" austerity or lack of comfort or luxury/ harsh/ hard/ frugal",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subtle",
-		  "meaning":"delicately complex/ making use of clever and indirect methods to achieve something"
+		  "meaning":"delicately complex/ making use of clever and indirect methods to achieve something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"transitory",
-		  "meaning":" not permanent"
+		  "meaning":" not permanent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"unseemly",
-		  "meaning":"not proper or appropriate"
+		  "meaning":"not proper or appropriate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"upbraid",
-		  "meaning":"find fault with/ scold"
+		  "meaning":"find fault with/ scold",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vanquish",
-		  "meaning":"defeat thoroughly, conquer"
+		  "meaning":"defeat thoroughly, conquer",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"verisimilitude",
-		  "meaning":" the appearance of being true or real"
+		  "meaning":" the appearance of being true or real",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"versatile",
-		  "meaning":"adoptable to many different functions or activities"
+		  "meaning":"adoptable to many different functions or activities",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"virulent",
-		  "meaning":"(of a disease or poison) extremely severe or harmful in its effects/ bitterly hostile"
+		  "meaning":"(of a disease or poison) extremely severe or harmful in its effects/ bitterly hostile",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"visionary",
@@ -2452,39 +3500,57 @@
 	[
 	   {
 		  "word":"superficial",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"truculent",
-		  "meaning":"eager to argue; aggressively defiant"
+		  "meaning":"eager to argue; aggressively defiant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"veritable",
-		  "meaning":" used for emphasis, often to quality a metaphor"
+		  "meaning":" used for emphasis, often to quality a metaphor",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vexation",
-		  "meaning":" the state of being annoyed, frustrated or worried"
+		  "meaning":" the state of being annoyed, frustrated or worried",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"viable",
-		  "meaning":"capable of working successfully feasible"
+		  "meaning":"capable of working successfully feasible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vitiate",
-		  "meaning":"spoil or impair thee quality or efficiency of something"
+		  "meaning":"spoil or impair thee quality or efficiency of something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vociferous",
-		  "meaning":"expressing by vehement opinions, loud and forceful/ outspoken"
+		  "meaning":"expressing by vehement opinions, loud and forceful/ outspoken",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"volatile",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"wayward",
-		  "meaning":" difficult to control or predict because of willful or perverse behavior"
+		  "meaning":" difficult to control or predict because of willful or perverse behavior",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"woeful",
@@ -2494,39 +3560,57 @@
 	[
 	   {
 		  "word":"abject",
-		  "meaning":"experienced or present to the maximum degree (of bad) extremely unpleasant and degrading"
+		  "meaning":"experienced or present to the maximum degree (of bad) extremely unpleasant and degrading",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bereft",
-		  "meaning":"deprived of or lacking (something)/ sad and lonely"
+		  "meaning":"deprived of or lacking (something)/ sad and lonely",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bombastic",
-		  "meaning":"high-sounding but with little meaning, inflated"
+		  "meaning":"high-sounding but with little meaning, inflated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cumbersome",
-		  "meaning":"large or heavy and therefore difficult to carry or use/ unwieldy/ complicated, inefficient"
+		  "meaning":"large or heavy and therefore difficult to carry or use/ unwieldy/ complicated, inefficient",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exorcise",
-		  "meaning":"completely remove from one's mind or memory(unpleasant)"
+		  "meaning":"completely remove from one's mind or memory(unpleasant)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"hysterical",
-		  "meaning":"deriving from or affected by uncontrolled extreme emotion; overwrought; unrestrained; frenzied; (informal) extremely funny"
+		  "meaning":"deriving from or affected by uncontrolled extreme emotion; overwrought; unrestrained; frenzied; (informal) extremely funny",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intermittent",
-		  "meaning":"sporadic, not continuous or steady"
+		  "meaning":"sporadic, not continuous or steady",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lugubrious",
-		  "meaning":"looking or sending sad and dismal"
+		  "meaning":"looking or sending sad and dismal",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"propitious",
-		  "meaning":"giving or indicating a good chance of success; favorable"
+		  "meaning":"giving or indicating a good chance of success; favorable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"slovenly",
@@ -2536,39 +3620,57 @@
 	[
 	   {
 		  "word":"amicable",
-		  "meaning":"characterized by friendliness"
+		  "meaning":"characterized by friendliness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"endemic",
-		  "meaning":"(of a disease or social condition) found particularly in a specific area or group; (of a plant or animal) native and restricted to a certain place"
+		  "meaning":"(of a disease or social condition) found particularly in a specific area or group; (of a plant or animal) native and restricted to a certain place",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"factious",
-		  "meaning":"divided, schismatic, argumentative"
+		  "meaning":"divided, schismatic, argumentative",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"finicky",
-		  "meaning":"fussy about their needs, greater attention to detail"
+		  "meaning":"fussy about their needs, greater attention to detail",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"frailty",
-		  "meaning":"weak and delicate/ weakness in character or morals"
+		  "meaning":"weak and delicate/ weakness in character or morals",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lambaste",
-		  "meaning":"criticize harshly"
+		  "meaning":"criticize harshly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ominous",
-		  "meaning":" giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious"
+		  "meaning":" giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"profound",
-		  "meaning":"very great or intense/ showing great knowledge"
+		  "meaning":"very great or intense/ showing great knowledge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"transcend",
-		  "meaning":"go beyond the range/ surpass"
+		  "meaning":"go beyond the range/ surpass",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"unprecedented",
@@ -2578,39 +3680,57 @@
 	[
 	   {
 		  "word":"animosity ",
-		  "meaning":"strong hostility"
+		  "meaning":"strong hostility",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"assail",
-		  "meaning":"attack/ trouble/ criticize strongly"
+		  "meaning":"attack/ trouble/ criticize strongly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"detente",
-		  "meaning":"the easing of hostility or strained relations, especially between countries"
+		  "meaning":"the easing of hostility or strained relations, especially between countries",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disdain",
-		  "meaning":"the feeling that someone or something is unworthy of one's consideration or respect."
+		  "meaning":"the feeling that someone or something is unworthy of one's consideration or respect.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disentangle",
-		  "meaning":"free from something that they are entangled with"
+		  "meaning":"free from something that they are entangled with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"flustered",
-		  "meaning":"make (someone) agitated or confused"
+		  "meaning":"make (someone) agitated or confused",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"propagate",
-		  "meaning":"reproduce / spread or promote"
+		  "meaning":"reproduce / spread or promote",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"spurn",
-		  "meaning":"reject with disdain or contempt or disdain; scorn; deride; regard with contempt; sneer at; spurn; rebuff"
+		  "meaning":"reject with disdain or contempt or disdain; scorn; deride; regard with contempt; sneer at; spurn; rebuff",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stinting",
-		  "meaning":"supply ungenerous or inadequate amount of something"
+		  "meaning":"supply ungenerous or inadequate amount of something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"undercut",
@@ -2620,39 +3740,57 @@
 	[
 	   {
 		  "word":"allusive",
-		  "meaning":"using or containing suggestion rather than explicit mention"
+		  "meaning":"using or containing suggestion rather than explicit mention",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"aver",
-		  "meaning":"state or assert to be the case."
+		  "meaning":"state or assert to be the case.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"callow",
-		  "meaning":"(of a young person) inexperienced and immature"
+		  "meaning":"(of a young person) inexperienced and immature",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"contravene",
-		  "meaning":"offend against the prohibition/ conflict with"
+		  "meaning":"offend against the prohibition/ conflict with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"euphemism",
-		  "meaning":"polite term/ coy term"
+		  "meaning":"polite term/ coy term",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"extrapolate",
-		  "meaning":"estimate or conclude something by extrapolating"
+		  "meaning":"estimate or conclude something by extrapolating",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"incidental",
-		  "meaning":"occurring by chance/ happening as a result/ less important"
+		  "meaning":"occurring by chance/ happening as a result/ less important",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"outlandish",
-		  "meaning":"looking or sounding bizarre or unfamiliar"
+		  "meaning":"looking or sounding bizarre or unfamiliar",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pomposity",
-		  "meaning":"the quality of being pompous; self-importance"
+		  "meaning":"the quality of being pompous; self-importance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quash",
@@ -2662,39 +3800,57 @@
 	[
 	   {
 		  "word":"abscond",
-		  "meaning":"leave hurriedly and secretly, typically to escape from custody or avoid arrest."
+		  "meaning":"leave hurriedly and secretly, typically to escape from custody or avoid arrest.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"august",
-		  "meaning":" respected and impressive; distinguished; eminent; venerable; hallowed; illustrious; esteemed; exalted; of distinction; of repute; aristocratic; imposing"
+		  "meaning":" respected and impressive; distinguished; eminent; venerable; hallowed; illustrious; esteemed; exalted; of distinction; of repute; aristocratic; imposing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"axiomatic",
-		  "meaning":"self-evident or unquestionable"
+		  "meaning":"self-evident or unquestionable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"barrage",
-		  "meaning":"overwhelming number of questions, criticisms etc"
+		  "meaning":"overwhelming number of questions, criticisms etc",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"delineate",
-		  "meaning":"describe or portray precisely/ indicate the exact"
+		  "meaning":"describe or portray precisely/ indicate the exact",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"flagrant",
-		  "meaning":"(of something considered wrong or immoral) conspicuously or obviously offensive"
+		  "meaning":"(of something considered wrong or immoral) conspicuously or obviously offensive",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"glib",
-		  "meaning":"fluent but insincere and shallow"
+		  "meaning":"fluent but insincere and shallow",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"liability",
-		  "meaning":"state of being responsible/ a person whose presence or behavior likely to put one at a disadvantage"
+		  "meaning":"state of being responsible/ a person whose presence or behavior likely to put one at a disadvantage",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"reiterate",
-		  "meaning":"repeat, typically for emphasis or clarity"
+		  "meaning":"repeat, typically for emphasis or clarity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"turpitude",
@@ -2704,39 +3860,57 @@
 	[
 	   {
 		  "word":"cathartic",
-		  "meaning":"providing psychological belief through the open expression of strong emotions"
+		  "meaning":"providing psychological belief through the open expression of strong emotions",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conclusive",
-		  "meaning":"(of evidence or argument) having or likely to have the effort of proving a case"
+		  "meaning":"(of evidence or argument) having or likely to have the effort of proving a case",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"curb",
-		  "meaning":"restrain or check on something"
+		  "meaning":"restrain or check on something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"euphoric",
-		  "meaning":"characterized by feeling intense excitement"
+		  "meaning":"characterized by feeling intense excitement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"imbroglio",
-		  "meaning":"an extremely confused, complicated, or embarrassing situation"
+		  "meaning":"an extremely confused, complicated, or embarrassing situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"macabre",
-		  "meaning":"disturbing because concerned with or causing a fear of death"
+		  "meaning":"disturbing because concerned with or causing a fear of death",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"peccadillo",
-		  "meaning":"a relatively minor fault or sin"
+		  "meaning":"a relatively minor fault or sin",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"poignant",
-		  "meaning":"keen sense of sadness or regret"
+		  "meaning":"keen sense of sadness or regret",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quibble",
-		  "meaning":"a slight criticism about a trivial matter; adverse comment; nitpicking"
+		  "meaning":"a slight criticism about a trivial matter; adverse comment; nitpicking",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"remuneration",
@@ -2746,39 +3920,57 @@
 	[
 	   {
 		  "word":"antagonize",
-		  "meaning":"cause (someone) to become hostile."
+		  "meaning":"cause (someone) to become hostile.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"bravado",
-		  "meaning":" a bold manner or a show of boldness intended to impress or intimidate"
+		  "meaning":" a bold manner or a show of boldness intended to impress or intimidate",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"decipher",
-		  "meaning":" succeed in understanding interpreting or identifying"
+		  "meaning":" succeed in understanding interpreting or identifying",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"elementary",
-		  "meaning":"most basic kind/ straightforward and uncomplicated"
+		  "meaning":"most basic kind/ straightforward and uncomplicated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gullible",
-		  "meaning":"easily persuaded to believe something, credulous"
+		  "meaning":"easily persuaded to believe something, credulous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inundate",
-		  "meaning":"overwhelm with things or people to be dealt with flood"
+		  "meaning":"overwhelm with things or people to be dealt with flood",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"languish",
-		  "meaning":"weaken, deteriorate, waste away, be disregarded, experience hardship"
+		  "meaning":"weaken, deteriorate, waste away, be disregarded, experience hardship",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lull",
-		  "meaning":"make someone feel deceptively secure or confident/ calm"
+		  "meaning":"make someone feel deceptively secure or confident/ calm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"recant",
-		  "meaning":"say that one no longer holds an opinion or belief, especially one considered heretical; disavow; forswear; change one's mind; retract"
+		  "meaning":"say that one no longer holds an opinion or belief, especially one considered heretical; disavow; forswear; change one's mind; retract",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vitality",
@@ -2788,39 +3980,57 @@
 	[
 	   {
 		  "word":"barren",
-		  "meaning":"unproductive/ infertile/ lifeless"
+		  "meaning":"unproductive/ infertile/ lifeless",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"delusion",
-		  "meaning":"deception misleading / mental disorder"
+		  "meaning":"deception misleading / mental disorder",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"heterodox",
-		  "meaning":" not conforming with accepted or orthodox standards or beliefs"
+		  "meaning":" not conforming with accepted or orthodox standards or beliefs",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inchoate",
-		  "meaning":"beginning; rudimentary; confused or incoherent"
+		  "meaning":"beginning; rudimentary; confused or incoherent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ingrained",
-		  "meaning":"(of a habit, belief, or attitude) firmly fixed or established; difficult to change."
+		  "meaning":"(of a habit, belief, or attitude) firmly fixed or established; difficult to change.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mettlesome",
-		  "meaning":"full of spirit and courage, lively"
+		  "meaning":"full of spirit and courage, lively",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nimble",
-		  "meaning":" quick and light in movement or action; agile; (of the mind) quick to comprehend"
+		  "meaning":" quick and light in movement or action; agile; (of the mind) quick to comprehend",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"oblivious",
-		  "meaning":"not aware of or concerned about what is happening around one."
+		  "meaning":"not aware of or concerned about what is happening around one.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obstreperous",
-		  "meaning":"noisy and difficult to control"
+		  "meaning":"noisy and difficult to control",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"steadfast",
@@ -2830,39 +4040,57 @@
 	[
 	   {
 		  "word":"abeyance",
-		  "meaning":"((PHRASES)hold something in abeyance) - a state of suspension; a state of dormancy; a state of latency; pending; deferred; put off; postponed"
+		  "meaning":"((PHRASES)hold something in abeyance) - a state of suspension; a state of dormancy; a state of latency; pending; deferred; put off; postponed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"archetype",
-		  "meaning":" a very typical example of a certain person or thing"
+		  "meaning":" a very typical example of a certain person or thing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"astute",
-		  "meaning":"shrewd"
+		  "meaning":"shrewd",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dispense",
-		  "meaning":"supply or release/ get rid of"
+		  "meaning":"supply or release/ get rid of",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fervent",
-		  "meaning":"having or displaying a passionate intensity."
+		  "meaning":"having or displaying a passionate intensity.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ironclad",
-		  "meaning":" covered or protected with iron"
+		  "meaning":" covered or protected with iron",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"philistine",
-		  "meaning":"hostile or indifferent to culture and arts"
+		  "meaning":"hostile or indifferent to culture and arts",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prurient",
-		  "meaning":" having or encouraging an excessive interest in sexual matters"
+		  "meaning":" having or encouraging an excessive interest in sexual matters",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tacit",
-		  "meaning":"understood or implied without being stated."
+		  "meaning":"understood or implied without being stated.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"temerity",
@@ -2872,39 +4100,57 @@
 	[
 	   {
 		  "word":"bawdy",
-		  "meaning":"dealing with sexual matters in a comical way; humorously indecent"
+		  "meaning":"dealing with sexual matters in a comical way; humorously indecent",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eloquent",
-		  "meaning":" clearly expressing or indicating something"
+		  "meaning":" clearly expressing or indicating something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exorbitant",
-		  "meaning":"unreasonably high (of price or amount)"
+		  "meaning":"unreasonably high (of price or amount)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fawn",
-		  "meaning":"give a servile display of exaggerated flattery or affection"
+		  "meaning":"give a servile display of exaggerated flattery or affection",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gaffe",
-		  "meaning":"an unintentional act or remark causing embarrassment"
+		  "meaning":"an unintentional act or remark causing embarrassment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"odious",
-		  "meaning":"extremely unpleasant; repulsive."
+		  "meaning":"extremely unpleasant; repulsive.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"plaintive",
-		  "meaning":"sounding sad and mournful"
+		  "meaning":"sounding sad and mournful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"redoubtable",
-		  "meaning":"(of a person) formidable, especially as an opponent; fearsome; awe-inspiring"
+		  "meaning":"(of a person) formidable, especially as an opponent; fearsome; awe-inspiring",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"relegate",
-		  "meaning":" assign an inferior rank or position to"
+		  "meaning":" assign an inferior rank or position to",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"relent",
@@ -2914,39 +4160,57 @@
 	[
 	   {
 		  "word":"coy",
-		  "meaning":"(especially with reference to a woman) making a pretence of shyness or modesty which is intended to be alluring."
+		  "meaning":"(especially with reference to a woman) making a pretence of shyness or modesty which is intended to be alluring.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"croon",
-		  "meaning":"hum or sing in a soft, low voice, especially in a sentimental manner"
+		  "meaning":"hum or sing in a soft, low voice, especially in a sentimental manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deportment",
-		  "meaning":"a person's behavior or manners"
+		  "meaning":"a person's behavior or manners",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dirge",
-		  "meaning":"- a lament for the dead, especially one forming part of a funeral rite"
+		  "meaning":"- a lament for the dead, especially one forming part of a funeral rite",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"enthrall",
-		  "meaning":"capture the fascinated attention of, charm, enchant"
+		  "meaning":"capture the fascinated attention of, charm, enchant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"grievance",
-		  "meaning":"unfair treatment"
+		  "meaning":"unfair treatment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"precipitous",
-		  "meaning":"dangerously high or steep/ done suddenly or without careful consideration"
+		  "meaning":"dangerously high or steep/ done suddenly or without careful consideration",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"serene",
-		  "meaning":"calm, peaceful and untroubled, tranquil"
+		  "meaning":"calm, peaceful and untroubled, tranquil",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"surmount",
-		  "meaning":"overcome (a difficulty or obstacle)."
+		  "meaning":"overcome (a difficulty or obstacle).",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"temper",
@@ -2956,39 +4220,57 @@
 	[
 	   {
 		  "word":"aspersion",
-		  "meaning":"an attack on the reputation or integrity of someone or something"
+		  "meaning":"an attack on the reputation or integrity of someone or something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disperse",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eradicate",
-		  "meaning":" destroy completely"
+		  "meaning":" destroy completely",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"escalate",
-		  "meaning":" increase rapidly, make more intense or serious"
+		  "meaning":" increase rapidly, make more intense or serious",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"harangue",
-		  "meaning":"a lengthy and aggressive speech"
+		  "meaning":"a lengthy and aggressive speech",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"imperturbable",
-		  "meaning":"unable to be upset or excited, calm"
+		  "meaning":"unable to be upset or excited, calm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"painstaking",
-		  "meaning":"done with or employing great care and thoroughness"
+		  "meaning":"done with or employing great care and thoroughness",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"precocious",
-		  "meaning":"advanced, ahead, old beyond one's years"
+		  "meaning":"advanced, ahead, old beyond one's years",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"repercussion",
-		  "meaning":"unintended consequence of an event or action"
+		  "meaning":"unintended consequence of an event or action",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"treatise",
@@ -2998,39 +4280,57 @@
 	[
 	   {
 		  "word":"abide",
-		  "meaning":" continue; (abide by) - comply with"
+		  "meaning":" continue; (abide by) - comply with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"auspicious",
-		  "meaning":" conductive to success, favorable"
+		  "meaning":" conductive to success, favorable",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"corporeal",
-		  "meaning":"relating to a person's body especially as opposed to their spirit, (law) consisting of material objects"
+		  "meaning":"relating to a person's body especially as opposed to their spirit, (law) consisting of material objects",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"denounce",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"economy",
-		  "meaning":"careful management and available resources"
+		  "meaning":"careful management and available resources",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"excoriate",
-		  "meaning":"- criticize severely / remove part of the surface of skin"
+		  "meaning":"- criticize severely / remove part of the surface of skin",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fledgling",
-		  "meaning":" immature, inexperienced, underdeveloped, emerging"
+		  "meaning":" immature, inexperienced, underdeveloped, emerging",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nadir",
-		  "meaning":" the lowest point in the fortunes of a person or organization"
+		  "meaning":" the lowest point in the fortunes of a person or organization",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"regress",
-		  "meaning":" return to a former or less developed state"
+		  "meaning":" return to a former or less developed state",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"shrill",
@@ -3040,39 +4340,57 @@
 	[
 	   {
 		  "word":"curmudgeon",
-		  "meaning":"a bad-tempered person, especially an old one"
+		  "meaning":"a bad-tempered person, especially an old one",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"dowdy",
-		  "meaning":"(of a person or their clothes) unfashionable and without style in appearance (typically used of a woman)"
+		  "meaning":"(of a person or their clothes) unfashionable and without style in appearance (typically used of a woman)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"figurative",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"foil",
-		  "meaning":" prevent from succeeding/ frustrate the efforts"
+		  "meaning":" prevent from succeeding/ frustrate the efforts",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fortitude",
-		  "meaning":"courage in pain or adversity"
+		  "meaning":"courage in pain or adversity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"impudent",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"qualm",
-		  "meaning":"uneasy feeling of doubt/ misgiving, doubt"
+		  "meaning":"uneasy feeling of doubt/ misgiving, doubt",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"refute",
-		  "meaning":"disprove, deny or contradict"
+		  "meaning":"disprove, deny or contradict",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"verve",
-		  "meaning":" vigor, buoyancy"
+		  "meaning":" vigor, buoyancy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"yield",
@@ -3082,39 +4400,57 @@
 	[
 	   {
 		  "word":"appropriate",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"burnish",
-		  "meaning":"polish up; buff up; enhance or perfect (something such as a reputation or a skill)"
+		  "meaning":"polish up; buff up; enhance or perfect (something such as a reputation or a skill)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deviate",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exonerate",
-		  "meaning":" absolve from blame for wrongdoing/ release from duty"
+		  "meaning":" absolve from blame for wrongdoing/ release from duty",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fortuitous ",
-		  "meaning":"happening by chance rather than intention"
+		  "meaning":"happening by chance rather than intention",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intrigue",
-		  "meaning":"the secret planning of something illicit or detrimental"
+		  "meaning":"the secret planning of something illicit or detrimental",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"morose",
-		  "meaning":"sullen and ill-tempered."
+		  "meaning":"sullen and ill-tempered.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"replenish",
-		  "meaning":" fill something up again, restore"
+		  "meaning":" fill something up again, restore",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sadistic",
-		  "meaning":" deriving pleasure from inflicting pain, suffering, or humiliation on others"
+		  "meaning":" deriving pleasure from inflicting pain, suffering, or humiliation on others",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"swindle",
@@ -3124,39 +4460,57 @@
 	[
 	   {
 		  "word":"aberrant",
-		  "meaning":" deviant, transgressing"
+		  "meaning":" deviant, transgressing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"buoyant",
-		  "meaning":"cheerful and optimistic/ (economy) engaged in successful trade on activity / floating"
+		  "meaning":"cheerful and optimistic/ (economy) engaged in successful trade on activity / floating",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"echelon",
-		  "meaning":"level, rank, position (MILITARY)"
+		  "meaning":"level, rank, position (MILITARY)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"evoke",
-		  "meaning":"bring or recall (a feeling, memory, or image) to the conscious mind."
+		  "meaning":"bring or recall (a feeling, memory, or image) to the conscious mind.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fickle",
-		  "meaning":"changing frequently, especially as regards one's loyalties or affections."
+		  "meaning":"changing frequently, especially as regards one's loyalties or affections.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"goad",
-		  "meaning":"provoke or annoy someone as the stimulate on action"
+		  "meaning":"provoke or annoy someone as the stimulate on action",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"implicit",
-		  "meaning":" suggested though not directed expressed expressed/ always to be found in/ absolute"
+		  "meaning":" suggested though not directed expressed expressed/ always to be found in/ absolute",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"rhetoric",
-		  "meaning":" the art of effective or persuasive speaking or writing"
+		  "meaning":" the art of effective or persuasive speaking or writing",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"wheedle",
-		  "meaning":" use flattery or coaxing in order to persuade someone to do something or give one something"
+		  "meaning":" use flattery or coaxing in order to persuade someone to do something or give one something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"wily",
@@ -3166,39 +4520,57 @@
 	[
 	   {
 		  "word":"benevolent",
-		  "meaning":"well meaning and kindly"
+		  "meaning":"well meaning and kindly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conspire",
-		  "meaning":"make secret plans jointly"
+		  "meaning":"make secret plans jointly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"depose",
-		  "meaning":" remove from office suddenly and forcefully; (LAW) testify to or give (evidence) on oath, typically in a written statement"
+		  "meaning":" remove from office suddenly and forcefully; (LAW) testify to or give (evidence) on oath, typically in a written statement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fallow",
-		  "meaning":" uncultivated, unplowed, inactive, dormant"
+		  "meaning":" uncultivated, unplowed, inactive, dormant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"imminent",
-		  "meaning":"about to happen"
+		  "meaning":"about to happen",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ire",
-		  "meaning":"anger."
+		  "meaning":"anger.",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"phlegmatic",
-		  "meaning":" unemotional and stolidly calm disposition/ self-controlled"
+		  "meaning":" unemotional and stolidly calm disposition/ self-controlled",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quandary",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ramification",
-		  "meaning":"a complex or unwelcome consequence of an action "
+		  "meaning":"a complex or unwelcome consequence of an action ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sentimental",
@@ -3208,39 +4580,57 @@
 	[
 	   {
 		  "word":"apogee",
-		  "meaning":"the highest point in the development of something; a climax or culmination"
+		  "meaning":"the highest point in the development of something; a climax or culmination",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"eclectic",
-		  "meaning":"deriving ideas, style or taste from a broad and diverse range of sources"
+		  "meaning":"deriving ideas, style or taste from a broad and diverse range of sources",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"enmity",
-		  "meaning":"the state or feeling of being actively opposed or hostile to someone or something; animosity; antipathy; animus; feud; discord; acrimony"
+		  "meaning":"the state or feeling of being actively opposed or hostile to someone or something; animosity; antipathy; animus; feud; discord; acrimony",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"incontrovertible",
-		  "meaning":"not able to be denied or disputed"
+		  "meaning":"not able to be denied or disputed",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"intertwined",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"languid",
-		  "meaning":"having or showing disinclination for physical effort/ weak from illness or fatigue"
+		  "meaning":"having or showing disinclination for physical effort/ weak from illness or fatigue",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"miscreant",
-		  "meaning":"a person who has done something wrong or unlawful"
+		  "meaning":"a person who has done something wrong or unlawful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"propensity",
-		  "meaning":" natural tendency to behave in a particular way"
+		  "meaning":" natural tendency to behave in a particular way",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tenuous",
-		  "meaning":" slight, very slender or fine, thin, shaky, insubstantial"
+		  "meaning":" slight, very slender or fine, thin, shaky, insubstantial",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"whimsical",
@@ -3250,39 +4640,57 @@
 	[
 	   {
 		  "word":"apprehension",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"berate",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ennui",
-		  "meaning":"a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement"
+		  "meaning":"a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"foment",
-		  "meaning":" instigate or stir up"
+		  "meaning":" instigate or stir up",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"implacable",
-		  "meaning":"unable to be appeased or placated"
+		  "meaning":"unable to be appeased or placated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"itinerant",
-		  "meaning":" traveling from place to place"
+		  "meaning":" traveling from place to place",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mollify",
-		  "meaning":" appease the anger or anxiety/ reduce the severity"
+		  "meaning":" appease the anger or anxiety/ reduce the severity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obdurate",
-		  "meaning":"stubbornly refusing to change one's opinion or course of action"
+		  "meaning":"stubbornly refusing to change one's opinion or course of action",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"proxy",
-		  "meaning":"the authority to represent someone else "
+		  "meaning":"the authority to represent someone else ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"substantiate",
@@ -3292,39 +4700,57 @@
 	[
 	   {
 		  "word":"agitate",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"collude",
-		  "meaning":"cooperate in a secret or unlawful way in order to deceive or gain an advantage over others"
+		  "meaning":"cooperate in a secret or unlawful way in order to deceive or gain an advantage over others",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"embellish",
-		  "meaning":"decorate/ make more interesting by adding extra details"
+		  "meaning":"decorate/ make more interesting by adding extra details",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gratuitous",
-		  "meaning":" uncalled for, unwarranted, given or done free of charge"
+		  "meaning":" uncalled for, unwarranted, given or done free of charge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"haughty",
-		  "meaning":" arrogantly superior and disdainful"
+		  "meaning":" arrogantly superior and disdainful",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"idiosyncratic",
-		  "meaning":"peculiar or individual"
+		  "meaning":"peculiar or individual",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"magnanimous",
-		  "meaning":"generous or forgiving"
+		  "meaning":"generous or forgiving",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"pretentious",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quiescent",
-		  "meaning":"in a state or period of inactivity or dormancy"
+		  "meaning":"in a state or period of inactivity or dormancy",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sparse",
@@ -3334,39 +4760,57 @@
 	[
 	   {
 		  "word":"abstract",
-		  "meaning":"consider (something) theoretically or separately from something else; extract or remove (something); used euphemistically to say that stolen something; (abstract oneself) withdraw"
+		  "meaning":"consider (something) theoretically or separately from something else; extract or remove (something); used euphemistically to say that stolen something; (abstract oneself) withdraw",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"adverse",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"convinction",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"duress",
-		  "meaning":"threats, violence, constraint or other action used to coerce someone into doing something"
+		  "meaning":"threats, violence, constraint or other action used to coerce someone into doing something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"estimable",
-		  "meaning":"worthy of great respect"
+		  "meaning":"worthy of great respect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"indecorous",
-		  "meaning":" improper, unseemly"
+		  "meaning":" improper, unseemly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"insolent",
-		  "meaning":" showing a rude and arrogant lack of respect"
+		  "meaning":" showing a rude and arrogant lack of respect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"inviolate",
-		  "meaning":"- free or safe from injury or violation"
+		  "meaning":"- free or safe from injury or violation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mercurial",
-		  "meaning":" subject to sudden or unpredictable changes of mood or mind"
+		  "meaning":" subject to sudden or unpredictable changes of mood or mind",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"meritorious ",
@@ -3376,39 +4820,57 @@
 	[
 	   {
 		  "word":"ardent",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conflagration",
-		  "meaning":" an extensive fire which destroys a great deal of land or property"
+		  "meaning":" an extensive fire which destroys a great deal of land or property",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"despotic",
-		  "meaning":" of or typical of a despot, tyrannical/ autocratic"
+		  "meaning":" of or typical of a despot, tyrannical/ autocratic",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exhort",
-		  "meaning":"strongly encourage or urge"
+		  "meaning":"strongly encourage or urge",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"mutiny ",
-		  "meaning":"open rebellion against the proper authorities"
+		  "meaning":"open rebellion against the proper authorities",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"renege",
-		  "meaning":" go back on a promise, undertaking, or contact "
+		  "meaning":" go back on a promise, undertaking, or contact ",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"retiring",
-		  "meaning":"shy and fond of being on one's own; diffident, shrinking; self-effacing; unassuming"
+		  "meaning":"shy and fond of being on one's own; diffident, shrinking; self-effacing; unassuming",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"soliloquy",
-		  "meaning":"interior monologue"
+		  "meaning":"interior monologue",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tangible",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vigilant",
@@ -3418,39 +4880,57 @@
 	[
 	   {
 		  "word":"arresting",
-		  "meaning":" eye-catching /seize/ attract the attention/ stop or check"
+		  "meaning":" eye-catching /seize/ attract the attention/ stop or check",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chagrin",
-		  "meaning":" distress or embarrassment at having failed or been humiliated"
+		  "meaning":" distress or embarrassment at having failed or been humiliated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chary",
-		  "meaning":" wary, cautiously or suspiciously reluctant to do something"
+		  "meaning":" wary, cautiously or suspiciously reluctant to do something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"doctrinaire",
-		  "meaning":"dogmatic, rigid seeking to impose a doctrine in all circumstances without regard to practical considerations"
+		  "meaning":"dogmatic, rigid seeking to impose a doctrine in all circumstances without regard to practical considerations",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"headstrong",
-		  "meaning":"energetically willful and determined"
+		  "meaning":"energetically willful and determined",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"paradoxical",
-		  "meaning":" seemingly absurd or self-contradicting"
+		  "meaning":" seemingly absurd or self-contradicting",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perpetrate",
-		  "meaning":" carry out or commit(harmful, illegal or immoral action)"
+		  "meaning":" carry out or commit(harmful, illegal or immoral action)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"poise",
-		  "meaning":" graceful, composure and dignity of manner"
+		  "meaning":" graceful, composure and dignity of manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"quarantine",
-		  "meaning":""
+		  "meaning":"",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"stolid",
@@ -3460,39 +4940,57 @@
 	[
 	   {
 		  "word":"adept",
-		  "meaning":"very skilled at something"
+		  "meaning":"very skilled at something",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"capitulate",
-		  "meaning":"surrender, give in, yield, concede defeat"
+		  "meaning":"surrender, give in, yield, concede defeat",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"contretemps",
-		  "meaning":"a minor dispute or disagreement; an unexpected and unfortunate occurrence"
+		  "meaning":"a minor dispute or disagreement; an unexpected and unfortunate occurrence",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"convalescent",
-		  "meaning":"recovering from illness or medical treatment"
+		  "meaning":"recovering from illness or medical treatment",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"distend",
-		  "meaning":"swell or cause to swell by pressure from inside; bulge; enlarge; puff out/up; blow up/out"
+		  "meaning":"swell or cause to swell by pressure from inside; bulge; enlarge; puff out/up; blow up/out",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"obstinate",
-		  "meaning":"very difficult to change or overcome"
+		  "meaning":"very difficult to change or overcome",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"officious",
-		  "meaning":"intrusively enthusiastic in offering help or advice/ interfering"
+		  "meaning":"intrusively enthusiastic in offering help or advice/ interfering",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"perseverance",
-		  "meaning":"persistence in doing something despite difficulty"
+		  "meaning":"persistence in doing something despite difficulty",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"repugnant",
-		  "meaning":"unacceptable / in conflict or incompatible with"
+		  "meaning":"unacceptable / in conflict or incompatible with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subsume",
@@ -3502,39 +5000,57 @@
 	[
 	   {
 		  "word":"cease",
-		  "meaning":"come or bring to an end"
+		  "meaning":"come or bring to an end",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"commiserate",
-		  "meaning":"offer sympathy to, be moved by, condole with"
+		  "meaning":"offer sympathy to, be moved by, condole with",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"extemporize",
-		  "meaning":"improvise, ad lib"
+		  "meaning":"improvise, ad lib",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nonplussed",
-		  "meaning":"so surprised and confused that one is unsure how to act"
+		  "meaning":"so surprised and confused that one is unsure how to act",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"ravage",
-		  "meaning":"lay waste; devastate; leave in ruins; wreak havoc on; leave desolate; pillage"
+		  "meaning":"lay waste; devastate; leave in ruins; wreak havoc on; leave desolate; pillage",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"render",
-		  "meaning":"provide or give (a service, help, etc.)."
+		  "meaning":"provide or give (a service, help, etc.).",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"subside",
-		  "meaning":"become less intense, violent or severe/go down to a lower or the normal level"
+		  "meaning":"become less intense, violent or severe/go down to a lower or the normal level",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tedious",
-		  "meaning":"too long, slow, or dull; tiresome or monotonous"
+		  "meaning":"too long, slow, or dull; tiresome or monotonous",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"vivacious",
-		  "meaning":"attractively lively and animated"
+		  "meaning":"attractively lively and animated",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"xenophobic",
@@ -3544,39 +5060,57 @@
 	[
 	   {
 		  "word":"cogitate",
-		  "meaning":"think about, muse on"
+		  "meaning":"think about, muse on",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"condone",
-		  "meaning":" accept (behavior that is considered morally wrong)"
+		  "meaning":" accept (behavior that is considered morally wrong)",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fret",
-		  "meaning":"visibly anxious / gradually wear away by rubbing / flow in waves"
+		  "meaning":"visibly anxious / gradually wear away by rubbing / flow in waves",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"histrionic",
-		  "meaning":"dramatic behavior designed to attract attention"
+		  "meaning":"dramatic behavior designed to attract attention",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lavish",
-		  "meaning":"very generous or extravagant/ rich"
+		  "meaning":"very generous or extravagant/ rich",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"repertoire",
-		  "meaning":"collection/ stock of skills or types of behavior that a person habitually does"
+		  "meaning":"collection/ stock of skills or types of behavior that a person habitually does",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"rigor",
-		  "meaning":"a sudden feeling of cold with shivering accompanied by a rise in temperature"
+		  "meaning":"a sudden feeling of cold with shivering accompanied by a rise in temperature",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"sophistry",
-		  "meaning":"the use of fallacious arguments, especially with the intention of deceiving; specious arguments; fallacious argument; sophism; casuistry"
+		  "meaning":"the use of fallacious arguments, especially with the intention of deceiving; specious arguments; fallacious argument; sophism; casuistry",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"squander",
-		  "meaning":"waste in a reckless manner"
+		  "meaning":"waste in a reckless manner",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"zenith",
@@ -3586,39 +5120,57 @@
 	[
 	   {
 		  "word":"articulate",
-		  "meaning":"ability to speak fluently/ jointed segments"
+		  "meaning":"ability to speak fluently/ jointed segments",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"cajole",
-		  "meaning":"persuade to do something by flattery"
+		  "meaning":"persuade to do something by flattery",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"conducive",
-		  "meaning":"making a certain situation or outcome likely or possible"
+		  "meaning":"making a certain situation or outcome likely or possible",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"decry",
-		  "meaning":"publicly denounce"
+		  "meaning":"publicly denounce",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fulcrum",
-		  "meaning":" the point on which a lever rests or is supported and on which it pivots; a thing that plays a central or essential role in an activity, event, or situation"
+		  "meaning":" the point on which a lever rests or is supported and on which it pivots; a thing that plays a central or essential role in an activity, event, or situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"nominal",
-		  "meaning":"token, tiny"
+		  "meaning":"token, tiny",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"penchant",
-		  "meaning":"liking; fondness; preference; inclination; bent; predilection; proclivity"
+		  "meaning":"liking; fondness; preference; inclination; bent; predilection; proclivity",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"prodigious",
-		  "meaning":"remarkably great in extent size or degree"
+		  "meaning":"remarkably great in extent size or degree",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"resilient",
-		  "meaning":"able to withstand or recover quickly from difficulty conditions"
+		  "meaning":"able to withstand or recover quickly from difficulty conditions",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tangential",
@@ -3628,39 +5180,57 @@
 	[
 	   {
 		  "word":"equanimity",
-		  "meaning":"calmness and composure, especially in a difficult situation"
+		  "meaning":"calmness and composure, especially in a difficult situation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"expatiate",
-		  "meaning":"speak or write at length or in detail"
+		  "meaning":"speak or write at length or in detail",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"gauche",
-		  "meaning":"lacking ease or grace; unsophisticated and socially awkward; inelegant; ungainly"
+		  "meaning":"lacking ease or grace; unsophisticated and socially awkward; inelegant; ungainly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"jeopardize",
-		  "meaning":"threaten, endanger"
+		  "meaning":"threaten, endanger",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"plucky",
-		  "meaning":"brave, intrepid"
+		  "meaning":"brave, intrepid",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"recourse",
-		  "meaning":"source of help in difficult situation/ legal right to demand compensation"
+		  "meaning":"source of help in difficult situation/ legal right to demand compensation",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"resolute",
-		  "meaning":"admirably purposeful, determined, and unwavering"
+		  "meaning":"admirably purposeful, determined, and unwavering",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"suspect",
-		  "meaning":"have an idea or impression of the existence, presence, or truth of (something) without certain proof"
+		  "meaning":"have an idea or impression of the existence, presence, or truth of (something) without certain proof",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"tentative",
-		  "meaning":"provisional/ not certain or fixed, hesitant"
+		  "meaning":"provisional/ not certain or fixed, hesitant",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"unalloyed",
@@ -3670,35 +5240,51 @@
 	[
 	   {
 		  "word":"commence",
-		  "meaning":"begin"
+		  "meaning":"begin",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"deprecate",
-		  "meaning":"express disapproval of; frown on; object to"
+		  "meaning":"express disapproval of; frown on; object to",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"disinterested",
-		  "meaning":"unbiased"
+		  "meaning":"unbiased",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"falter",
-		  "meaning":" lose strength or momentum/ move hesitantly"
+		  "meaning":" lose strength or momentum/ move hesitantly",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"grovel",
-		  "meaning":"crawl, behave obsequiously"
+		  "meaning":"crawl, behave obsequiously",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"heady",
-		  "meaning":"intoxicating / having a strong or exhilarating effect"
+		  "meaning":"intoxicating / having a strong or exhilarating effect",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"jocund",
-		  "meaning":"heerful and lighthearted"
+		  "meaning":"heerful and lighthearted",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"supplant",
-		  "meaning":"supersede - take the place of other"
+		  "meaning":"supersede - take the place of other",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"supple",
@@ -3708,39 +5294,57 @@
 	[
 	   {
 		  "word":"affront",
-		  "meaning":"an action or remark that causes outrage or offense; insult; offense; slight; snub; slur"
+		  "meaning":"an action or remark that causes outrage or offense; insult; offense; slight; snub; slur",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"buttress",
-		  "meaning":"support/ increase the strength of or justification for"
+		  "meaning":"support/ increase the strength of or justification for",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"captious",
-		  "meaning":"tending to find fault or raise petty objections"
+		  "meaning":"tending to find fault or raise petty objections",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"chastise",
-		  "meaning":"rebuke or reprimand severely, punish"
+		  "meaning":"rebuke or reprimand severely, punish",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"exigent",
-		  "meaning":"pressing, demanding"
+		  "meaning":"pressing, demanding",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"feint",
-		  "meaning":"bluff, ruse, expedient"
+		  "meaning":"bluff, ruse, expedient",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"fraught",
-		  "meaning":"(fraught with) (of a situation or course of action) filled with or likely to result in (something undesirable); causing or affected by anxiety or stress"
+		  "meaning":"(fraught with) (of a situation or course of action) filled with or likely to result in (something undesirable); causing or affected by anxiety or stress",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"lampoon",
-		  "meaning":"publicly criticize someone by using ridicule, irony or sarcasm"
+		  "meaning":"publicly criticize someone by using ridicule, irony or sarcasm",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"neutralize",
-		  "meaning":"counteract, offset, counterbalance"
+		  "meaning":"counteract, offset, counterbalance",
+		  "example": [""],
+		  "image":""
 	   },
 	   {
 		  "word":"valor",
