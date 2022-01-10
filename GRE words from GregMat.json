@@ -3,60 +3,72 @@
 	   {
 		  "word":"abate",
 		  "meaning":"become less intense or widespread, remove or reduce law",
+		  "synonyms": ["subside", "lessen", "decrease", "lessen", "diminish", "reduce", "ease"],
 		  "example": ["The storm suddenly abated", "This action would not have been sufficient to abate the odour nuisance"],
 		  "image":"https://dailyvocab.com/wp-content/uploads/2013/09/Abate.webp"
 	   },
 	   {
 		  "word":"abound",
 		  "meaning":"large numbers or amounts",
-		  "example": [""],
+		  "synonyms": ["proliferate", "be full of"],
+		  "example": ["rumours of a further scandal abound", "this area abounds with caravan sites"],
 		  "image":""
 	   },
 	   {
 		  "word":"abstain",
-		  "meaning":"restrain oneself from doing",
-		  "example": [""],
+		  "meaning":"restrain oneself from doing or enjoying something",
+		  "synonyms": ["decline/refuse to vote", "sit on the fence"],
+		  "example": ["forty-one voted with the Opposition, and some sixty more abstained"],
 		  "image":""
 	   },
 	   {
 		  "word":"accentuate",
 		  "meaning":"make more noticeable or prominent",
-		  "example": [""],
+		  "example": ["his jacket unfortunately accentuated his paunch"],
+		  "synonyms": ["point up", "underline"],
 		  "image":""
 	   },
 	   {
 		  "word":"acumen",
 		  "meaning":"the ability to make good judgments and take quick decisions",
-		  "example": [""],
+		  "example": ["she hides a shrewd business acumen"],
+		  "synonyms":["awareness", "shrewdness", "acuity", "sharpness"],
 		  "image":""
 	   },
 	   {
 		  "word":"admonish",
-		  "meaning":"warn or reprimand someone firmly",
-		  "example": [""],
+		  "meaning":"warn or reprimand someone firmly, warn (someone) of something to be avoided",
+		  "example": ["she admonished him to drink no more than one glass of wine"],
+		  "synonyms":["advise", "recommend" ,"urge" ,"caution" ,"warn" ,"counsel" ,"exhort" ,"implore" ,"beseech" ,"entreat" ,"encourage" ,"bid" ,"enjoin" ,"adjure" ,"push" ,"pressure"],
 		  "image":""
 	   },
 	   {
 		  "word":"adulterate",
 		  "meaning":"render poorer in quality by adding another substance",
-		  "example": [""],
+		  "example": ["the brewer is said to adulterate his beer"],
+		  "synonyms":["make impure" ,"degrade" ,"debase" ,"spoil" ,"taint" ,"defile" ,"contaminate" ,"pollute" ,"foul" ,"sully" ,"doctor" ,"tamper with" ,"mix" ,"lace" ,"dilute" ,"water down" ,"thin out" ,"weaken" ,"bastardize" ,"corrupt" ,"cut" ,"spike" ,"dope"],
 		  "image":""
 	   },
 	   {
 		  "word":"aloof",
 		  "meaning":"not friendly, distant, detached",
-		  "example": [""],
+		  "example": ["they were courteous but faintly aloof"],
+		  "synonyms":["distant" ,"detached" ,"unresponsive" ,"remote" ,"unapproachable" ,"forbidding" ,"stand-offish" ,"formal" ,"impersonal" ,"stiff" ,"austere" ,"stuffy" ,"withdrawn" ,"reserved" ,"unforthcoming" ,"uncommunicative" ,"indifferent" ,"unfriendly" ,"unsympathetic" ,"unsociable" ,"antisocial" ,"cool" ,"cold" ,"chilly" ,"frigid" ,"frosty" ,"haughty" ,"supercilious" ,"disdainful"],
 		  "image":""
 	   },
 	   {
 		  "word":"appease",
 		  "meaning":"pacify or placate, assuage or satisfy",
-		  "example": [""],
+		  "example": ["amendments have been added to appease local pressure groups", "we give to charity because it appeases our guilt"],
+		  "synonyms":["satisfy" ,"fulfil" ,"gratify" ,"meet" ,"fill" ,"serve", "conciliate", "placate", "pacify", "make peace with", "propitiate", "palliate"],
 		  "image":""
 	   },
 	   {
 		  "word":"boorish",
-		  "meaning":"rough and bad-mannered, coarse"
+		  "meaning":"rough and bad-mannered, coarse",
+		  "example":["Chewing open mouthed while talking at the dinner table is an example of boorish"],
+		  "synonyms":["coarse" ,"uncouth" ,"rude" ,"discourteous" ,"impolite" ,"ungentlemanly"],
+		  "image": ""
 	   }
 	],
 	[
