@@ -75,60 +75,72 @@
 	   {
 		  "word":"abjure",
 		  "meaning":"solemnly renounce (a belief, cause or claim)",
-		  "example": [""],
+		  "example": ["MPs were urged to abjure their Jacobite allegiance"],
+		  "synonyms":[ "renounce" ,"relinquish" ,"reject" ,"dispense with" ,"forgo" ,"forswear" ,"disavow" ,"abandon" ,"deny" ,"gainsay" ,"disclaim" ,"repudiate" ,"give up" ,"spurn" ,"abnegate" ,"wash one's hands of" ,"drop" ,"do away with" ,"eschew" ,"abstain from" ,"refrain from" ,"kick" ,"jack in" ,"pack in" ,"disaffirm" ,"forsake"],
 		  "image":""
 	   },
 	   {
 		  "word":"advocate",
 		  "meaning":"publicly recommend or support",
-		  "example": [""],
+		  "example": ["he was an untiring advocate of economic reform", "voters supported candidates who advocated an Assembly"],
+		  "synonyms":[ "recommend" ,"prescribe" ,"commend" ,"advise" ,"favour" ,"support" ,"back" ,"uphold" ,"stand up for" ,"speak for" ,"argue for" ,"plead for" ,"press for" ,"lobby for" ,"urge" ,"promote" ,"espouse" ,"endorse" ,"sanction" ,"vouch for" ,"plug" ,"push"],
 		  "image":""
 	   },
 	   {
 		  "word":"aesthetic",
 		  "meaning":"concerned with beauty",
-		  "example": [""],
+		  "example": ["the pictures give great aesthetic pleasure", "the law applies to both functional and aesthetic objects"],
+		  "synonyms":[ "decorative" ,"ornamental"  ,"graceful" ,"elegant" ,"exquisite" ,"beautiful" ,"attractive" ,"pleasing" ,"lovely" ,"stylish" ,"artistic" ,"tasteful" ,"in good taste"],
 		  "image":""
 	   },
 	   {
 		  "word":"amorphous",
 		  "meaning":"without a clearly defined shape or form",
-		  "example": [""],
+		  "example": ["an amorphous, characterless conurbation", "an amorphous and leaderless legislature"],
+		  "synonyms":[ "shapeless" ,"formless" ,"unformed" ,"unshaped" ,"structureless" ,"unstructured" ,"indeterminate" ,"indefinite" ,"vague" ,"nebulous"],
 		  "image":""
 	   },
 	   {
 		  "word":"antithesis",
 		  "meaning":"contrast or opposition between two things",
-		  "example": [""],
+		  "example": ["love is the antithesis of selfishness"],
+		  "synonyms":[ "converse" ,"reverse" ,"reversal" ,"inverse" ,"obverse" ,"the other extreme" ,"the other side of the coin" ,"the flip side"],
 		  "image":""
 	   },
 	   {
 		  "word":"approbation",
 		  "meaning":"approval or praise",
-		  "example": [""],
+		  "example": ["a term of approbation"],
+		  "synonyms":[ "approval" ,"acceptance" ,"assent" ,"endorsement" ,"encouragement" ,"recognition" ,"appreciation" ,"support" ,"respect" ,"admiration" ,"commendation" ,"congratulations" ,"praise" ,"acclamation" ,"adulation" ,"regard" ,"esteem" ,"veneration" ,"kudos" ,"applause" ,"ovation" ,"accolades" ,"salutes" ,"plaudits" ,"laudation"],
 		  "image":""
 	   },
 	   {
 		  "word":"arbitrary",
 		  "meaning":"based on random choice/ unrestrained and autocratic in the use of authority",
-		  "example": [""],
+		  "example": ["an arbitrary decision"],
+		  "synonyms":[ "capricious" ,"whimsical" ,"random" ,"chance" ,"erratic" ,"unpredictable" ,"inconsistent" ,"wild" ,"hit-or-miss" ,"haphazard" ,"casual" ,"unmotivated" ,"unreasoned" ,"unreasonable" ,"unsupported" ,"irrational" ,"illogical" ,"groundless" ,"unjustifiable" ,"unjustified" ,"wanton" ,"discretionary" ,"personal" ,"subjective" ,"discretional"],
 		  "image":""
 	   },
 	   {
 		  "word":"brook",
-		  "meaning":"tolerate",
-		  "example": [""],
+		  "meaning":"to not allow or accept something",
+		  "example": ["i could hear the sound of a babbling brook", "she won't brook any criticism of her work"],
+		  "synonyms":[ "suffer" ,"tolerate"],
 		  "image":""
 	   },
 	   {
 		  "word":"clangor",
 		  "meaning":"a continuously loud banging or ringing sound",
-		  "example": [""],
+		  "example": ["he went deaf because of the clangour of the steam hammers"],
+		  "synonyms":["clang", "clank", "clash", "crash"],
 		  "image":""
 	   },
 	   {
 		  "word":"conjectural",
-		  "meaning":"based on or involving conjecture, speculative"
+		  "meaning":"based on or involving conjecture, speculative",
+		  "example":["the evidence was deemed too conjectural", "his conclusions are only conjectural"],
+		  "synonyms":[ "speculative" ,"suppositional" ,"theoretical" ,"hypothetical" ,"putative" ,"academic" ,"notional" ,"abstract" ,"postulated" ,"based on guesswork" ,"inferred" ,"suspected" ,"presumed" ,"assumed" ,"presupposed" ,"tentative" ,"unproven" ,"untested" ,"unfounded" ,"groundless" ,"unsubstantiated" ,"ideational" ,"suppositious"],
+		  "image":""
 	   }
 	],
 	[
