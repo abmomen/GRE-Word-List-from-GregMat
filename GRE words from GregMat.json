@@ -146,38 +146,44 @@
 	[
 	   {
 		  "word":"affectation",
-		  "meaning":"pretension, facade",
-		  "example": [""],
+		  "meaning":"behaviour, speech, or writing that is pretentious and designed to impress",
+		  "example": ["the affectation of a man who measures every word for effect"],
+		  "synonyms":["pretension", "facade" ,"affectedness" ,"artificiality" ,"insincerity" ,"posturing" ,"posing" ,"pretence" ,"ostentation" ,"grandiosity" ,"snobbery"],
 		  "image":""
 	   },
 	   {
 		  "word":"aggrandize",
 		  "meaning":"increase power, status, reputation of someone",
-		  "example": [""],
+		  "example": ["he hoped to aggrandize himself by dying a hero's death"],
+		  "synonyms":["enlarge", "augment", "intensify", "boost", "dignify", "dilate", "dramatize", "broaden", "applaud", "glorify and extend"],
 		  "image":""
 	   },
 	   {
 		  "word":"anomalous",
 		  "meaning":"deviating from what is standard",
-		  "example": [""],
+		  "example": ["an anomalous situation"],
+		  "synonyms":[ "abnormal" ,"atypical" ,"non-typical" ,"irregular" ,"aberrant" ,"exceptional" ,"freak" ,"freakish" ,"odd" ,"bizarre" ,"peculiar" ,"unusual" ,"out of the ordinary" ,"inconsistent" ,"incongruous" ,"deviant" ,"deviating" ,"divergent" ,"eccentric" ,"rare" ,"singular" ,"backasswards"],
 		  "image":""
 	   },
 	   {
 		  "word":"archaic",
 		  "meaning":"very old or old-fashioned",
-		  "example": [""],
+		  "example": ["prisons are run on archaic methods", "the archaic temple at Corinth"],
+		  "synonyms":["obsolete", "obsolescent", "out of date", "anachronistic", "old-fashioned", "outmoded", "behind the times", "bygone", "antiquated", "antique", "superannuated", "antediluvian", "olde worlde", "old-fangled", "ancient", "very old", "aged", "prehistoric", "primitive", "of yore", "extinct", "defunct", "discontinued", "discarded", "fossilized", "dead", "old hat", "out of the ark", "antwacky"],
 		  "image":""
 	   },
 	   {
 		  "word":"ascribe",
-		  "meaning":"regard text, quotation or work/ regard a quality as belonging to",
-		  "example": [""],
+		  "meaning":"regard text, quotation or work / regard a quality as belonging to",
+		  "example": ["he ascribed Jane's short temper to her upset stomach"],
+		  "synonyms":["attribute", "assign", "put down", "set down", "accredit", "credit"],
 		  "image":""
 	   },
 	   {
 		  "word":"austere",
 		  "meaning":"severe or strict in manner or attitude. or severe self-discipline or ascetic",
-		  "example": [""],
+		  "example": ["he was an austere man, with a rigidly puritanical outlook"],
+		  "synonyms":["severe", "stern", "strict", "harsh", "unfeeling", "stony", "steely", "flinty"],
 		  "image":""
 	   },
 	   {
