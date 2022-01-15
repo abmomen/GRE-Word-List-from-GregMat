@@ -499,19 +499,22 @@
 	   {
 		  "word":"anachronistic",
 		  "meaning":"belonging to a period other than that being portrayed conspicuously old-fashioned",
-		  "example": [""],
+		  "example": ["she is rebelling against the anachronistic morality of her parents"],
+		  "synonyms":["antiquated", "archaic", "out-of-date", "outmoded", "ancient"],
 		  "image":""
 	   },
 	   {
 		  "word":"ascetic",
-		  "meaning":"severe self-discipline, austere",
-		  "example": [""],
+		  "meaning":"characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons",
+		  "example": ["an ascetic life of prayer, fasting, and manual labour"],
+		  "synonyms":["austere", "self-denying", "abstinent", "abstemious"],
 		  "image":""
 	   },
 	   {
 		  "word":"connoisseur",
 		  "meaning":"an expert judge in matters of taste",
-		  "example": [""],
+		  "example": ["a connoisseur of music"],
+		  "synonyms":["aesthete", "gourmet", "epicure", "gastronome", "buff", "maven"],
 		  "image":""
 	   },
 	   {
