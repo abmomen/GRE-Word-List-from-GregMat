@@ -188,259 +188,311 @@
 	   },
 	   {
 		  "word":"cherish",
-		  "meaning":"protect and care for lovingly",
-		  "example": [""],
+		  "meaning":"protect and care for lovingly, hold (something) dear",
+		  "example": ["he needed a woman he could cherish", "i cherish the letters she wrote"],
+		  "synonyms":["adore", "love", "dote on", "be devoted to", "revere", "esteem", "admire", "appreciate", "think the world of", "set great store by", "look after", "tend", "protect", "preserve", "shelter", "keep safe", "support", "nurture", "cosset", "indulge", "put on a pedestal"],
 		  "image":""
 	   },
 	   {
 		  "word":"circumspect",
 		  "meaning":"wary, cautious",
-		  "example": [""],
+		  "example": ["the officials were very circumspect in their statements"],
+		  "synonyms":["cautious", "wary", "careful", "chary", "guarded", "on one's guard", "discreet", "watchful", "alert", "attentive", "heedful", "vigilant", "observant", "prudent", "judicious", "canny", "politic", "softly-softly", "cagey", "leery"],
 		  "image":""
 	   },
 	   {
 		  "word":"conventional",
 		  "meaning":"following traditional forms and genres",
-		  "example": [""],
+		  "example": ["a conventional morality had dictated behaviour"],
+		  "synonyms":["normal", "standard", "regular", "ordinary", "usual", "traditional", "typical", "common", "common or garden", "garden variety", "run-of-the-mill", "prosaic", "pedestrian", "commonplace", "unimaginative", "uninspired", "uninspiring", "unadventurous", "unremarkable", "unexceptional", "unoriginal", "derivative", "formulaic", "predictable", "stereotypical", "stereotyped", "trite", "platitudinous", "old hat", "plain vanilla", "hacky"],
 		  "image":""
 	   },
 	   {
 		  "word":"convivial",
-		  "meaning":"friendly, lively and enjoyable"
+		  "meaning":"friendly, lively and enjoyable",
+		  "example":["a convivial cocktail party"],
+		  "synonyms":["friendly", "genial", "affable", "amiable", "congenial", "agreeable", "good-humoured", "cordial", "warm", "sociable", "outgoing", "gregarious", "clubbable", "companionable", "hail-fellow-well-met", "cheerful", "jolly", "jovial", "merry", "lively", "enjoyable", "festive", "couthy", "backslapping", "chummy", "pally", "matey", "clubby", "buddy-buddy", "conversable"],
+		  "image": ""
 	   }
 	],
 	[
 	   {
 		  "word":"alacrity",
 		  "meaning":"brisk and cheerful readiness",
-		  "example": [""],
+		  "example": ["she accepted the invitation with alacrity"],
+		  "synonyms":["eagerness", "willingness", "readiness", "enthusiasm", "ardour", "fervour", "keenness", "joyousness", "liveliness", "zeal", "promptness", "haste", "briskness", "swiftness", "dispatch", "speed", "address"],
 		  "image":""
 	   },
 	   {
 		  "word":"alleviate",
 		  "meaning":"make suffering less severe",
-		  "example": [""],
+		  "example": ["he couldn't prevent her pain, only alleviate it"],
+		  "synonyms":["reduce", "ease", "relieve", "take the edge off", "deaden", "dull", "diminish", "lessen", "weaken", "lighten", "attenuate", "allay", "assuage", "palliate", "damp", "soothe", "help", "soften", "temper", "control", "still", "quell", "tone down", "blunt", "dilute", "moderate", "mitigate", "modify", "abate", "lull", "pacify", "placate", "mollify", "sweeten", "quieten", "quiet", "extenuate"],
 		  "image":""
 	   },
 	   {
-		  "word":"antipathy ",
-		  "meaning":"a deep-seated feeling of aversion",
-		  "example": [""],
+		  "word":"antipathy",
+		  "meaning":"a deep-seated feeling of aversion, Antipathy is a dislike for something or somebody, the opposite of sympathy.",
+		  "example": ["his fundamental antipathy to capitalism"],
+		  "synonyms":["hostility", "antagonism", "animosity", "aversion", "animus", "opposition", "enmity", "dislike", "distaste", "ill will", "ill feeling", "hatred", "hate", "abhorrence", "loathing", "repugnance", "odium", "grudge", "allergy", "disrelish"],
 		  "image":""
 	   },
 	   {
 		  "word":"befuddled",
 		  "meaning":"unable to think clearly",
-		  "example": [""],
+		  "example": ["I'm so tired, my poor befuddled brain can't absorb any more.", "even in my befuddled state I could see that they meant trouble"],
+		  "synonyms":["disorientation", "disorganized", "alphabet soup", "mysteriously", "unexplained", "a chicken and egg situation (idiom)"],
 		  "image":""
 	   },
 	   {
 		  "word":"clamorous",
-		  "meaning":"making loud and confused noise/expressing or characterized by vehement protects or demands",
-		  "example": [""],
+		  "meaning":"making loud and confused noise, expressing or characterized by vehement protects or demands",
+		  "example": ["a jostling, clamorous mob"],
+		  "synonyms":["noisy", "loud", "vocal", "vociferous", "raucous", "rowdy"],
 		  "image":""
 	   },
 	   {
 		  "word":"comity",
-		  "meaning":"an association of nations for their mutual benefit/ considerate behavior towards others",
-		  "example": [""],
+		  "meaning":"an association of nations for their mutual benefit, considerate behavior towards others",
+		  "example": ["a show of public comity in the White House", "In law, comity is a practice among different political entities involving the mutual recognition of legislative, executive, and judicial acts"],
+		  "synonyms":["courtesy", "civility", "amenity", "politeness", "suavity", "urbanity", "affability", "good breeding", "good manners"],
 		  "image":""
 	   },
 	   {
 		  "word":"corroborate",
 		  "meaning":"confirm or give support to a statement, theory or finding",
-		  "example": [""],
+		  "example": ["the witness had corroborated the boy's account of the attack"],
+		  "synonyms":["confirm", "verify", "endorse", "ratify", "authenticate", "validate", "certify", "support", "back up", "back", "uphold", "stand by", "bear out", "bear witness to"],
 		  "image":""
 	   },
 	   {
 		  "word":"debunk",
 		  "meaning":"expose the falseness or hollowness of an idea or belief",
-		  "example": [""],
+		  "example": ["she debunks all the usual rubbish about acting"],
+		  "synonyms":["explode", "deflate", "puncture", "quash", "knock the bottom out of", "expose"],
 		  "image":""
 	   },
 	   {
 		  "word":"decadent",
-		  "meaning":"characterized by a state of moral or cultural decline, person who is luxuriously self-indulgent"
+		  "meaning":"characterized by a state of moral or cultural decline, person who is luxuriously self-indulgent, The word decadence, which at first meant simply decline in an abstract sense, is now most often used to refer to a perceived decay in standards, morals, dignity, religious faith, honor, discipline",
+		  "example":["a decaying, decadent Britain", "for half a million dollars, he offers rich decadents the chance to lead a deadly safari"],
+		  "synonyms":["dissolute", "dissipated", "degenerate", "corrupt", "depraved", "louche"],
+		  "image":""
 	   }
 	],
 	[
 	   {
 		  "word":"ambivalent",
 		  "meaning":"having mixed feelings or contradictory ideas",
-		  "example": [""],
+		  "example": ["some loved her, some hated her, few were ambivalent about her"],
+		  "synonyms":["equivocal", "uncertain", "unsure", "doubtful", "indecisive", "inconclusive", "irresolute", "in two minds", "undecided", "unresolved", "in a dilemma", "on the horns of a dilemma", "in a quandary", "on the fence", "torn", "hesitating", "fluctuating", "wavering", "vacillating", "equivocating", "mixed", "opposing", "conflicting", "contradictory", "clashing", "confused", "muddled", "vague", "hazy", "unclear", "iffy", "blowing hot and cold"],
 		  "image":""
 	   },
 	   {
 		  "word":"analogous",
-		  "meaning":"comparable in certain respects",
-		  "example": [""],
+		  "meaning":"comparable in certain respects, typically in a way which makes clearer the nature of the things compared",
+		  "example": ["they saw the relationship between a ruler and his subjects as analogous to that of father and children"],
+		  "synonyms":["comparable", "parallel", "similar", "like", "corresponding", "related", "kindred", "matching", "cognate", "equivalent", "symmetrical", "homologous"], 
 		  "image":""
 	   },
 	   {
 		  "word":"arcane",
 		  "meaning":"understood by few, mysterious or secret",
-		  "example": [""],
+		  "example": ["arcane procedures for electing people"],
+		  "synonyms":["mysterious", "secret", "hidden", "concealed", "covert", "clandestine", "enigmatic", "dark", "esoteric", "obscure", "abstruse", "recondite", "little known", "inscrutable", "impenetrable", "opaque", "incomprehensible", "cryptic"],
 		  "image":""
 	   },
 	   {
 		  "word":"capricious",
-		  "meaning":"sudden change of mood, unpredictable, fickle",
-		  "example": [""],
+		  "meaning":"given to sudden and unaccountable changes of mood or behaviour",
+		  "example": ["it's terrible to feel our livelihood hinges on a capricious boss"],
+		  "synonyms":["fickle", "inconstant", "changeable", "variable", "unstable", "mercurial", "volatile", "erratic", "vacillating", "irregular", "inconsistent", "fitful", "arbitrary", "impulsive", "temperamental", "wild", "ungovernable", "whimsical", "fanciful", "flighty", "wayward", "quirky", "faddish", "freakish", "unpredictable", "random", "chance", "haphazard"],
 		  "image":""
 	   },
 	   {
 		  "word":"commensurate",
 		  "meaning":"corresponding in size or degree, in proportion",
-		  "example": [""],
+		  "example": ["salary will be commensurate with age and experience"],
+		  "synonyms":["equivalent", "equal", "corresponding", "correspondent", "comparable", "proportionate", "proportional"],
 		  "image":""
 	   },
 	   {
 		  "word":"dearth",
 		  "meaning":"a scarcity or lack of something",
-		  "example": [""],
+		  "example": ["there is a dearth of evidence"],
+		  "synonyms":["lack", "scarcity", "shortage", "shortfall", "want", "deficiency", "insufficiency", "inadequacy", "paucity"],
 		  "image":""
 	   },
 	   {
 		  "word":"diminutive",
 		  "meaning":"extremely or unusually small",
-		  "example": [""],
+		  "example": ["a diminutive figure dressed in black"],
+		  "synonyms":["tiny", "small", "little", "petite", "minute", "miniature", "mini", "minuscule"],
 		  "image":""
 	   },
 	   {
 		  "word":"disparate",
 		  "meaning":"essentially different in kind, notable to be compared, containing elements very different from one another",
-		  "example": [""],
+		  "example": ["they inhabit disparate worlds of thought"],
+		  "synonyms":["contrasting", "different", "differing", "dissimilar", "unlike", "unalike"],
 		  "image":""
 	   },
 	   {
 		  "word":"egregious",
 		  "meaning":"outstandingly bad, shocking",
-		  "example": [""],
+		  "example": ["egregious abuses of copyright"],
+		  "synonyms":["shocking", "appalling", "horrific", "horrifying", "horrible", "terrible", "awful"],
 		  "image":""
 	   },
 	   {
 		  "word":"eschew",
-		  "meaning":"deliberately avoid using; abstain from"
+		  "meaning":"deliberately avoid using; abstain from",
+		  "example":["he appealed to the crowd to eschew violence"],
+		  "synonyms":["give up", "forgo", "forswear", "shun", "renounce", "swear off", "abjure", "steer clear of", "have nothing to do with", "give a wide berth to", "fight shy of", "relinquish", "reject", "disavow", "abandon", "deny", "gainsay", "disclaim", "repudiate", "abnegate", "abdicate", "wash one's hands of", "drop", "kick", "jack in", "pack in", "disaffirm", "forsake"]
 	   }
 	],
 	[
 	   {
 		  "word":"ameliorate",
-		  "meaning":"make something bad better",
-		  "example": [""],
+		  "meaning":"make (something bad or unsatisfactory) better",
+		  "example": ["the reform did much to ameliorate living standards"],
+		  "synonyms":["improve", "enhance", "help", "benefit", "boost", "raise", "amend", "refine", "reform", "relieve", "ease", "mitigate", "retrieve", "rectify", "correct", "right", "put right", "put to rights", "sort out", "clear up", "remedy", "repair", "fix", "cure", "heal", "mend", "make good", "resolve", "settle", "redress", "square", "tweak"],
 		  "image":""
 	   },
 	   {
 		  "word":"arduous",
 		  "meaning":"involving or requiring strenuous effort, tiring",
-		  "example": [""],
+		  "example": ["an arduous journey"],
+		  "synonyms":["onerous", "taxing", "difficult", "hard", "heavy", "laborious", "burdensome", "strenuous", "vigorous", "back-breaking", "stiff", "uphill", "relentless", "Herculean", "demanding", "trying", "tough", "challenging", "formidable", "exacting", "exhausting", "wearying", "fatiguing", "tiring", "punishing", "gruelling", "grinding", "intolerable", "unbearable", "murderous", "harrowing", "killing", "no picnic", "knackering", "toilsome", "exigent"],
 		  "image":""
 	   },
 	   {
 		  "word":"bolster",
-		  "meaning":"support or strength",
-		  "example": [""],
+		  "meaning":"support or strength, a long thick pillow that is placed under other pillows for support",
+		  "example": ["the fall in interest rates is starting to bolster confidence", "they bolstered the seats for a more comfortable ride"],
+		  "synonyms":["pillow","cushion","pad","support","rest","strengthen","support","reinforce"], 
 		  "image":""
 	   },
 	   {
 		  "word":"cerebral",
 		  "meaning":"of the cerebrum of the brain, intellectual rather than physical",
-		  "example": [""],
+		  "example": ["a cerebral haemorrhage"],
+		  "synonyms":["analytical", "intelligent", "intellectual", "brainy", "deep", "erudite", "recondite", "scholarly"],
 		  "image":""
 	   },
 	   {
 		  "word":"cordial",
 		  "meaning":"warm and friendly",
-		  "example": [""],
+		  "example": ["the atmosphere was cordial and relaxed"],
+		  "synonyms":["friendly", "warm", "genial", "affable", "amiable", "pleasant", "fond", "affectionate", "warm-hearted", "good-natured", "gracious", "hospitable", "welcoming", "sincere", "earnest", "wholehearted", "heartfelt", "hearty", "enthusiastic", "eager"],
 		  "image":""
 	   },
 	   {
 		  "word":"discernible",
-		  "meaning":"able to be discerned, perceptible, visible, noticeable",
-		  "example": [""],
+		  "meaning":"able to be discerned",
+		  "example": ["the scandal had no discernible effect on his career"],
+		  "synonyms":["visible", "detectable", "noticeable", "perceptible", "observable"],
 		  "image":""
 	   },
 	   {
 		  "word":"emulate",
-		  "meaning":"match or surpass a person or achievement, typically by imitation",
-		  "example": [""],
+		  "meaning":"match or surpass (a person or achievement) typically by imitation",
+		  "example": ["most rulers wished to emulate Alexander the Great"],
+		  "synonyms":["imitate", "copy", "reproduce", "mimic", "mirror", "echo", "follow"],
 		  "image":""
 	   },
 	   {
 		  "word":"esoteric",
-		  "meaning":"likely to be understood by only a small number of people/ abstruse/ arcane/ obscure",
-		  "example": [""],
+		  "meaning":"intended for or likely to be understood by only a small number of people with a specialized knowledge or interest",
+		  "example": ["esoteric philosophical debates"],
+		  "synonyms":["abstruse", "obscure", "arcane", "rarefied", "recondite", "abstract"],
 		  "image":""
 	   },
 	   {
 		  "word":"evanescent",
 		  "meaning":"soon passing out of sight, memory or existence, quickly fading or disappearing",
-		  "example": [""],
+		  "example": ["the evanescent Arctic summer"],
+		  "synonyms":["vanishing", "fading", "evaporating", "melting away", "disappearing", "diminishing", "dwindling", "shrinking", "fugitive", "fugacious", "ephemeral", "fleeting", "short-lived", "short-term", "passing", "transitory", "transient", "momentary", "temporary", "brief"],
 		  "image":""
 	   },
 	   {
 		  "word":"explicable",
-		  "meaning":"able to be accounted for or understood, explainable"
+		  "meaning":"able to be accounted for or understood, explainable",
+		  "example":["differences in schools were not explicable in terms of differences in intake"],
+		  "synonyms":["definable", "understandable", "comprehensible", "accountable", "intelligible", "exponible"],
+		  "image":""
 	   }
 	],
 	[
 	   {
 		  "word":"amenable",
-		  "meaning":"open to suggestions, easily persuaded, susceptible",
-		  "example": [""],
+		  "meaning":"open to suggestions, easily persuaded. capable of being acted upon in a particular way susceptible",
+		  "example": ["parents who have amenable children", "cardiac failure not amenable to medical treatment"],
+		  "synonyms":["compliant", "acquiescent", "biddable", "manageable", "controllable", "governable", "persuadable", "tractable", "responsive", "pliant", "flexible", "malleable", "complaisant", "accommodating", "docile", "submissive", "obedient"],
 		  "image":""
 	   },
 	   {
 		  "word":"artless",
-		  "meaning":"without deception, effort or pretentiousness, natural",
-		  "example": [""],
+		  "meaning":"without guile or deception. without skill or finesse.",
+		  "example": ["an artless, naive girl", "her awkward, artless prose"],
+		  "synonyms":["natural", "naive", "simple", "innocent", "childlike", "pure", "ingenuous"],
 		  "image":""
 	   },
 	   {
 		  "word":"chauvinistic",
 		  "meaning":"displaying aggressive patriotism, displaying excessive support for their own cause, group or sex",
-		  "example": [""],
+		  "example": ["a chauvinist rejection of foreign interference"],
+		  "synonyms":["jingoistic", "chauvinistic"],
 		  "image":""
 	   },
 	   {
 		  "word":"congenial",
 		  "meaning":"pleasant or agreeable because suited to one's taste",
-		  "example": [""],
+		  "example": ["he went back to a climate more congenial to his cold stony soul", "his need for some congenial company"],
+		  "synonyms":["pleasant", "pleasing", "to one's liking", "agreeable", "enjoyable", "pleasurable", "nice", "appealing", "engaging", "satisfying", "gratifying", "fine", "charming", "delightful", "relaxing", "snug", "welcome", "welcoming", "hospitable", "suitable"],
 		  "image":""
 	   },
 	   {
 		  "word":"deleterious",
-		  "meaning":"causing harm",
-		  "example": [""],
+		  "meaning":"causing harm or damage",
+		  "example": ["divorce is assumed to have deleterious effects on children"],
+		  "synonyms":["harmful", "damaging", "detrimental", "injurious", "inimical", "hurtful", "bad"],
 		  "image":""
 	   },
 	   {
 		  "word":"enervate",
 		  "meaning":"make someone feel drained of energy, lacking in energy",
-		  "example": [""],
+		  "example": ["the heat enervated us all"],
+		  "synonyms":["exhaust", "tire", "fatigue", "weary", "wear out", "devitalize", "drain", "sap", "weaken"],
 		  "image":""
 	   },
 	   {
 		  "word":"enigmatic",
 		  "meaning":"difficult to understand, mysterious",
-		  "example": [""],
+		  "example": ["he took the money with an enigmatic smile"],
+		  "synonyms":[ "mysterious", "puzzling", "hard to understand", "mystifying", "inexplicable", "baffling", "perplexing", "bewildering", "confusing", "impenetrable", "inscrutable", "incomprehensible", "unexplainable", "unfathomable", "indecipherable", "Delphic", "oracular", "ambiguous", "equivocal", "paradoxical", "sibylline", "unaccountable", "insoluble", "obscure", "elliptical", "oblique", "arcane", "abstruse", "recondite", "secret", "esoteric", "occult", "cryptic", "as clear as mud"],
 		  "image":""
 	   },
 	   {
 		  "word":"evasive",
 		  "meaning":"tending to avoid commitment or self-revelation",
-		  "example": [""],
+		  "example": ["she was evasive about her phone number"],
+		  "synonyms":["prevaricating", "elusive", "ambiguous", "equivocal", "equivocating", "indefinite"],
 		  "image":""
 	   },
 	   {
 		  "word":"flamboyant",
 		  "meaning":"(of a person or their behaviour) tending to attract attention because of their exuberance, confidence, and stylishness or confidence of style or manner",
-		  "example": [""],
+		  "example": ["the band's flamboyant lead singer"],
+		  "synonyms":["ostentatious", "exuberant", "confident", "lively", "buoyant", "animated"],
 		  "image":""
 	   },
 	   {
 		  "word":"hyperbole",
-		  "meaning":"exaggerated statements or claims not meant to be taken literally"
+		  "meaning":"exaggerated statements or claims not meant to be taken literally",
+		  "example":["he vowed revenge with oaths and hyperboles"],
+		  "synonyms":["exaggeration", "overstatement", "magnification", "amplification", "embroidery"],
+		  "image":""
 	   }
 	],
 	[
