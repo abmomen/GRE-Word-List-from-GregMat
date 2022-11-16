@@ -520,41 +520,48 @@
 	   {
 		  "word":"conspicuous",
 		  "meaning":"clearly visible, attracting notice or attention",
-		  "example": [""],
+		  "example": ["he was very thin, with a conspicuous Adam's apple"],
+		  "synonyms": ["easily seen", "clear", "visible", "clearly visible", "standing out", "noticeable"],
 		  "image":""
 	   },
 	   {
 		  "word":"dichotomy",
 		  "meaning":"a division or contrast between two things that are or are represented as being opposed or entirely different",
-		  "example": [""],
+		  "example": ["a rigid dichotomy between science and mysticism", "repeated branching into two equal parts."],
+		  "synonyms": ["division", "separation", "divorce", "split", "gulf", "chasm", "difference"],
 		  "image":""
 	   },
 	   {
 		  "word":"ephemeral",
 		  "meaning":"lasting for a very short time",
-		  "example": [""],
+		  "example": ["fashions are ephemeral: new ones regularly drive out the old"],
+		  "synonyms":[ "transitory", "transient", "fleeting", "passing", "short-lived", "momentary", "brief", "short", "cursory", "temporary", "impermanent", "short-term", "fading", "evanescent", "fugitive", "fly-by-night", "fugacious"],
 		  "image":""
 	   },
 	   {
 		  "word":"estranged",
 		  "meaning":"no longer close to someone, alienated",
-		  "example": [""],
+		  "example": ["he became estranged from his father"],
+		  "synonyms":["alienate","antagonize","disaffect"],
 		  "image":""
 	   },
 	   {
 		  "word":"exculpate",
 		  "meaning":"show or declare that someone is not guilty of wrongdoing",
-		  "example": [""],
+		  "example": ["the article exculpated the mayor"],
+		  "synonyms": ["absolve","acquit", "exonerate", "vindicate"],
 		  "image":""
 	   },
 	   {
 		  "word":"forestall",
 		  "meaning":"prevent or obstruct by taking advanced action",
-		  "example": [""],
+		  "example": ["they will present their resignations to forestall a vote of no confidence", "he would have spoken but David forestalled him"],
+		  "synonyms":[ "pre-empt", "get in before", "get ahead of", "steal a march on", "anticipate", "second-guess", "nip in the bud", "thwart", "frustrate", "foil", "stave off"],
 		  "image":""
 	   },
 	   {
 		  "word":"immutable",
+		  "synonyms":["unchangeable","fixed","set","rigid","inflexible","unyielding","unbending","permanent","entrenched","established","well established","unshakeable","irremovable","indelible","ineradicable","unchanging","unchanged","changeless","unvarying","unvaried","undeviating","static","constant","lasting","abiding","enduring","persistent","perpetual"],
 		  "meaning":"unable to be changed"
 	   }
 	],
