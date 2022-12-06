@@ -2101,7 +2101,17 @@
 	  },
 	  {
 		"word": "indefatigable",
-		"meaning": "persisting tireless, tireless, untiring"
+		"meaning": "persisting tireless, tireless, untiring",
+		"examples":[
+			"an indefatigable defender of human rights"
+		],
+		"synonyms":[
+			"tireless",
+			"untiring",
+			"unwearied",
+			"unwearying",
+			"unflagging"
+		]
 	  }
 	],
 	[
@@ -2109,15 +2119,36 @@
 		"word": "avaricious",
 		"meaning": "showing extreme greed for wealth or material gain",
 		"examples": [
-		  ""
+		  "He sacrificed his own career so that his avaricious brother could succeed"
+		],
+		"synonyms":[
+			"grasping",
+			"acquisitive",
+			"covetous",
+			"greedy",
+			"rapacious",
+			"mercenary"
+
 		],
 		"image": ""
 	  },
 	  {
 		"word": "betray",
-		"meaning": "gravely disloyal, unintentionally reveal, be evidence of",
+		"meaning": "expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy",
 		"examples": [
-		  ""
+			"a double agent who betrayed some 400 British and French agents to the Germans"
+		],
+		"synonyms":[
+			"play someone false",
+			"fail",
+			"let down",
+			"double-cross",
+			"deceive",
+			"cheat",
+			"give away",
+			"denounce",
+			"sell out",
+			"stab someone in the back"
 		],
 		"image": ""
 	  },
@@ -2125,7 +2156,14 @@
 		"word": "daunting",
 		"meaning": "difficult to deal with, discourage through fear",
 		"examples": [
-		  ""
+			"a daunting task"
+		],
+		"synonyms":[
+			"intimidating",
+			"formidable",
+			"disconcerting",
+			"unnerving",
+			"unsettling"
 		],
 		"image": ""
 	  },
@@ -2133,7 +2171,15 @@
 		"word": "dogged",
 		"meaning": "showing tenacity and grim persistence",
 		"examples": [
-		  ""
+			"success required dogged determination"
+		],
+		"synonyms":[
+			"tenacious",
+			"determined",
+			"resolute",
+			"resolved",
+			"purposeful",
+			"persistent"
 		],
 		"image": ""
 	  },
@@ -2141,7 +2187,16 @@
 		"word": "elicit",
 		"meaning": "evoke or draw out (a reaction answer) from someone",
 		"examples": [
-		  ""
+			"I tried to elicit a smile from Joanna"
+		],
+		"synonyms":[
+			"obtain",
+			"bring out",
+			"draw out",
+			"extract",
+			"evoke",
+			"bring about",
+			"bring forth"
 		],
 		"image": ""
 	  },
@@ -2149,7 +2204,16 @@
 		"word": "fanciful",
 		"meaning": "over-imaginative, unrealistic, highly ornamental",
 		"examples": [
-		  ""
+			"ever more fanciful proposals were raised"
+		],
+		"synonyms":[
+			"ornate",
+			"exotic",
+			"imaginative",
+			"creative",
+			"fancy",
+			"curious",
+			"odd"
 		],
 		"image": ""
 	  },
@@ -2157,7 +2221,15 @@
 		"word": "fastidious",
 		"meaning": "very attentive and concerned about accuracy and detail",
 		"examples": [
-		  ""
+			"she dressed with fastidious care"
+		],
+		"synonyms":[
+			"scrupulous",
+			"punctilious",
+			"painstaking",
+			"meticulous",
+			"assiduous",
+			"sedulous"
 		],
 		"image": ""
 	  },
@@ -2165,7 +2237,18 @@
 		"word": "galvanize",
 		"meaning": "shock or excite someone into taking action",
 		"examples": [
-		  ""
+			"the urgency of his voice galvanized them into action"
+		],
+		"synonyms":[
+			"jolt",
+			"shock",
+			"startle",
+			"impel",
+			"stir",
+			"spur",
+			"prod",
+			"urge",
+			"motivate"
 		],
 		"image": ""
 	  },
@@ -2173,21 +2256,49 @@
 		"word": "garrulous",
 		"meaning": "excessively talkative, especially on trivial matters",
 		"examples": [
-		  ""
+			"a garrulous cab driver"
+		],
+		"synonyms":[
+			"talkative",
+			"loquacious",
+			"voluble",
+			"verbose",
+			"long-winded",
+			"chatty"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "indolent",
-		"meaning": "lazy, idle/ (of medicine) no or little pain"
+		"meaning": "lazy, idle/ (of medicine) no or little pain",
+		"synonyms":[
+			"lazy",
+			"idle",
+			"slothful",
+			"loafing",
+			"work-shy",
+			"shiftless",
+			"apathetic"
+		],
+		"examples":[
+			"they were indolent and addicted to a life of pleasure"
+		]
 	  }
 	],
 	[
 	  {
 		"word": "banal",
-		"meaning": "lacking in originality as to be obvious and boring",
+		"meaning": "so lacking in originality as to be obvious and boring",
 		"examples": [
-		  ""
+			"songs with banal, repeated words"
+		],
+		"synonyms":[
+			"trite",
+			"hackneyed",
+			"clichéd",
+			"platitudinous",
+			"vapid",
+			"commonplace"
 		],
 		"image": ""
 	  },
@@ -2195,7 +2306,15 @@
 		"word": "bucolic",
 		"meaning": "relating to the pleasant aspects of the countryside",
 		"examples": [
-		  ""
+			"the church is lovely for its bucolic setting"
+		],
+		"synonyms":[
+			"rustic",
+			"rural",
+			"pastoral",
+			"country",
+			"countryside",
+			"agricultural"
 		],
 		"image": ""
 	  },
@@ -2203,7 +2322,13 @@
 		"word": "deify",
 		"meaning": "worship or regard as a god",
 		"examples": [
-		  ""
+			"she was deified by the early Romans as a fertility goddess"
+		],
+		"synonyms" :[
+			"worship",
+			"revere",
+			"venerate",
+			"reverence"
 		],
 		"image": ""
 	  },
@@ -2211,7 +2336,16 @@
 		"word": "dupe",
 		"meaning": "trick, a victim of deception",
 		"examples": [
-		  ""
+			"the newspaper was duped into publishing an untrue story"
+		],
+		"synonyms":[
+			"deceive",
+			"trick",
+			"hoodwink",
+			"hoax",
+			"swindle",
+			"defraud",
+			"cheat"
 		],
 		"image": ""
 	  },
@@ -2219,7 +2353,14 @@
 		"word": "erudite",
 		"meaning": "having or showing great knowledge or learning",
 		"examples": [
-		  ""
+			"Ken could turn any conversation into an erudite discussion"
+		],
+		"synonyms":[
+			"learned",
+			"scholarly",
+			"well educated",
+			"knowledgeable",
+			"well read"
 		],
 		"image": ""
 	  },
@@ -2227,7 +2368,13 @@
 		"word": "feign",
 		"meaning": "pretend to be affected by (a feeling, state or injury)",
 		"examples": [
-		  ""
+			"she feigned nervousness"
+		],
+		"synonyms":[
+			"simulate",
+			"fake",
+			"sham",
+			"affect"
 		],
 		"image": ""
 	  },
