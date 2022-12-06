@@ -1901,7 +1901,17 @@
 		"word": "assuage",
 		"meaning": "satisfy, make an unpleasant feeling less intense",
 		"examples": [
-		  ""
+			"the letter assuaged the fears of most members"
+		],
+		"synonyms": [
+			"relieve",
+			"ease",
+			"alleviate",
+			"soothe",
+			"mitigate",
+			"dampen",
+			"allay",
+			"calm"
 		],
 		"image": ""
 	  },
@@ -1909,7 +1919,16 @@
 		"word": "audacious",
 		"meaning": "willingness to take surprisingly bold risks, showing impudent lack of respect",
 		"examples": [
-		  ""
+			"a series of audacious takeovers"
+		],
+		"synonyms":[
+			"bold",
+			"daring",
+			"fearless",
+			"intrepid",
+			"brave",
+			"unafraid",
+			"unflinching"
 		],
 		"image": ""
 	  },
@@ -1917,7 +1936,33 @@
 		"word": "cursory",
 		"meaning": "hasty and therefore not through or detailed",
 		"examples": [
-		  ""
+			"a cursory glance at the figures"
+		],
+		"synonyms":[
+			"perfunctory",
+			"desultory",
+			"casual",
+			"superficial",
+			"token",
+			"uninterested",
+			"half-hearted",
+			"inattentive",
+			"unthinking",
+			"offhand",
+			"mechanical",
+			"automatic",
+			"routine",
+			"hasty",
+			"quick",
+			"hurried",
+			"rapid",
+			"brief",
+			"passing",
+			"fleeting",
+			"summary",
+			"sketchy",
+			"careless",
+			"slapdash"
 		],
 		"image": ""
 	  },
@@ -1925,7 +1970,21 @@
 		"word": "dissemble",
 		"meaning": "conceal or disguise one's true feelings or beliefs",
 		"examples": [
-		  ""
+			"an honest, sincere person with no need to dissemble"
+		],
+		"synonyms":[
+			"dissimulate",
+			"pretend",
+			"deceive",
+			"feign",
+			"act",
+			"masquerade",
+			"sham",
+			"fake",
+			"bluff",
+			"counterfeit",
+			"pose",
+			"posture"
 		],
 		"image": ""
 	  },
@@ -1933,7 +1992,27 @@
 		"word": "edify",
 		"meaning": "instruct or improve (someone) morally or intellectually",
 		"examples": [
-		  ""
+			"Rachel had edified their childhood with frequent readings from Belloc"
+		],
+		"synonyms":[
+			"educate",
+			"instruct",
+			"teach",
+			"school",
+			"tutor",
+			"coach",
+			"train",
+			"guide",
+			"enlighten",
+			"inform",
+			"cultivate",
+			"develop",
+			"inculcate",
+			"indoctrinate",
+			"improve",
+			"better",
+			"uplift",
+			"elevate"
 		],
 		"image": ""
 	  },
@@ -1941,15 +2020,37 @@
 		"word": "expedite",
 		"meaning": "make (an action) happen sooner or be accomplished more quickly",
 		"examples": [
-		  ""
+			"he promised to expedite economic reforms"
+		],
+		"synonyms":[
+			"speed up",
+			"accelerate",
+			"hurry",
+			"hasten",
+			"step up",
+			"quicken",
+			"precipitate",
+			"rush",
+			"advance",
+			"facilitate",
+			"ease"
+
 		],
 		"image": ""
 	  },
 	  {
 		"word": "extravagant",
-		"meaning": "excessive, elaborate",
+		"meaning": "lacking restraint in spending money or using resources",
 		"examples": [
-		  ""
+			"it was rather extravagant to buy both"
+		],
+		"synonyms":[
+			"spendthrift",
+			"profligate",
+			"unthrifty",
+			"thriftless",
+			"improvident",
+			"wasteful"
 		],
 		"image": ""
 	  },
@@ -1957,7 +2058,15 @@
 		"word": "fervid",
 		"meaning": "intensely enthusiastic or passionate, especially to an excessive degree",
 		"examples": [
-		  ""
+			"his fervid protestations of love"
+		],
+		"synonyms":[
+			"fervent",
+			"ardent",
+			"passionate",
+			"impassioned",
+			"intense",
+			"vehement"
 		],
 		"image": ""
 	  },
@@ -1965,7 +2074,28 @@
 		"word": "gainsay",
 		"meaning": "deny, contradict, speak against or oppose",
 		"examples": [
-		  ""
+			"the impact of the railways cannot be gainsaid"
+		],
+		"synonyms":[
+			"deny",
+			"dispute",
+			"disagree with",
+			"argue with",
+			"dissent from",
+			"contradict",
+			"repudiate",
+			"declare untrue",
+			"challenge",
+			"oppose",
+			"contest",
+			"counter",
+			"fly in the face of",
+			"disprove",
+			"debunk",
+			"explode",
+			"discredit",
+			"refute",
+			"rebut"
 		],
 		"image": ""
 	  },
