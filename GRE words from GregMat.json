@@ -2380,17 +2380,31 @@
 	  },
 	  {
 		"word": "frivolous",
-		"meaning": "carefree, not having any serious purpose",
+		"meaning": "not having any serious purpose or value",
 		"examples": [
-		  ""
+			"frivolous ribbons and lacy frills"
+		],
+		"synonyms":[
+			"flippant",
+			"glib",
+			"waggish",
+			"joking",
+			"jokey",
+			"light-hearted",
+			"facetious"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "incendiary",
-		"meaning": "tending to stir up conflict",
+		"meaning": "tending to stir up conflict, an incendiary bomb or device",
 		"examples": [
-		  ""
+			"the Holy City was blasted by incendiaries"
+		],
+		"synonyms":[
+			"combustible",	
+			"flammable",	
+			"inflammable"
 		],
 		"image": ""
 	  },
@@ -2398,7 +2412,14 @@
 		"word": "indiscriminate",
 		"meaning": "done at random or without careful judgment",
 		"examples": [
-		  ""
+			"the indiscriminate use of antibiotics can cause problems"
+		],
+		"synonyms":[
+			"non-selective",
+			"unselective",
+			"undiscriminating",
+			"uncritical",
+			"aimless"
 		],
 		"image": ""
 	  },
