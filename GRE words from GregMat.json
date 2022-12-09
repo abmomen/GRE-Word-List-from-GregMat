@@ -2444,7 +2444,15 @@
 		"word": "benign",
 		"meaning": "gentle and kind, not harmful to the environment",
 		"examples": [
-		  ""
+			"his benign but firm manner"
+		],
+		"synonyms":[
+			"kindly",
+			"kind",
+			"warm-hearted",
+			"good-natured",
+			"friendly",
+			"warm"
 		],
 		"image": ""
 	  },
@@ -2452,15 +2460,56 @@
 		"word": "burgeon",
 		"meaning": "begin to grow or increase rapidly, flourish",
 		"examples": [
-		  ""
+			"the city's suburbs have burgeoned, sprawling out from the centre"
+		],
+		"synonyms":[
+			"shoot up",
+			"swell",
+			"explode",
+			"boom",
+			"mushroom",
+			"proliferate",
+			"snowball",
+			"multiply",
+			"escalate",
+			"rocket",
+			"skyrocket",
+			"run riot",
+			"put on a spurt",
+			"flourish",
+			"thrive",
+			"prosper",
+			"expand"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "didactic",
-		"meaning": "instructive, particularly so as to appear patronizing",
+		"meaning": "intended to teach, particularly in having moral instruction as an ulterior motive.",
 		"examples": [
-		  ""
+			"a didactic novel that set out to expose social injustice"
+		],
+		"synonyms":[
+			"instructive",
+			"instructional",
+			"educational",
+			"educative",
+			"informative",
+			"informational",
+			"doctrinal",
+			"teaching",
+			"pedagogic",
+			"academic",
+			"scholastic",
+			"edifying",
+			"improving",
+			"enlightening",
+			"illuminating",
+			"heuristic",
+			"pedantic",
+			"moralistic",
+			"homiletic",
+			"propaedeutic"
 		],
 		"image": ""
 	  },
@@ -2468,15 +2517,46 @@
 		"word": "empirical",
 		"meaning": "based on observation rather than theory",
 		"examples": [
-		  ""
+			"they provided considerable empirical evidence to support their argument"
+		],
+		"synonyms":[
+			"observed",
+			"seen",
+			"factual",
+			"actual",
+			"real",
+			"verifiable",
+			"first-hand",
+			"experimental",
+			"experiential",
+			"practical",
+			"pragmatic",
+			"hands-on",
+			"applied",
+			"heuristic",
+			"empiric"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "fecund",
-		"meaning": "highly fertile",
+		"meaning": "highly fertile, producing or capable of producing an abundance of offspring or new growth",
 		"examples": [
-		  ""
+			"a lush and fecund garden"
+		],
+		"synonyms":[
+			"fertile",
+			"fruitful",
+			"high-yielding",
+			"prolific",
+			"proliferating",
+			"propagative",
+			"generative",
+			"rich",
+			"lush",
+			"flourishing",
+			"thriving",
+			"fructuous"
 		],
 		"image": ""
 	  },
@@ -2484,7 +2564,37 @@
 		"word": "furtive",
 		"meaning": "secretive/ suggestive of guilty nervousness",
 		"examples": [
-		  ""
+			"they spent a furtive day together"
+		],
+		"synonyms":[
+			"secretive",
+			"secret",
+			"surreptitious",
+			"sly",
+			"sneaky",
+			"wily",
+			"underhand",
+			"under the table",
+			"clandestine",
+			"hidden",
+			"covert",
+			"cloaked",
+			"conspiratorial",
+			"underground",
+			"cloak and dagger",
+			"hole and corner",
+			"hugger-mugger",
+			"stealthy",
+			"sneaking",
+			"skulking",
+			"slinking",
+			"sidelong",
+			"sideways",
+			"oblique",
+			"indirect",
+			"black",
+			"hush-hush",
+			"shifty"
 		],
 		"image": ""
 	  },
@@ -2492,7 +2602,29 @@
 		"word": "heterogeneous",
 		"meaning": "diverse in character or content",
 		"examples": [
-		  ""
+			"a large and heterogeneous collection"
+		],
+		"synonyms":[
+			"diverse",
+			"diversified",
+			"varied",
+			"varying",
+			"miscellaneous",
+			"assorted",
+			"mixed",
+			"sundry",
+			"contrasting",
+			"disparate",
+			"different",
+			"differing",
+			"divergent",
+			"unrelated",
+			"variegated",
+			"wide-ranging",
+			"motley",
+			"divers",
+			"myriad",
+			"legion"
 		],
 		"image": ""
 	  },
@@ -2500,7 +2632,27 @@
 		"word": "inimical",
 		"meaning": "tending to obstruct, unfriendly hostile",
 		"examples": [
-		  ""
+			"the policy was inimical to Britain's real interests"
+		],
+		"synonyms":[
+			"harmful",
+			"injurious",
+			"detrimental",
+			"deleterious",
+			"pernicious",
+			"damaging",
+			"hurtful",
+			"dangerous",
+			"destructive",
+			"ruinous",
+			"calamitous",
+			"antagonistic",
+			"contrary",
+			"antipathetic",
+			"unfavourable",
+			"adverse",
+			"opposed",
+			"hostile"
 		],
 		"image": ""
 	  },
@@ -2508,13 +2660,53 @@
 		"word": "innocuous",
 		"meaning": "not harmful or offensive",
 		"examples": [
-		  ""
+			"it was an innocuous question"
+		],
+		"synonyms":[
+			"harmless",
+			"safe",
+			"innocent",
+			"edible",
+			"eatable",
+			"wholesome",
+			"innoxious",
+			"inoffensive",
+			"unobjectionable",
+			"unexceptionable",
+			"unoffending",
+			"mild",
+			"peaceful",
+			"gentle",
+			"tame",
+			"insipid",
+			"anodyne",
+			"bland",
+			"unremarkable",
+			"commonplace"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "intransigent",
-		"meaning": "unwilling to change one's views, uncompromising"
+		"meaning": "unwilling to change one's views, uncompromising",
+		"examples":[
+			"her father had tried persuasion, but she was intransigent"
+		],
+		"synonyms":[
+			"uncompromising",
+			"inflexible",
+			"unbending",
+			"unyielding",
+			"unshakeable",
+			"unwavering",
+			"resolute",
+			"unpersuadable",
+			"unmalleable",
+			"unaccommodating",
+			"uncooperative",
+			"stubborn",
+			"obstinate"
+		]
 	  }
 	],
 	[
@@ -2522,7 +2714,23 @@
 		"word": "brazen",
 		"meaning": "bold and without shame",
 		"examples": [
-		  ""
+			"he went about his illegal business with a brazen assurance"
+		],
+		"synonyms":[
+			"bold",
+			"shameless",
+			"brazen-faced",
+			"forward",
+			"presumptuous",
+			"brash",
+			"immodest",
+			"unashamed",
+			"unabashed",
+			"unembarrassed",
+			"unblushing",
+			"defiant",
+			"impudent",
+			"insolent"
 		],
 		"image": ""
 	  },
@@ -2530,15 +2738,43 @@
 		"word": "cacophonous ",
 		"meaning": "involving or producing harsh sounds",
 		"examples": [
-		  ""
+			"the cacophonous sound of slot machines"
+		],
+		"synonyms":[
+			"loud",
+			"noisy",
+			"ear-splitting",
+			"blaring",
+			"booming",
+			"thunderous",
+			"deafening",
+			"raucous",
+			"discordant",
+			"dissonant",
+			"inharmonious",
+			"unmelodious",
+			"unmusical"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "disseminate",
-		"meaning": "spread widely",
+		"meaning": "spread (something, especially information) widely",
 		"examples": [
-		  ""
+			"health authorities should foster good practice by disseminating information"
+		],
+		"synonyms":[
+			"spread",
+			"circulate",
+			"distribute",
+			"disperse",
+			"diffuse",
+			"proclaim",
+			"promulgate",
+			"propagate",
+			"publicize",
+			"communicate",
+			"pass on"
 		],
 		"image": ""
 	  },
@@ -2546,23 +2782,69 @@
 		"word": "engender",
 		"meaning": "cause or give rise to a feeling situation",
 		"examples": [
-		  ""
+			"the issue engendered continuing controversy"
+		],
+		"synonyms":[
+			"cause",
+			"give rise to",
+			"bring about",
+			"produce",
+			"create",
+			"generate",
+			"arouse",
+			"rouse",
+			"provoke",
+			"incite",
+			"kindle",
+			"trigger",
+			"spark off",
+			"touch off",
+			"stir up",
+			"whip up",
+			"induce",
+			"inspire",
+			"instigate"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "feeble",
-		"meaning": "lacking physical strength/ lacking strength of character/ failing to convince or impress",
+		"meaning": "lacking physical strength, especially as a result of age or illness",
 		"examples": [
-		  ""
+			"by now, he was too feeble to leave his room"
+		],
+		"synonyms":[
+			"weak",
+			"weakly",
+			"weakened",
+			"puny",
+			"wasted",
+			"frail",
+			"infirm",
+			"delicate",
+			"sickly",
+			"ailing",
+			"unwell",
+			"poorly",
+			"failing",
+			"helpless",
+			"powerless",
+			"impotent"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "hamper",
-		"meaning": "basket/ hinder",
+		"meaning": "a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic",
 		"examples": [
-		  ""
+			"a picnic hamper"
+		],
+		"synonyms":[
+			"basket",
+			"pannier",
+			"box",
+			"container",
+			"holder"
 		],
 		"image": ""
 	  },
@@ -2570,7 +2852,20 @@
 		"word": "imperious",
 		"meaning": "arrogant and domineering",
 		"examples": [
-		  ""
+			"his imperious demands"
+		],
+		"synonyms":[
+			"peremptory",
+			"high-handed",
+			"commanding",
+			"imperial",
+			"overbearing",
+			"overweening",
+			"domineering",
+			"authoritarian",
+			"dictatorial",
+			"authoritative",
+			"lordly"
 		],
 		"image": ""
 	  },
@@ -2578,7 +2873,16 @@
 		"word": "intimate",
 		"meaning": "closely acquainted, familiar, detailed or thorough",
 		"examples": [
-		  ""
+			"intimate friends"
+		],
+		"synonyms":[
+			"close",
+			"bosom",
+			"boon",
+			"dear",
+			"cherished",
+			"familiar",
+			"confidential"
 		],
 		"image": ""
 	  },
@@ -2586,21 +2890,47 @@
 		"word": "intrepid",
 		"meaning": "fearless, adventurous (often used for humorous effect)",
 		"examples": [
-		  ""
+			"our intrepid reporter"
+		],
+		"synonyms":[
+			"fearless",
+			"unafraid",
+			"undaunted",
+			"dauntless",
+			"undismayed",
+			"unalarmed"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "momentary",
-		"meaning": "lasting very short time, brief"
+		"meaning": "lasting very short time, brief",
+		"examples":[
+			"a momentary lapse of concentration"
+		],
+		"synonyms":[
+			"brief",
+			"short",
+			"short-lived",
+			"quick",
+			"fleeting",
+			"passing",
+			"transient"
+		]
 	  }
 	],
 	[
 	  {
 		"word": "calumny",
-		"meaning": "false and slanderous statement about someone",
+		"meaning": "the making of false and defamatory statements about someone in order to damage their reputation; slander",
 		"examples": [
-		  ""
+			"a bitter struggle marked by calumny and litigation"
+		],
+		"synonyms":[
+			"denigration",
+			"derogation",
+			"aspersions",
+			"vilification"
 		],
 		"image": ""
 	  },
@@ -2608,15 +2938,31 @@
 		"word": "canonize",
 		"meaning": "treat of great significance, place in or regard as belonging to a canon of literacy or artistic works",
 		"examples": [
-		  ""
+			"he was the last English saint to be canonized prior to the Reformation"
+		],
+		"synonyms":[
+			"beatify"
 		],
 		"image": ""
 	  },
 	  {
-		"word": "entitled",
+		"word": "entitle",
 		"meaning": "give someone a legal right",
 		"examples": [
-		  ""
+			"employees are normally entitled to redundancy pay"
+		],
+		"synonyms":[
+			"qualify",
+			"authorize",
+			"sanction",
+			"allow",
+			"permit",
+			"grant",
+			"give permission",
+			"enable",
+			"empower",
+			"accredit",
+			"enfranchise"
 		],
 		"image": ""
 	  },
@@ -2624,7 +2970,19 @@
 		"word": "feasible",
 		"meaning": "possible to do easily or conveniently",
 		"examples": [
-		  ""
+			"it is not feasible to put most finds from excavations on public display"
+		],
+		"synonyms":[
+			"practicable",
+			"practical",
+			"workable",
+			"achievable",
+			"attainable",
+			"realizable",
+			"viable",
+			"realistic",
+			"sensible",
+			"reasonable"
 		],
 		"image": ""
 	  },
@@ -2632,7 +2990,25 @@
 		"word": "felicitous",
 		"meaning": "well chosen or suited to the circumstances/ pleasing",
 		"examples": [
-		  ""
+			"a felicitous phrase"
+		],
+		"synonyms":[
+			"apt",
+			"well chosen",
+			"well expressed",
+			"well put",
+			"choice",
+			"fitting",
+			"suitable",
+			"appropriate",
+			"apposite",
+			"pertinent",
+			"germane",
+			"to the point",
+			"relevant",
+			"congruous",
+			"apropos",
+			"spot on"
 		],
 		"image": ""
 	  },
@@ -2640,7 +3016,14 @@
 		"word": "impertinent",
 		"meaning": "not showing proper respect, irrelevant",
 		"examples": [
-		  ""
+			"an impertinent question"
+		],
+		"synonyms":[
+			"rude",
+			"insolent",
+			"impolite",
+			"unmannerly",
+			"ill-mannered"
 		],
 		"image": ""
 	  },
@@ -2648,7 +3031,16 @@
 		"word": "indispensable",
 		"meaning": "absolutely necessary",
 		"examples": [
-		  ""
+			"he made himself indispensable to the parish priest"
+		],
+		"synonyms":[
+			"essential",
+			"crucial",
+			"necessary",
+			"key",
+			"vital",
+			"needed",
+			"required"
 		],
 		"image": ""
 	  },
@@ -2656,7 +3048,16 @@
 		"word": "invigorate",
 		"meaning": "give strength or energy to",
 		"examples": [
-		  ""
+			"the shower had invigorated her"
+		],
+		"synonyms":[
+			"revitalize",
+			"energize",
+			"refresh",
+			"revive",
+			"vivify",
+			"brace",
+			"rejuvenate"
 		],
 		"image": ""
 	  },
@@ -2664,7 +3065,32 @@
 		"word": "irreverent",
 		"meaning": "showing lack of respect for people or things that are generally taken seriously",
 		"examples": [
-		  ""
+			"he had an irreverent sense of humour but could always be counted on for sage advice"
+		],
+		"synonyms":[
+			"disrespectful",
+			"disdainful",
+			"scornful",
+			"contemptuous",
+			"derisive",
+			"disparaging",
+			"insolent",
+			"impudent",
+			"impertinent",
+			"cheeky",
+			"flippant",
+			"flip",
+			"insubordinate",
+			"presumptuous",
+			"forward",
+			"rude",
+			"impolite",
+			"discourteous",
+			"uncivil",
+			"insulting",
+			"abusive",
+			"fresh",
+			"lippy"
 		],
 		"image": ""
 	  },
@@ -2678,7 +3104,27 @@
 		"word": "candid",
 		"meaning": "truthful and straightforward",
 		"examples": [
-		  ""
+			"his mundane, humdrum existence"
+		],
+		"synonyms":[
+			"humdrum",
+			"dull",
+			"boring",
+			"tedious",
+			"monotonous",
+			"tiresome",
+			"wearisome",
+			"prosaic",
+			"unexciting",
+			"uninteresting",
+			"uneventful",
+			"unvarying",
+			"unvaried",
+			"unremarkable",
+			"repetitive",
+			"repetitious",
+			"routine",
+			"ordinary"
 		],
 		"image": ""
 	  },
@@ -2686,7 +3132,17 @@
 		"word": "censure",
 		"meaning": "express severe disapproval, especially in formal statement",
 		"examples": [
-		  ""
+			"the company was heavily censured by inspectors from the Department of Trade"
+		],
+		"synonyms":[
+			"condemn",
+			"criticize",
+			"castigate",
+			"chastise",
+			"lambast",
+			"pillory",
+			"savage",
+			"attack"
 		],
 		"image": ""
 	  },
@@ -2694,15 +3150,28 @@
 		"word": "flout",
 		"meaning": "openly disregard, mock, scoff",
 		"examples": [
-		  ""
+			"the advertising code is being flouted"
+		],
+		"synonyms":[
+			"defy",
+			"refuse to obey",
+			"go against",
+			"scorn",
+			"disdain"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "forbear",
-		"meaning": "refrain from doing something",
+		"meaning": "politely or patiently restrain an impulse to do something; refrain",
 		"examples": [
-		  ""
+			"he modestly forbears to include his own work"
+		],
+		"synonyms":[
+			"refrain",
+			"abstain",
+			"desist",
+			"keep"
 		],
 		"image": ""
 	  },
@@ -2710,7 +3179,7 @@
 		"word": "invasive",
 		"meaning": "tending to spread very quickly or undesirably, harmfully",
 		"examples": [
-		  ""
+			"patients suffering from invasive cancer"
 		],
 		"image": ""
 	  },
@@ -2718,7 +3187,16 @@
 		"word": "lament",
 		"meaning": "a passionate expression of grief or sorrow",
 		"examples": [
-		  ""
+			"his mother's night-long laments for his father"
+		],
+		"synonyms":[
+			"ail",
+			"wailing",
+			"lamentation",
+			"moan",
+			"moaning",
+			"groan",
+			"weeping"
 		],
 		"image": ""
 	  },
@@ -2726,7 +3204,14 @@
 		"word": "loathe",
 		"meaning": "intense dislike or disgust for",
 		"examples": [
-		  ""
+			"she loathed him on sight"
+		],
+		"synonyms":[
+			"hate",
+			"detest",
+			"abhor",
+			"despise",
+			"abominate"
 		],
 		"image": ""
 	  },
@@ -2734,7 +3219,16 @@
 		"word": "mitigate",
 		"meaning": "make something bad less severe, serious or painful",
 		"examples": [
-		  ""
+			"drainage schemes have helped to mitigate this problem"
+		],
+		"synonyms":[
+			"alleviate",
+			"reduce",
+			"diminish",
+			"lessen",
+			"weaken",
+			"lighten",
+			"attenuate"
 		],
 		"image": ""
 	  },
@@ -2742,13 +3236,50 @@
 		"word": "nettlesome",
 		"meaning": "causing annoyance or difficulty",
 		"examples": [
-		  ""
+			"nettlesome regional disputes"
+		],
+		"synonyms":[
+			"annoying",
+			"bothersome",
+			"galling",
+			"grating",
+			"irritating",
+			"pesky",
+			"pestering",
+			"pestiferous",
+			"plaguey",
+			"plaguy",
+			"teasing",
+			"vexatious",
+			"vexing", 
+			"disagreeable"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "pertinacious",
-		"meaning": "holding firmly to an opinion or a cause of action"
+		"meaning": "holding firmly to an opinion or a cause of action",
+		"examples":[
+			"he worked with a pertinacious resistance to interruptions"
+		],
+		"synonyms":[
+			"determined",
+			"tenacious",
+			"persistent",
+			"persevering",
+			"assiduous",
+			"purposeful",
+			"resolute",
+			"dogged",
+			"indefatigable",
+			"insistent",
+			"single-minded",
+			"unrelenting",
+			"relentless",
+			"implacable",
+			"uncompromising",
+			"unyielding"
+		]
 	  }
 	],
 	[
@@ -2756,15 +3287,32 @@
 		"word": "castigate",
 		"meaning": "reprimand severely",
 		"examples": [
-		  ""
+			"he was castigated for not setting a good example"
+		],
+		"synonyms":[
+			"reprimand",
+			"rebuke",
+			"admonish",
+			"chastise",
+			"chide",
+			"upbraid",
+			"reprove"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "chicanery",
-		"meaning": "use of deception or subterfuge",
+		"meaning": "the use of deception or subterfuge to achieve one's purpose",
 		"examples": [
-		  ""
+			"storylines packed with political chicanery"
+		],
+		"synonyms":[
+			"trickery",
+			"deception",
+			"deceit",
+			"deceitfulness",
+			"duplicity",
+			"dishonesty"
 		],
 		"image": ""
 	  },
@@ -2772,7 +3320,18 @@
 		"word": "haphazard",
 		"meaning": "lacking any obvious principle of organization",
 		"examples": [
-		  ""
+			"the music business works in a haphazard fashion"
+		],
+		"synonyms":[
+			"andom",
+			"unplanned",
+			"unsystematic",
+			"unmethodical",
+			"disorganized",
+			"disorderly",
+			"irregular",
+			"indiscriminate",
+			"chaotic"
 		],
 		"image": ""
 	  },
@@ -2780,7 +3339,15 @@
 		"word": "homogeneous",
 		"meaning": "of the same kind",
 		"examples": [
-		  ""
+			"if all jobs and workers were homogeneous"
+		],
+		"synonyms":[
+			"similar",
+			"comparable",
+			"equivalent",
+			"like",
+			"analogous",
+			"corresponding"
 		],
 		"image": ""
 	  },
@@ -2788,7 +3355,15 @@
 		"word": "irresolute",
 		"meaning": "showing or feeling hesitancy; uncertain",
 		"examples": [
-		  ""
+			"she stood irresolute outside his door"
+		],
+		"synonyms":[
+			"indecisive",
+			"hesitant",
+			"tentative",
+			"nervous",
+			"weak",
+			"vacillating"
 		],
 		"image": ""
 	  },
@@ -2796,7 +3371,16 @@
 		"word": "malign",
 		"meaning": "evil in nature, speak about someone in a spitefully critical manner",
 		"examples": [
-		  ""
+			"she had a strong and malign influence"
+		],
+		"synonyms":[
+			"harmful",
+			"evil",
+			"bad",
+			"baleful",
+			"hostile",
+			"inimical",
+			"destructive"
 		],
 		"image": ""
 	  },
@@ -2804,7 +3388,13 @@
 		"word": "myopic",
 		"meaning": "short-sighted",
 		"examples": [
-		  ""
+			"most myopic children can be fitted with glasses to correct their vision"
+		],
+		"synonyms":[
+			"short-sighted",
+			"nearsighted",
+			"as blind as a bat",
+			"purblind"
 		],
 		"image": ""
 	  },
@@ -2812,21 +3402,65 @@
 		"word": "nullify",
 		"meaning": "make null and void, invalidate",
 		"examples": [
-		  ""
+			"it is at the discretion of the court to nullify the decision"
+		],
+		"synonyms":[
+			"repeal",
+			"reverse",
+			"rescind",
+			"revoke",
+			"set aside",
+			"cancel",
+			"abolish",
+			"undo",
+			"abrogate",
+			"countermand",
+			"veto",
+			"dissolve"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "obsolete",
-		"meaning": "out of date",
+		"meaning": "out of date, no longer produced or used; out of date",
 		"examples": [
-		  ""
+			"the disposal of old and obsolete machinery"
+		],
+		"synonyms":[
+			"superannuated",
+			"outworn",
+			"antiquated",
+			"antediluvian",
+			"anachronistic",
+			"discarded",
+			"discontinued",
+			"old",
+			"dated",
+			"antique",
+			"archaic",
+			"ancient",
+			"fossilized",
+			"extinct",
+			"defunct",
+			"dead",
+			"bygone"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "presumptuous",
-		"meaning": "failing to observe limits of what is appropriate/ brazen"
+		"meaning": "failing to observe limits of what is appropriate/ brazen",
+		"examples":[
+			"I hope I won't be considered presumptuous if I offer some advice"
+		],
+		"synonyms":[
+			"brazen",
+			"overconfident",
+			"arrogant",
+			"egotistical",
+			"overbold",
+			"bold"
+		]
 	  }
 	],
 	[
@@ -2834,7 +3468,16 @@
 		"word": "caustic",
 		"meaning": "sarcastic in a bitter way, chemical",
 		"examples": [
-		  ""
+			"a caustic cleaner"
+		],
+		"synonyms":[
+			"corrosive",
+			"corroding",
+			"mordant",
+			"acid",
+			"alkaline",
+			"burning",
+			"stinging"
 		],
 		"image": ""
 	  },
@@ -2842,7 +3485,15 @@
 		"word": "coalesce",
 		"meaning": "come together to from one mass or whole",
 		"examples": [
-		  ""
+			"the puddles had coalesced into shallow streams"
+		],
+		"synonyms":[
+			"combine",
+			"merge",
+			"fuse",
+			"mingle",
+			"meld",
+			"blend"
 		],
 		"image": ""
 	  },
@@ -2850,7 +3501,15 @@
 		"word": "hodgepodge",
 		"meaning": "a confused mixture",
 		"examples": [
-		  ""
+			"Rob's living room was a hodgepodge of modern furniture and antiques"
+		],
+		"synonyms":[
+			"mixture",
+			"mix",
+			"mixed bag",
+			"assortment",
+			"assemblage",
+			"collection"
 		],
 		"image": ""
 	  },
@@ -2858,7 +3517,26 @@
 		"word": "humdrum",
 		"meaning": "lacking excitement or variety; boringly monotonous",
 		"examples": [
-		  ""
+			"humdrum routine work"
+		],
+		"synonyms":[
+			"mundane",
+			"dull",
+			"dreary",
+			"boring",
+			"tedious",
+			"monotonous",
+			"banal",
+			"ho-hum",
+			"tiresome",
+			"wearisome",
+			"prosaic",
+			"unexciting",
+			"uninteresting",
+			"uneventful",
+			"unvarying",
+			"unvaried",
+			"unremarkable"
 		],
 		"image": ""
 	  },
@@ -2866,7 +3544,15 @@
 		"word": "laudable",
 		"meaning": "deserving praise and commendation",
 		"examples": [
-		  ""
+			"laudable though the aim might be, the results have been criticized"
+		],
+		"synonyms":[
+			"praiseworthy",
+			"commendable",
+			"admirable",
+			"meritorious",
+			"worthy",
+			"deserving"
 		],
 		"image": ""
 	  },
@@ -2874,7 +3560,15 @@
 		"word": "malleable",
 		"meaning": "easily influenced, pliable",
 		"examples": [
-		  ""
+			"a malleable metal can be beaten into a sheet"
+		],
+		"synonyms":[
+			"pliable",
+			"ductile",
+			"plastic",
+			"pliant",
+			"soft",
+			"workable"
 		],
 		"image": ""
 	  },
@@ -2882,7 +3576,13 @@
 		"word": "nonchalant",
 		"meaning": "calm and relaxed/ not displaying anxiety",
 		"examples": [
-		  ""
+			"she gave a nonchalant shrug"
+		],
+		"synonyms":[
+			"calm",
+			"cool",
+			"unconcerned",
+			"collected"
 		],
 		"image": ""
 	  },
@@ -2890,7 +3590,15 @@
 		"word": "obviate",
 		"meaning": "remove, avoid or prevent",
 		"examples": [
-		  ""
+			"the presence of roller blinds obviated the need for curtains"
+		],
+		"synonyms":[
+			"preclude",
+			"prevent",
+			"remove",
+			"get rid of",
+			"do away with",
+			"get round"
 		],
 		"image": ""
 	  },
@@ -2898,13 +3606,33 @@
 		"word": "opaque",
 		"meaning": "unclear, not transparent",
 		"examples": [
-		  ""
+			"bottles filled with a pale opaque liquid"
+		],
+		"synonyms":[
+			"non-transparent",
+			"cloudy",
+			"filmy",
+			"blurred",
+			"smeared",
+			"hazy",
+			"misty"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "probity",
-		"meaning": "having strong moral principles, honesty and decency"
+		"meaning": "the quality of having strong moral principles; honesty and decency",
+		"examples":[
+			"financial probity"
+		],
+		"synonyms":[
+			"integrity",
+			"honesty",
+			"uprightness",
+			"decency",
+			"morality",
+			"rectitude"
+		]
 	  }
 	],
 	[
@@ -2912,7 +3640,16 @@
 		"word": "cogent",
 		"meaning": "clear, logical and convincing",
 		"examples": [
-		  ""
+			"they put forward cogent arguments for British membership"
+		],
+		"synonyms":[
+			"convincing",
+			"compelling",
+			"strong",
+			"forceful",
+			"powerful",
+			"potent",
+			"weighty"
 		],
 		"image": ""
 	  },
@@ -2920,15 +3657,31 @@
 		"word": "construe",
 		"meaning": "interpret in a particular way",
 		"examples": [
-		  ""
+			"his words could hardly be construed as an apology"
+		],
+		"synonyms":[
+			"interpret",
+			"understand",
+			"read",
+			"see",
+			"take"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "impede",
-		"meaning": "hinder",
+		"meaning": "delay or prevent (someone or something) by obstructing them; hinder",
 		"examples": [
-		  ""
+			"the sap causes swelling which can impede breathing"
+		],
+		"synonyms":[
+			"hinder",
+			"obstruct",
+			"hamper",
+			"handicap",
+			"hold back",
+			"hold up",
+			"delay"
 		],
 		"image": ""
 	  },
@@ -2936,7 +3689,12 @@
 		"word": "insipid",
 		"meaning": "tasteless, lacking interest",
 		"examples": [
-		  ""
+			"mugs of insipid coffee"
+		],
+		"synonyms":[
+			"tasteless",
+			"flavourless",
+			"unflavoured"
 		],
 		"image": ""
 	  },
@@ -2944,7 +3702,16 @@
 		"word": "lax",
 		"meaning": "not sufficiently strict or careful, negligible / of muscle(relaxed)",
 		"examples": [
-		  ""
+			"lax security arrangements at the airport"
+		],
+		"synonyms":[
+			"slack",
+			"slipshod",
+			"negligent",
+			"neglectful",
+			"remiss",
+			"careless",
+			"heedless"
 		],
 		"image": ""
 	  },
@@ -2952,7 +3719,13 @@
 		"word": "neophyte",
 		"meaning": "a person who is new to a subject, activity, or religion",
 		"examples": [
-		  ""
+			"four-day cooking classes are offered to neophytes and experts"
+		],
+		"synonyms":[
+			"beginner",
+			"learner",
+			"novice",
+			"newcomer"
 		],
 		"image": ""
 	  },
@@ -2960,7 +3733,14 @@
 		"word": "omnipresent",
 		"meaning": "widely or constantly encountered; widespread",
 		"examples": [
-		  ""
+			"the omnipresent threat of natural disasters"
+		],
+		"synonyms":[
+			"ubiquitous",
+			"general",
+			"universal",
+			"worldwide",
+			"global"
 		],
 		"image": ""
 	  },
