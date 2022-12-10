@@ -3748,29 +3748,81 @@
 		"word": "paradigmatic",
 		"meaning": "serving as a typical examples of something, of or denoting",
 		"examples": [
-		  ""
+			"his biography is paradigmatic of the experiences of this generation"
+		],
+		"synonyms":[
+			"archetypal",
+			"average",
+			"characteristic",
+			"common",
+			"emblematic",
+			"essential",
+			"exemplary",
+			"expected",
+			"general",
+			"habitual",
+			"ideal",
+			"illustrative"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "partial",
-		"meaning": "incomplete/ biased/ having a liking for",
+		"meaning": "existing only in part; incomplete",
 		"examples": [
-		  ""
+			"a question to which we have only partial answers"
+		],
+		"synonyms":[
+			"incomplete",
+			"limited",
+			"qualified",
+			"restricted",
+			"imperfect",
+			"fragmentary"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "proliferate",
-		"meaning": "increase rapidly in number, multiply"
+		"meaning": "increase rapidly in number, multiply",
+		"examples":[
+			"the science fiction magazines which proliferated in the 1920s"
+		],
+		"synonyms":[
+			"mushroom",
+			"snowball",
+			"burgeon",
+			"escalate",
+			"rocket",
+			"run riot"
+		]
 	  }
 	],
 	[
 	  {
 		"word": "compelling",
-		"meaning": "evoking interest in a powerful irresistible way",
+		"meaning": "evoking interest, attention, or admiration in a powerfully irresistible way",
 		"examples": [
-		  ""
+			"his eyes were strangely compelling"
+		],
+		"synonyms":[
+			"enthralling",
+			"captivating",
+			"gripping",
+			"engrossing",
+			"riveting",
+			"spellbinding",
+			"entrancing",
+			"transfixing",
+			"mesmerizing",
+			"hypnotic",
+			"mesmeric",
+			"absorbing",
+			"fascinating",
+			"thrilling",
+			"irresistible",
+			"addictive",
+			"unputdownable"
 		],
 		"image": ""
 	  },
@@ -3778,7 +3830,13 @@
 		"word": "contrite",
 		"meaning": "feeling or expressing remorse that one has done wrong",
 		"examples": [
-		  ""
+			"a contrite tone"
+		],
+		"synonyms":[
+			"remorseful",
+			"repentant",
+			"penitent",
+			"regretful"
 		],
 		"image": ""
 	  },
@@ -3786,7 +3844,16 @@
 		"word": "impetuous",
 		"meaning": "acting or done quickly and without thought or care",
 		"examples": [
-		  ""
+			"she might live to rue this impetuous decision"
+		],
+		"synonyms":[
+			"impulsive",
+			"rash",
+			"hasty",
+			"overhasty",
+			"reckless",
+			"heedless",
+			"foolhardy"
 		],
 		"image": ""
 	  },
@@ -3794,7 +3861,15 @@
 		"word": "loquacious",
 		"meaning": "talkative",
 		"examples": [
-		  ""
+			"never loquacious, Sarah was now totally lost for words"
+		],
+		"synonyms":[
+			"talkative",
+			"garrulous",
+			"voluble",
+			"over-talkative",
+			"long-winded",
+			"wordy"
 		],
 		"image": ""
 	  },
@@ -3802,7 +3877,22 @@
 		"word": "marginalize",
 		"meaning": "treat a person, group as insignificant or peripheral",
 		"examples": [
-		  ""
+			"by removing religion from the public space, we marginalize it"
+		],
+		"synonyms":[
+			"criticize",
+			"demean",
+			"deprecate",
+			"diminish",
+			"disparage",
+			"belittle",
+			"depreciate",
+			"dismiss",
+			"abuse",
+			"defame",
+			"discount",
+			"smear",
+			"vilify"
 		],
 		"image": ""
 	  },
@@ -3810,7 +3900,14 @@
 		"word": "oust",
 		"meaning": "drive out or expel from a position or place",
 		"examples": [
-		  ""
+			"the reformists were ousted from power"
+		],
+		"synonyms":[
+			"drive out",
+			"expel",
+			"force out",
+			"throw out",
+			"remove"
 		],
 		"image": ""
 	  },
@@ -3818,15 +3915,31 @@
 		"word": "pedantic",
 		"meaning": "excessively concerned with minor details, over-scrupulous",
 		"examples": [
-		  ""
+			"his analyses are careful and even painstaking, but never pedantic"
+		],
+		"synonyms":[
+			"overscrupulous",
+			"scrupulous",
+			"precise",
+			"exact",
+			"over-exacting",
+			"perfectionist"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "pensive",
-		"meaning": "engaged in serious thought",
+		"meaning": "engaged in, involving, or reflecting deep or serious thought",
 		"examples": [
-		  ""
+			"a pensive mood"
+		],
+		"synonyms":[
+			"thoughtful",
+			"thinking",
+			"reflective",
+			"contemplative",
+			"musing",
+			"meditative"
 		],
 		"image": ""
 	  },
@@ -3834,13 +3947,35 @@
 		"word": "plastic",
 		"meaning": "easily shaped/artificial/offering scope for creativity",
 		"examples": [
-		  ""
+			"mains pipes should be made of plastic or copper"
+		],
+		"synonyms":[
+			"malleable",
+			"pliable",
+			"pliant",
+			"ductile",
+			"flexible",
+			"soft",
+			"workable",
+			"supple",
+			"bendy",
+			"fictile"
 		],
 		"image": ""
 	  },
 	  {
 		"word": "specious",
-		"meaning": "superficially plausible but actually wrong"
+		"meaning": "superficially plausible but actually wrong",
+		"examples":[
+			"a specious argument"
+		],
+		"synonyms":[
+			"misleading",
+			"deceptive",
+			"false",
+			"fallacious",
+			"unsound"
+		]
 	  }
 	],
 	[
@@ -3848,7 +3983,13 @@
 		"word": "contend",
 		"meaning": "struggle to surmount a difficulty, assert something as a position in an argument",
 		"examples": [
-		  ""
+			"she had to contend with his uncertain temper"
+		],
+		"synonyms":[
+			"face",
+			"take on",
+			"resist",
+			"withstand"
 		],
 		"image": ""
 	  },
