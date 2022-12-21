@@ -2425,9 +2425,10 @@
 	  },
 	  {
 		"word": "insular",
-		"meaning": "ignorant of or uninterested in cultures, ideas, or peoples outside one’s own experience, lacking contact with other people",
+		"meaning": "uninterested in cultures, ideas, or peoples outside one’s own experience, lacking contact with other people",
 		"examples":[
-			"a stubbornly insular farming people"
+			"a stubbornly insular farming people",
+			"goods of insular origin"
 		],
 		"synonyms":[
 			"narrow-minded",
@@ -2436,7 +2437,6 @@
 			"restricted",
 			"inward-looking"
 		]
-
 	  }
 	],
 	[
@@ -2444,7 +2444,8 @@
 		"word": "benign",
 		"meaning": "gentle and kind, not harmful to the environment",
 		"examples": [
-			"his benign but firm manner"
+			"his benign but firm manner",
+			"a benign condition"
 		],
 		"synonyms":[
 			"kindly",
