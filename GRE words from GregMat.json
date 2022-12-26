@@ -3998,7 +3998,31 @@
 		"word": "convoluted",
 		"meaning": "extremely complex and difficult to follow and twisted",
 		"examples": [
-		  ""
+			"the film is let down by a convoluted plot in which nothing really happens"
+		],
+		"synonyms":[
+			"complicated",
+			"complex",
+			"involved",
+			"intricate",
+			"elaborate",
+			"impenetrable",
+			"serpentine",
+			"labyrinthine",
+			"tortuous",
+			"tangled",
+			"Byzantine",
+			"Daedalian",
+			"Gordian",
+			"confused",
+			"confusing",
+			"bewildering",
+			"baffling",
+			"puzzling",
+			"perplexing",
+			"fiddly",
+			"plotty",
+			"involute"
 		],
 		"image": ""
 	  },
@@ -4006,7 +4030,18 @@
 		"word": "irascible",
 		"meaning": "having or showing a tendency to be easily angered",
 		"examples": [
-		  ""
+			"an irascible and difficult man"
+		],
+		"synonyms":[
+			"irritable",
+			"quick-tempered",
+			"short-tempered",
+			"bad-tempered",
+			"ill-tempered",
+			"hot-tempered",
+			"thin-skinned",
+			"snappy",
+			"snappish"
 		],
 		"image": ""
 	  },
@@ -4014,7 +4049,15 @@
 		"word": "misanthropic",
 		"meaning": "having or showing dislike of other people",
 		"examples": [
-		  ""
+			"a misanthropic drunken loner"
+		],
+		"synonyms":[
+			"antisocial",
+			"unsociable",
+			"unfriendly",
+			"reclusive",
+			"uncongenial",
+			"unneighbourly"
 		],
 		"image": ""
 	  },
@@ -4022,7 +4065,22 @@
 		"word": "palpable",
 		"meaning": "so intense as to seem, almost tangible/ plain to see or comprehend, able to be touched or felt",
 		"examples": [
-		  ""
+			"a palpable sense of loss"
+		],
+		"synonyms":[
+			"perceptible",
+			"perceivable",
+			"visible",
+			"noticeable",
+			"appreciable",
+			"discernible",
+			"detectable",
+			"observable",
+			"tangible",
+			"recognizable",
+			"notable",
+			"unmistakable",
+			"transparent"
 		],
 		"image": ""
 	  },
@@ -4030,7 +4088,13 @@
 		"word": "panache",
 		"meaning": "flamboyant confidence of style or manner",
 		"examples": [
-		  ""
+			"he entertained London society with great panache"
+		],
+		"synonyms":[
+			"flamboyance",
+			"confidence",
+			"self-assurance",
+			"style"
 		],
 		"image": ""
 	  },
@@ -4038,7 +4102,15 @@
 		"word": "placid",
 		"meaning": "not easily upset or excited, calm and peaceful",
 		"examples": [
-		  ""
+			"a placid, contented man"
+		],
+		"synonyms":[
+			"even-tempered",
+			"calm",
+			"equable",
+			"tranquil",
+			"imperturbable",
+			"unexcitable"
 		],
 		"image": ""
 	  },
