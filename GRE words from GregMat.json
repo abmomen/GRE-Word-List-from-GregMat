@@ -4023,6 +4023,14 @@
 			"fiddly",
 			"plotty",
 			"involute"
+		"meaning": "complicated, intricate, involved, or twisted in a complex way",
+		"synonyms": [
+		"complex",
+		"complicated",
+		"intricate",
+		"involved",
+		"tangled",
+		"twisted"
 		],
 		"image": ""
 	  },
@@ -4134,524 +4142,1281 @@
 		"word": "spurious",
 		"meaning": "not being what it purports to be, false or fake"
 	  }
+		"examples": [
+		"Her argument was so convoluted that it was difficult to follow",
+		"The plot of the novel was full of convoluted twists and turns"
+		]
+		},
+		{
+			"word": "irascible",
+			"meaning": "having or showing a tendency to be easily angered",
+			"synonyms": [
+				"short-tempered",
+				"irritable",
+				"cranky",
+				"testy",
+				"quick to anger"
+			],
+			"examples": [
+				"He was known for having a quick temper and being irascible when things didn't go his way",
+				"She was always irascible and grumpy in the mornings before she had her coffee"
+			],
+			"image": "https://www.example.com/images/irascible.png"
+		},
+		{
+			"word": "misanthropic",
+			"meaning": "having or showing a strong dislike or mistrust of people",
+			"synonyms": [
+				"cynical",
+				"pessimistic",
+				"skeptical",
+				"suspicious",
+				"distrustful",
+				"jaded"
+			],
+			"examples": [
+				"He was known for being misanthropic and always expecting the worst from people",
+				"Her misanthropic views made it difficult for her to make friends"
+			],
+			"image": "https://www.example.com/images/misanthropic.png"
+		},
+		{
+			"word": "palpable",
+			"meaning": "able to be touched or felt; able to be clearly seen or understood",
+			"synonyms": [
+				"tangible",
+				"touchable",
+				"real",
+				"distinct",
+				"evident",
+				"obvious"
+			],
+			"examples": [
+				"The tension in the room was palpable",
+				"His excitement was palpable as he opened his birthday present"
+			],
+			"image": "https://www.example.com/images/palpable.png"
+		}
+		,
+		{
+			"word": "panache",
+			"meaning": "flair or style, particularly in the way that something is done",
+			"synonyms": [
+				"flair",
+				"style",
+				"verve",
+				"élan",
+				"dash",
+				"brio"
+			],
+			"examples": [
+				"She approached the task with panache, completing it with ease and grace",
+				"He was known for his panache on the soccer field"
+			],
+			"image": "https://www.example.com/images/panache.png"
+		}
+		,
+		{
+			"word": "placid",
+			"meaning": "calm and peaceful, not easily upset or agitated",
+			"synonyms": [
+				"calm",
+				"peaceful",
+				"serene",
+				"tranquil",
+				"unruffled",
+				"composed"
+			],
+			"examples": [
+				"The baby was sleeping peacefully, her face placid and serene",
+				"He had a placid personality and rarely let things bother him"
+			],
+			"image": "https://www.example.com/images/placid.png"
+		},
+		{
+			"word": "platitude",
+			"meaning": "a remark or statement that is banal or predictable because it has been heard many times before",
+			"synonyms": [
+				"banality",
+				"cliché",
+				"truism",
+				"bromide",
+				"chestnut"
+			],
+			"examples": [
+				"His speech was full of platitudes and offered nothing new or insightful",
+				"She was tired of hearing the same old platitudes about love and happiness"
+			],
+			"image": "https://www.example.com/images/platitude.png"
+		}
+		,
+		{
+			"word": "portend",
+			"meaning": "to be a sign that something, especially something bad, will happen in the future",
+			"synonyms": [
+				"foreshadow",
+				"predict",
+				"foretell",
+				"prefigure",
+				"augur"
+			],
+			"examples": [
+				"The dark clouds and thunder portended a storm",
+				"His strange behavior was portending something bad"
+			],
+			"image": "https://www.example.com/images/portend.png"
+		}
+		,
+		{
+			"word": "spurious",
+			"meaning": "not genuine or real; false or fake",
+			"synonyms": [
+				"fake",
+				"fraudulent",
+				"counterfeit",
+				"phony",
+				"bogus"
+			],
+			"examples": [
+				"He was caught selling spurious copies of famous paintings",
+				"The report was filled with spurious claims and misleading information"
+			],
+			"image": "https://www.example.com/images/spurious.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "copious",
-		"meaning": "abundant in supply",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "covet",
-		"meaning": "yearn to possess something belonging to another",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "mercenary",
-		"meaning": "making money at the expense of ethics/ a professional soldier hired to serve in a foreign army",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "misnomer",
-		"meaning": "a wrong or inaccurate name or designation",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "perfidy",
-		"meaning": "state of being deceitful and untrustworthy",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "plodding",
-		"meaning": "slow moving and unexciting",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "polemical",
-		"meaning": "of or involving strongly critical writing or speech",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "prescient",
-		"meaning": "showing knowledge of events before they take place",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "provincial",
-		"meaning": "concerning a province of a country/religions regarded as narrow-minded",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "subjective",
-		"meaning": "influenced by personal feelings, tastes, opinions"
-	  }
+		{
+			"word": "copious",
+			"meaning": "large in quantity; abundant",
+			"synonyms": [
+				"abundant",
+				"plentiful",
+				"ample",
+				"sufficient",
+				"generous"
+			],
+			"examples": [
+				"She had a copious amount of notes from her research",
+				"The garden was producing copious amounts of tomatoes this year"
+			],
+			"image": "https://www.example.com/images/copious.png"
+		}
+		,
+		{
+			"word": "covet",
+			"meaning": "to strongly desire something that belongs to someone else",
+			"synonyms": [
+				"desire",
+				"want",
+				"yearn for",
+				"envy",
+				"begrudge"
+			],
+			"examples": [
+				"She couldn't help but covet her friend's new car",
+				"He was known for coveting anything that his neighbors had"
+			],
+			"image": "https://www.example.com/images/covet.png"
+		}
+		,
+		{
+			"word": "mercenary",
+			"meaning": "working or acting only for money or other rewards, rather than for principle or personal interest",
+			"synonyms": [
+				"opportunistic",
+				"self-serving",
+				"greed",
+				"money-oriented"
+			],
+			"examples": [
+				"He was criticized for being a mercenary and only taking on projects that paid well",
+				"The company was known for hiring mercenaries who would do anything for a profit"
+			],
+			"image": "https://www.example.com/images/mercenary.png"
+		}
+		,
+		{
+			"word": "misnomer",
+			"meaning": "a name or term that is incorrectly or wrongly applied",
+			"synonyms": [
+				"mistake",
+				"error",
+				"incorrectness",
+				"impropriety"
+			],
+			"examples": [
+				"The restaurant's name, 'The Friendly Giant,' was a misnomer as the staff was known for being rude and unaccommodating",
+				"It was a misnomer to call the product 'all natural' as it contained several artificial ingredients"
+			],
+			"image": "https://www.example.com/images/misnomer.png"
+		}
+		,
+		{
+			"word": "perfidy",
+			"meaning": "the act of being faithless or disloyal, especially in violation of a duty or loyalty",
+			"synonyms": [
+				"faithlessness",
+				"disloyalty",
+				"treachery",
+				"betrayal",
+				"infidelity"
+			],
+			"examples": [
+				"His perfidy towards his friends was shocking and unexpected",
+				"She was accused of perfidy towards her country when she leaked classified information"
+			],
+			"image": "https://www.example.com/images/perfidy.png"
+		}
+		,
+		{
+			"word": "plodding",
+			"meaning": "moving slowly and steadily, especially in a way that is not very exciting or energetic",
+			"synonyms": [
+				"slow",
+				"tedious",
+				"dull",
+				"unexciting",
+				"methodical"
+			],
+			"examples": [
+				"The plodding pace of the movie made it difficult to stay interested",
+				"He was known for his plodding work ethic and always getting the job done"
+			],
+			"image": "https://www.example.com/images/plodding.png"
+		},
+		{
+			"word": "polemical",
+			"meaning": "involving strong disagreement or argument, especially about a controversial issue",
+			"synonyms": [
+				"contentious",
+				"disputatious",
+				"argumentative",
+				"debatable",
+				"controversial"
+			],
+			"examples": [
+				"The book was a polemical examination of the death penalty",
+				"The debate between the two politicians was polemical and heated"
+			],
+			"image": "https://www.example.com/images/polemical.png"
+		}
+		,
+		{
+			"word": "prescient",
+			"meaning": "having knowledge of events or situations before they happen, especially through intuition or insight",
+			"synonyms": [
+				"foresighted",
+				"prophetic",
+				"percipient",
+				"intuitive",
+				"insightful"
+			],
+			"examples": [
+				"Her prescient warning about the stock market crash proved to be accurate",
+				"He was known for his prescient ability to predict the outcome of political elections"
+			],
+			"image": "https://www.example.com/images/prescient.png"
+		}
+		,
+		{
+			"word": "provincial",
+			"meaning": "relating to or characteristic of a province or provinces; narrow or limited in outlook or experience",
+			"synonyms": [
+				"parochial",
+				"insular",
+				"narrow-minded",
+				"unworldly",
+				"limited"
+			],
+			"examples": [
+				"He was criticized for his provincial views on social issues",
+				"She was disappointed by the provincial attitude of the small town"
+			],
+			"image": "https://www.example.com/images/provincial.png"
+		}
+		,
+		{
+			"word": "subjective",
+			"meaning": "based on personal feelings, tastes, or opinions, rather than on facts or evidence",
+			"synonyms": [
+				"personal",
+				"partial",
+				"biased",
+				"prejudiced",
+				"inaccurate"
+			],
+			"examples": [
+				"His review of the movie was highly subjective and not very useful",
+				"Her subjective views on politics were well known and often controversial"
+			],
+			"image": "https://www.example.com/images/subjective.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "cosmopolitan",
-		"meaning": "mixture of cultures",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "craven",
-		"meaning": "lacking in courage, cowardly",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "meticulous",
-		"meaning": "very careful and precious",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "negligent",
-		"meaning": "failing to take proper care over something",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "precipitate",
-		"meaning": "cause to happen suddenly, unexpectedly or premature",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "pristine",
-		"meaning": "spotless, clean and fresh, immaculate",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "profuse",
-		"meaning": "abundant",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "prosaic",
-		"meaning": "lacking originality, commonplace, unromantic",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "rudimentary",
-		"meaning": "limited to basic principles/ relating to immature form",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "subvert",
-		"meaning": "undermine the power and authority of system"
-	  }
+		{
+			"word": "cosmopolitan",
+			"meaning": "having a wide range of interests and experiences, and not limited to a particular country or place",
+			"synonyms": [
+				"worldly",
+				"sophisticated",
+				"cultured",
+				"erudite",
+				"worldly-wise"
+			],
+			"examples": [
+				"She was known for her cosmopolitan tastes and her love of travel",
+				"The city was a cosmopolitan hub, attracting people from all over the world"
+			],
+			"image": "https://www.example.com/images/cosmopolitan.png"
+		}
+		,
+		{
+			"word": "craven",
+			"meaning": "cowardly, lacking the courage to do what is right or to face danger",
+			"synonyms": [
+				"cowardly",
+				"faint-hearted",
+				"timid",
+				"lily-livered",
+				"yellow-bellied"
+			],
+			"examples": [
+				"He was criticized for his craven decision to back down in the face of opposition",
+				"She was disgusted by his craven behavior and lack of principle"
+			],
+			"image": "https://www.example.com/images/craven.png"
+		}
+		,
+		{
+			"word": "meticulous",
+			"meaning": "showing great attention to detail and careful in one's work",
+			"synonyms": [
+				"precise",
+				"accurate",
+				"careful",
+				"thorough",
+				"conscientious"
+			],
+			"examples": [
+				"She was known for her meticulous work ethic and attention to detail",
+				"The report was meticulous and included every detail of the experiment"
+			],
+			"image": "https://www.example.com/images/meticulous.png"
+		}
+		,
+		{
+			"word": "negligent",
+			"meaning": "failing to take proper care in one's duties or responsibilities, resulting in harm or damage",
+			"synonyms": [
+				"careless",
+				"thoughtless",
+				"inattentive",
+				"irresponsible",
+				"reckless"
+			],
+			"examples": [
+				"He was sued for negligent behavior when his patient died due to his error",
+				"She was criticized for her negligent attitude towards safety protocols"
+			],
+			"image": "https://www.example.com/images/negligent.png"
+		}
+		,
+		{
+			"word": "precipitate",
+			"meaning": "to cause something to happen suddenly or unexpectedly",
+			"synonyms": [
+				"cause",
+				"trigger",
+				"bring about",
+				"prompt",
+				"accelerate"
+			],
+			"examples": [
+				"His rash decision to quit his job precipitated a series of events that led to financial hardship",
+				"The announcement of the new policy precipitated widespread protest"
+			],
+			"image": "https://www.example.com/images/precipitate.png"
+		}
+		,
+		{
+			"word": "pristine",
+			"meaning": "in its original, pure, or uncorrupted state; unspoiled or untouched",
+			"synonyms": [
+				"pure",
+				"unspoiled",
+				"untouched",
+				"unmarred",
+				"unblemished"
+			],
+			"examples": [
+				"The lake was surrounded by pristine wilderness and offered a peaceful escape from the city",
+				"The antique dresser was in pristine condition and appeared to have never been used"
+			],
+			"image": "https://www.example.com/images/pristine.png"
+		}
+		,
+		{
+			"word": "profuse",
+			"meaning": "abundant or very plentiful",
+			"synonyms": [
+				"abundant",
+				"plentiful",
+				"copious",
+				"plenty",
+				"ample"
+			],
+			"examples": [
+				"The garden was producing profuse amounts of vegetables this year",
+				"She offered profuse thanks to the host for the wonderful meal"
+			],
+			"image": "https://www.example.com/images/profuse.png"
+		}
+		,
+		{
+			"word": "prosaic",
+			"meaning": "dull, lacking excitement or imagination; common or ordinary",
+			"synonyms": [
+				"unimaginative",
+				"commonplace",
+				"ordinary",
+				"banal",
+				"unexciting"
+			],
+			"examples": [
+				"He was criticized for his prosaic writing style and lack of creativity",
+				"The movie was described as prosaic and predictable"
+			],
+			"image": "https://www.example.com/images/prosaic.png"
+		}
+		,
+		{
+			"word": "rudimentary",
+			"meaning": "basic or elementary, lacking in development or complexity",
+			"synonyms": [
+				"basic",
+				"elementary",
+				"primitive",
+				"unsophisticated",
+				"crude"
+			],
+			"examples": [
+				"The project was in its rudimentary stages and still needed much work",
+				"She had only a rudimentary understanding of the topic and needed to do more research"
+			],
+			"image": "https://www.example.com/images/rudimentary.png"
+		}
+		,
+		{
+			"word": "subvert",
+			"meaning": "to undermine the power or authority of an established system, especially secretly or gradually",
+			"synonyms": [
+				"undermine",
+				"weaken",
+				"sabotage",
+				"corrupt",
+				"overthrow"
+			],
+			"examples": [
+				"The group was accused of trying to subvert the government through their actions",
+				"He was accused of subverting the company's policies and causing chaos"
+			],
+			"image": "https://www.example.com/images/subvert.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "decorum",
-		"meaning": "behavior in keeping with good taste and propriety",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "deference",
-		"meaning": "polite submission and respect",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "mordant",
-		"meaning": "(humor) having or showing a sharp or critical quality, biting",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "obsequious",
-		"meaning": "obedient to an excessive or servile degree",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "profundity",
-		"meaning": "great depth of insight or knowledge",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "pugnacious",
-		"meaning": "eager to argue, quarrel or fight",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "remedial",
-		"meaning": "intended as cure/ provided or intended for children with learning difficulties/ provided or intended for children with learning difficulties",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "reproach",
-		"meaning": "expression of disapproval",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "salutary",
-		"meaning": "producing good efforts/ beneficial",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "timorous",
-		"meaning": "lack of confidence, easily frightened"
-	  }
+		{
+			"word": "decorum",
+			"meaning": "proper behavior, manners, or conduct, especially in a formal setting",
+			"synonyms": [
+				"propriety",
+				"etiquette",
+				"politeness",
+				"good manners",
+				"courtesy"
+			],
+			"examples": [
+				"The meeting was disrupted by a lack of decorum and several outbursts",
+				"She was praised for her decorum and poise at the formal dinner"
+			],
+			"image": "https://www.example.com/images/decorum.png"
+		}
+		,
+		{
+			"word": "deference",
+			"meaning": "respect or courteous regard for another person's wishes, feelings, or opinions",
+			"synonyms": [
+				"respect",
+				"courtesy",
+				"consideration",
+				"politesse",
+				"courteousness"
+			],
+			"examples": [
+				"She showed deference to the older woman and offered her seat on the bus",
+				"He was praised for his deference to the wishes of the group"
+			],
+			"image": "https://www.example.com/images/deference.png"
+		}
+		,
+		{
+			"word": "mordant",
+			"meaning": "having a sharp, biting, or caustic quality, especially in humor or criticism",
+			"synonyms": [
+				"sharp",
+				"biting",
+				"caustic",
+				"cutting",
+				"sardonic"
+			],
+			"examples": [
+				"The comedian was known for her mordant wit and clever jokes",
+				"His mordant comments about the politicians were widely reported"
+			],
+			"image": "https://www.example.com/images/mordant.png"
+		}
+		,
+		{
+			"word": "obsequious",
+			"meaning": "too eager to obey or serve others, especially in an attempt to gain favor",
+			"synonyms": [
+				"servile",
+				"sycophantic",
+				"fawning",
+				"flattering",
+				"deferential"
+			],
+			"examples": [
+				"He was criticized for his obsequious behavior towards his boss",
+				"She was disgusted by the obsequious attitude of the hotel staff"
+			],
+			"image": "https://www.example.com/images/obsequious.png"
+		}
+		,
+		{
+			"word": "profundity",
+			"meaning": "depth of understanding or knowledge, especially on a complex or profound subject",
+			"synonyms": [
+				"depth",
+				"depth of knowledge",
+				"depth of understanding",
+				"proficiency",
+				"mastery"
+			],
+			"examples": [
+				"His lectures were known for their profundity and insight",
+				"She was impressed by the profundity of his research on the topic"
+			],
+			"image": "https://www.example.com/images/profundity.png"
+		}
+		,
+		{
+			"word": "pugnacious",
+			"meaning": "having a tendency to argue or fight, often in an aggressive or confrontational manner",
+			"synonyms": [
+				"argumentative",
+				"combative",
+				"quarrelsome",
+				"bellicose",
+				"belligerent"
+			],
+			"examples": [
+				"He was known for his pugnacious personality and tendency to start arguments",
+				"She was criticized for her pugnacious behavior in meetings"
+			],
+			"image": "https://www.example.com/images/pugnacious.png"
+		}
+		,
+		{
+			"word": "remedial",
+			"meaning": "intended to correct or improve a deficiency or problem",
+			"synonyms": [
+				"corrective",
+				"reparative",
+				"reformative",
+				"healing",
+				"curative"
+			],
+			"examples": [
+				"The student was placed in a remedial reading class to improve his skills",
+				"The company implemented remedial measures to address the safety concerns"
+			],
+			"image": "https://www.example.com/images/remedial.png"
+		}
+		,
+		{
+			"word": "reproach",
+			"meaning": "expression of disapproval or disappointment, criticism or blame",
+			"synonyms": [
+				"disapproval",
+				"disappointment",
+				"criticism",
+				"blame",
+				"condemnation"
+			],
+			"examples": [
+				"He was met with reproach when he admitted to his mistake",
+				"She was filled with reproach for not standing up for her beliefs"
+			],
+			"image": "https://www.example.com/images/reproach.png"
+		}
+		,
+		{
+			"word": "salutary",
+			"meaning": "having a beneficial or remedial effect; producing positive change",
+			"synonyms": [
+				"beneficial",
+				"remedial",
+				"curative",
+				"helpful",
+				"advantageous"
+			],
+			"examples": [
+				"The new policy had a salutary effect on the company's profits",
+				"The experience was a salutary lesson in the importance of preparedness"
+			],
+			"image": "https://www.example.com/images/salutary.png"
+		}
+		,
+		{
+			"word": "timorous",
+			"meaning": "showing or suffering from nervousness or fear, especially when faced with new situations or challenges",
+			"synonyms": [
+				"nervous",
+				"fearful",
+				"anxious",
+				"apprehensive",
+				"worried"
+			],
+			"examples": [
+				"He was timorous about speaking in public and avoided it whenever possible",
+				"She was too timorous to go on the roller coaster"
+			],
+			"image": "https://www.example.com/images/timorous.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "deft",
-		"meaning": "demonstrating skill and cleverness",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "desultory",
-		"meaning": "lacking plan, purpose or enthusiasm, occurring randomly",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "outstrip",
-		"meaning": "move faster and overtake/ exceed",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "placate",
-		"meaning": "make less angry",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "prophetic",
-		"meaning": "accurately predicting what will happen in future",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "restive",
-		"meaning": "unable to remain still, silent, or submissive, especially because of boredom",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "robust",
-		"meaning": "vigorous/ able to withstand adverse conditions/ forceful",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "sagacious",
-		"meaning": "wise or shrewd, intelligent",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "tortuous",
-		"meaning": "full of twists and turns excessively complex"
-	  }
+		{
+			"word": "deft",
+			"meaning": "skillful, quick, and graceful in movement or action",
+			"synonyms": [
+				"skillful",
+				"clever",
+				"dexterous",
+				"graceful",
+				"adroit"
+			],
+			"examples": [
+				"She was known for her deft touch in the kitchen and could create delicious meals with ease",
+				"He was praised for his deft handling of the difficult situation"
+			],
+			"image": "https://www.example.com/images/deft.png"
+		}
+		,
+		{
+			"word": "desultory",
+			"meaning": "lacking a sense of purpose or direction; random and aimless",
+			"synonyms": [
+				"random",
+				"aimless",
+				"unfocused",
+				"disjointed",
+				"scattered"
+			],
+			"examples": [
+				"The meeting was filled with desultory conversations and seemed to lack a clear agenda",
+				"He was criticized for his desultory approach to work and lack of productivity"
+			],
+			"image": "https://www.example.com/images/desultory.png"
+		}
+		,
+		{
+			"word": "outstrip",
+			"meaning": "to surpass or excel, especially in speed, distance, or achievement",
+			"synonyms": [
+				"surpass",
+				"exceed",
+				"outperform",
+				"outdo",
+				"beat"
+			],
+			"examples": [
+				"The new car can outstrip its competitors in speed and acceleration",
+				"She outstripped her rivals in the race and came in first"
+			],
+			"image": "https://www.example.com/images/outstrip.png"
+		}
+		,
+		{
+			"word": "placate",
+			"meaning": "to calm or pacify, especially by making concessions or giving in to demands",
+			"synonyms": [
+				"pacify",
+				"appease",
+				"soothe",
+				"calm",
+				"conciliate"
+			],
+			"examples": [
+				"He tried to placate the angry customer with a discount and apology",
+				"She was able to placate the upset child with a toy"
+			],
+			"image": "https://www.example.com/images/placate.png"
+		}
+		,
+		{
+			"word": "prophetic",
+			"meaning": "having the ability to predict the future, or expressing such predictions",
+			"synonyms": [
+				"foretelling",
+				"prediction",
+				"prognostication",
+				"divination",
+				"augury"
+			],
+			"examples": [
+				"His words were seen as prophetic as they came true many years later",
+				"She was known for her prophetic dreams and visions"
+			],
+			"image": "https://www.example.com/images/prophetic.png"
+		}
+		,
+		{
+			"word": "restive",
+			"meaning": "uneasy, anxious, or impatient, especially in relation to being confined, controlled, or delayed",
+			"synonyms": [
+				"uneasy",
+				"anxious",
+				"impatient",
+				"restless",
+				"fidgety"
+			],
+			"examples": [
+				"The horses became restive in the storm and were difficult to control",
+				"She grew restive as the meeting went on and on"
+			],
+			"image": "https://www.example.com/images/restive.png"
+		}
+		,
+		{
+			"word": "robust",
+			"meaning": "strong and healthy, able to withstand stress or difficulty",
+			"synonyms": [
+				"strong",
+				"healthy",
+				"vigorous",
+				"sturdy",
+				"durable"
+			],
+			"examples": [
+				"The plant was known for its robust growth and resistance to pests",
+				"He was praised for his robust physical health and active lifestyle"
+			],
+			"image": "https://www.example.com/images/robust.png"
+		}
+		,
+		{
+			"word": "sagacious",
+			"meaning": "having or showing good judgement, wisdom, or common sense",
+			"synonyms": [
+				"wise",
+				"sensible",
+				"prudent",
+				"discreet",
+				"judicious"
+			],
+			"examples": [
+				"He was praised for his sagacious decision-making and ability to find creative solutions",
+				"She was known for her sagacious advice and counsel"
+			],
+			"image": "https://www.example.com/images/sagacious.png"
+		}
+		,
+		{
+			"word": "tortuous",
+			"meaning": "having a very complicated or involved structure or course; twisted or winding",
+			"synonyms": [
+				"complicated",
+				"involved",
+				"twisted",
+				"winding",
+				"sinuous"
+			],
+			"examples": [
+				"The road was tortuous and difficult to navigate",
+				"She became lost in the tortuous maze of the city's streets"
+			],
+			"image": "https://www.example.com/images/tortuous.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "demur",
-		"meaning": "raise objections or show reluctance",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "diffident",
-		"meaning": "modest or shy because of a lack of self-confidence",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "precarious",
-		"meaning": "not securely held or in position; dangerously likely to fall or collapse/ uncertain",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "proclivity",
-		"meaning": "a tendency to choose or do something regularly",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "prudent",
-		"meaning": "acting with or showing care and thought for future",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "salubrious",
-		"meaning": "healthy, pleasant",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "sanguine",
-		"meaning": "optimistic, positive/blood-red",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "slight",
-		"meaning": "small in degree/ inconsiderate/ insult by treating without proper respect",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "sporadic",
-		"meaning": "infrequent, scattered or isolated, occasional",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "tractable",
-		"meaning": "easy to control or influence, easy to deal with"
-	  }
+		{
+			"word": "demur",
+			"meaning": "to express reservations, doubts, or objections, especially politely",
+			"synonyms": [
+				"object",
+				"protest",
+				"resist",
+				"oppose",
+				"disagree"
+			],
+			"examples": [
+				"She demurred at the suggestion and offered an alternative plan",
+				"He demurred to the request, citing a lack of time and resources"
+			],
+			"image": "https://www.example.com/images/demur.png"
+		}
+		,
+		{
+			"word": "diffident",
+			"meaning": "lacking in self-confidence or courage, especially in social situations",
+			"synonyms": [
+				"self-conscious",
+				"shy",
+				"timid",
+				"hesitant",
+				"unassuming"
+			],
+			"examples": [
+				"He was known for his diffident personality and avoided social situations whenever possible",
+				"She was diffident about her abilities and struggled to speak up in meetings"
+			],
+			"image": "https://www.example.com/images/diffident.png"
+		}
+		,
+		{
+			"word": "precarious",
+			"meaning": "uncertain, unstable, or insecure, especially in relation to continued safety or survival",
+			"synonyms": [
+				"uncertain",
+				"unstable",
+				"insecure",
+				"risky",
+				"perilous"
+			],
+			"examples": [
+				"The situation was precarious and it was unclear how it would resolve",
+				"Their financial situation was precarious and they lived paycheck to paycheck"
+			],
+			"image": "https://www.example.com/images/precarious.png"
+		}
+		,
+		{
+			"word": "proclivity",
+			"meaning": "a tendency or inclination towards a particular behavior or type of activity",
+			"synonyms": [
+				"tendency",
+				"inclination",
+				"propensity",
+				"leaning",
+				"predilection"
+			],
+			"examples": [
+				"She had a proclivity for artistic pursuits and spent most of her free time painting",
+				"He had a proclivity towards reckless behavior and often found himself in dangerous situations"
+			],
+			"image": "https://www.example.com/images/proclivity.png"
+		}
+		,
+		{
+			"word": "prudent",
+			"meaning": "acting with or showing care and thought for the future, especially in relation to practical matters",
+			"synonyms": [
+				"careful",
+				"thoughtful",
+				"wise",
+				"sensible",
+				"judicious"
+			],
+			"examples": [
+				"It was considered a prudent decision to save money for a rainy day",
+				"She was known for her prudent management of her finances"
+			],
+			"image": "https://www.example.com/images/prudent.png"
+		}
+		,
+		{
+			"word": "salubrious",
+			"meaning": "promoting health or well-being, especially in relation to the environment or climate",
+			"synonyms": [
+				"healthy",
+				"beneficial",
+				"wholesome",
+				"good for one's health",
+				"conducive to well-being"
+			],
+			"examples": [
+				"The town was known for its salubrious climate and clean air",
+				"The natural surroundings were considered salubrious and contributed to the high quality of life in the area"
+			],
+			"image": "https://www.example.com/images/salubrious.png"
+		}
+		,
+		{
+			"word": "sanguine",
+			"meaning": "having a cheerful and confident disposition, especially in relation to future prospects",
+			"synonyms": [
+				"cheerful",
+				"confident",
+				"optimistic",
+				"hopeful",
+				"upbeat"
+			],
+			"examples": [
+				"Despite the setbacks, he remained sanguine about the future and believed that things would work out",
+				"She was sanguine about the outcome of the election and felt sure that her candidate would win"
+			],
+			"image": "https://www.example.com/images/sanguine.png"
+		}
+		,
+		{
+			"word": "slight",
+			"meaning": "small, thin, or fragile in build or appearance; not significant or important",
+			"synonyms": [
+				"small",
+				"thin",
+				"fragile",
+				"insignificant",
+				"unimportant"
+			],
+			"examples": [
+				"She had a slight build and was easily knocked over by the wind",
+				"The difference in their scores was slight and not statistically significant"
+			],
+			"image": "https://www.example.com/images/slight.png"
+		}
+		,
+		{
+			"word": "sporadic",
+			"meaning": "occurring at irregular intervals or only in a few places; not regular or consistent",
+			"synonyms": [
+				"irregular",
+				"inconsistent",
+				"infrequent",
+				"occasional",
+				"intermittent"
+			],
+			"examples": [
+				"The power outages were sporadic and difficult to predict",
+				"Her attendance at meetings was sporadic and she often missed important discussions"
+			],
+			"image": "https://www.example.com/images/sporadic.png"
+		}
+		,
+		{
+			"word": "tractable",
+			"meaning": "easily managed or controlled; capable of being taught or influenced",
+			"synonyms": [
+				"manageable",
+				"controllable",
+				"teachable",
+				"influencable",
+				"malleable"
+			],
+			"examples": [
+				"The new software was much more tractable and easier to use",
+				"He was known for his tractable personality and was always willing to learn"
+			],
+			"image": "https://www.example.com/images/tractable.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "derivative",
-		"meaning": "imitative of the work of another",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "dilatory",
-		"meaning": "slow to act, intended to cause delay",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "puerile",
-		"meaning": "childishly silly",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "punctilious",
-		"meaning": "showing great attention to detail or correct behavior",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "quirky",
-		"meaning": "having or characterized by peculiar or unexpected traits or aspects",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "sanction",
-		"meaning": "official permission/ a threatened penalty for disobeying rule",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "scant",
-		"meaning": "insufficient or barely sufficient",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "somnolent",
-		"meaning": "sleepy, drowsy",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "stigmatize",
-		"meaning": "great disapproval",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "transient",
-		"meaning": "lasting for a short time"
-	  }
+		{
+			"word": "derivative",
+			"meaning": "obtained or developed from something else, especially through the process of copying or adaptation",
+			"synonyms": [
+				"derived",
+				"borrowed",
+				"adapted",
+				"copied",
+				"influenced"
+			],
+			"examples": [
+				"The new product was a derivative of the original and contained many of the same features",
+				"The movie was accused of being too derivative and lacking in originality"
+			],
+			"image": "https://www.example.com/images/derivative.png"
+		}
+		,
+		{
+			"word": "dilatory",
+			"meaning": "intending or tending to delay or postpone action; slow or late in acting or doing something",
+			"synonyms": [
+				"delaying",
+				"postponing",
+				"slow",
+				"late",
+				"procrastinating"
+			],
+			"examples": [
+				"The dilatory tactics of the opposition party caused the legislation to be delayed for months",
+				"She was known for her dilatory approach to tasks and often missed deadlines"
+			],
+			"image": "https://www.example.com/images/dilatory.png"
+		}
+		,
+		{
+			"word": "puerile",
+			"meaning": "childish or immature in a way that is not appropriate for the person's age",
+			"synonyms": [
+				"childish",
+				"immature",
+				"juvenile",
+				"silly",
+				"foolish"
+			],
+			"examples": [
+				"His puerile behavior at the party embarrassed his friends",
+				"She was disappointed by the puerile content of the movie and felt it was a waste of time"
+			],
+			"image": "https://www.example.com/images/puerile.png"
+		}
+		,
+		{
+			"word": "punctilious",
+			"meaning": "strictly attentive to detail and etiquette, especially in matters of formal behavior",
+			"synonyms": [
+				"attentive to detail",
+				"etiquette-conscious",
+				"meticulous",
+				"formal",
+				"particular"
+			],
+			"examples": [
+				"He was known for his punctilious nature and always made sure to follow protocol",
+				"She was punctilious about her appearance and always dressed impeccably"
+			],
+			"image": "https://www.example.com/images/punctilious.png"
+		}
+		,
+		{
+			"word": "quirky",
+			"meaning": "unusual or peculiar in a way that is playful or charming",
+			"synonyms": [
+				"unusual",
+				"peculiar",
+				"playful",
+				"charming",
+				"eccentric"
+			],
+			"examples": [
+				"The store had a quirky selection of items and was a popular destination for tourists",
+				"She had a quirky sense of humor and always made people laugh"
+			],
+			"image": "https://www.example.com/images/quirky.png"
+		}
+		,
+		{
+			"word": "sanction",
+			"meaning": "official permission or approval, especially for an action or policy",
+			"synonyms": [
+				"permission",
+				"approval",
+				"authorization",
+				"consent",
+				"endorsement"
+			],
+			"examples": [
+				"The project received official sanction from the government and was allowed to proceed",
+				"The sanctions imposed by the international community were meant to discourage the country's nuclear program"
+			],
+			"image": "https://www.example.com/images/sanction.png"
+		}
+		,
+		{
+			"word": "scant",
+			"meaning": "barely sufficient or adequate in amount or quantity",
+			"synonyms": [
+				"barely sufficient",
+				"inadequate",
+				"insufficient",
+				"meager",
+				"limited"
+			],
+			"examples": [
+				"There was a scant amount of food left in the pantry",
+				"The information provided was scant and they needed more details to make a decision"
+			],
+			"image": "https://www.example.com/images/scant.png"
+		}
+		,
+		{
+			"word": "somnolent",
+			"meaning": "tending to cause sleep or drowsiness, especially due to being tedious or boring",
+			"synonyms": [
+				"sleep-inducing",
+				"drowsy",
+				"tedious",
+				"boring",
+				"soporific"
+			],
+			"examples": [
+				"The somnolent lecture put many of the students to sleep",
+				"The heat and the long day made him feel somnolent and he struggled to stay awake"
+			],
+			"image": "https://www.example.com/images/somnolent.png"
+		}
+		,
+		{
+			"word": "stigmatize",
+			"meaning": "to mark or label as disgraceful or shameful",
+			"synonyms": [
+				"mark",
+				"label",
+				"shame",
+				"disgrace",
+				"condemn"
+			],
+			"examples": [
+				"Her mental illness was stigmatized and she faced discrimination because of it",
+				"The scandal stigmatized the company and its reputation was damaged"
+			],
+			"image": "https://www.example.com/images/stigmatize.png"
+		}
+		,
+		{
+			"word": "transient",
+			"meaning": "temporary or short-lived, especially in relation to residence or occupation",
+			"synonyms": [
+				"temporary",
+				"short-lived",
+				"ephemeral",
+				"fleeting",
+				"momentary"
+			],
+			"examples": [
+				"The transient population of the city made it difficult to build a sense of community",
+				"The transient nature of the job meant that he was constantly moving"
+			],
+			"image": "https://www.example.com/images/transient.png"
+		}
+		
 	],
 	[
-	  {
-		"word": "desiccate",
-		"meaning": "cause to become completely dry",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "equivocate",
-		"meaning": "use ambiguous language",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "quixotic",
-		"meaning": "extremely idealistic, unrealistic, impractical",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "recondite",
-		"meaning": "little known, abstruse",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "repudiate",
-		"meaning": "refuse to accept/ deny the truth or validity",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "sedulous",
-		"meaning": "showing dedication and diligence",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
-	  {
-		"word": "skulduggery",
-		"meaning": "dishonest behavior or activities/ trickery",
-		"examples": [
-		  ""
-		],
-		"image": ""
-	  },
+		{
+			"word": "desiccate",
+			"meaning": "to remove moisture from something, making it dry and brittle",
+			"synonyms": [
+				"dry",
+				"dehydrate",
+				"brittle",
+				"arid",
+				"parched"
+			],
+			"examples": [
+				"The heat and sun desiccated the soil, making it difficult for plants to grow",
+				"The fruit was desiccated and had lost its flavor"
+			],
+			"image": "https://www.example.com/images/desiccate.png"
+		}
+		,
+		{
+			"word": "equivocate",
+			"meaning": "to speak or act in an intentionally vague or ambiguous way, especially in order to deceive or mislead",
+			"synonyms": [
+				"vague",
+				"ambiguous",
+				"evasive",
+				"noncommittal",
+				"deceptive"
+			],
+			"examples": [
+				"He was accused of equivocating when asked about his involvement in the scandal",
+				"She was known for her ability to equivocate and never give a straight answer"
+			],
+			"image": "https://www.example.com/images/equivocate.png"
+		}
+		,
+		{
+			"word": "quixotic",
+			"meaning": "having or marked by impractical idealism and a lack of common sense, especially as a result of excessive enthusiasm or devotion to a romantic or noble cause",
+			"synonyms": [
+				"idealistic",
+				"impractical",
+				"unrealistic",
+				"romantic",
+				"noble"
+			],
+			"examples": [
+				"His quixotic pursuit of the impossible dream was admirable, if somewhat naive",
+				"She was known for her quixotic nature and her willingness to take on difficult causes"
+			],
+			"image": "https://www.example.com/images/quixotic.png"
+		}
+		,
+		{
+			"word": "recondite",
+			"meaning": "difficult to understand or comprehend, especially because of being abstruse or obscure",
+			"synonyms": [
+				"difficult to understand",
+				"abstruse",
+				"obscure",
+				"esoteric",
+				"profound"
+			],
+			"examples": [
+				"His work on quantum physics was considered recondite and was only understood by a few experts in the field",
+				"The poem was filled with recondite allusions that were difficult for most readers to understand"
+			],
+			"image": "https://www.example.com/images/recondite.png"
+		}
+		,
+		{
+			"word": "repudiate",
+			"meaning": "to reject as having no authority or binding force, to disown or disavow",
+			"synonyms": [
+				"reject",
+				"disown",
+				"disavow",
+				"deny",
+				"condemn"
+			],
+			"examples": [
+				"He repudiated the agreement and refused to be bound by its terms",
+				"She repudiated her earlier statements and claimed that she had been misquoted"
+			],
+			"image": "https://www.example.com/images/repudiate.png"
+		}
+		,
+		{
+			"word": "sedulous",
+			"meaning": "diligent and persistent in working or studying, especially in a thorough or careful way",
+			"synonyms": [
+				"diligent",
+				"persistent",
+				"thorough",
+				"careful",
+				"attentive"
+			],
+			"examples": [
+				"He was known for his sedulous attention to detail and his ability to produce high-quality work",
+				"Her sedulous studying paid off and she received top marks on the exam"
+			],
+			"image": "https://www.example.com/images/sedulous.png"
+		}
+		,
+		{
+			"word": "skulduggery",
+			"meaning": "devious or dishonest behavior or actions, especially in relation to the acquisition of money or power",
+			"synonyms": [
+				"deviousness",
+				"dishonesty",
+				"corruption",
+				"trickery",
+				"scheming"
+			],
+			"examples": [
+				"The investigation uncovered evidence of skulduggery and fraud within the company",
+				"He was accused of engaging in skulduggery to win the election"
+			],
+			"image": "https://www.example.com/images/skulduggery.png"
+		}
+		,
 	  {
 		"word": "stoic",
 		"meaning": "a person who can endure pain without complaining",
