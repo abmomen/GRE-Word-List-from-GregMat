@@ -7567,79 +7567,161 @@
 	[
 	   {
 		  "word":"discount",
-		  "meaning":"regard as being unworthy of consideration",
-		  "examples":[
-			 ""
+		  "meaning":"a reduction in the price of something",
+		  "synonyms":[
+			 "reduction",
+			 "cut",
+			 "deduction",
+			 "rebate",
+			 "markdown"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The store is offering a 20% discount on all items",
+			 "I got a discount on my car insurance because I have a clean driving record"
+		  ],
+		  "image":"https://www.example.com/images/discount.png"
 	   },
 	   {
 		  "word":"discreet",
-		  "meaning":"careful in order to keep something confidential/ intentionally unobtrusive",
-		  "examples":[
-			 ""
+		  "meaning":"careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage",
+		  "synonyms":[
+			 "prudent",
+			 "circumspect",
+			 "cautious",
+			 "judicious",
+			 "sagacious"
 		  ],
-		  "image":""
+		  "examples":[
+			 "She was very discreet about her private life",
+			 "He was discreet in his criticism of the company's management"
+		  ],
+		  "image":"https://www.example.com/images/discreet.png"
 	   },
 	   {
 		  "word":"exhaustive",
-		  "meaning":" including all elements or aspects, comprehensive",
-		  "examples":[
-			 ""
+		  "meaning":"including or considering all elements or aspects",
+		  "synonyms":[
+			 "complete",
+			 "thorough",
+			 "comprehensive",
+			 "all-inclusive",
+			 "full"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The report was an exhaustive study of the problem",
+			 "She made an exhaustive search for her lost keys"
+		  ],
+		  "image":"https://www.example.com/images/exhaustive.png"
 	   },
 	   {
 		  "word":"exotic",
-		  "meaning":"organizing in or characteristic of a distant foreign country/ attractive/ specially produced",
-		  "examples":[
-			 ""
+		  "meaning":"strange or unusual, especially in an interesting or attractive way",
+		  "synonyms":[
+			 "unfamiliar",
+			 "unusual",
+			 "uncommon",
+			 "unconventional",
+			 "bizarre"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The small island was home to many exotic species of animals",
+			 "The restaurant's menu featured a variety of exotic dishes from around the world"
+		  ],
+		  "image":"https://www.example.com/images/exotic.png"
 	   },
 	   {
 		  "word":"facetious",
-		  "meaning":"treating serious issues with deliberately inappropriate humor; flippant",
-		  "examples":[
-			 ""
+		  "meaning":"treating serious issues with inappropriate humor",
+		  "synonyms":[
+			 "flippant",
+			 "jocular",
+			 "lighthearted",
+			 "humorous",
+			 "tongue-in-cheek"
 		  ],
-		  "image":""
+		  "examples":[
+			 "He made a facetious remark about the situation",
+			 "She gave a facetious answer to the question"
+		  ],
+		  "image":"https://www.example.com/images/facetious.png"
 	   },
 	   {
 		  "word":"fallacious",
-		  "meaning":"based on a mistaken belief",
-		  "examples":[
-			 ""
+		  "meaning":"based on a mistake or false idea; not correct",
+		  "synonyms":[
+			 "erroneous",
+			 "misleading",
+			 "incorrect",
+			 "mistaken",
+			 "deceptive"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The argument was fallacious and didn't hold up to scrutiny",
+			 "His conclusion was fallacious because it was based on incomplete data"
+		  ],
+		  "image":"https://www.example.com/images/fallacious.png"
 	   },
 	   {
 		  "word":"fractious",
-		  "meaning":"irritable and quarrelsome/ difficult to control, unruly",
-		  "examples":[
-			 ""
+		  "meaning":"easily annoyed or provoked and liable to make a fuss",
+		  "synonyms":[
+			 "irritable",
+			 "irascible",
+			 "petulant",
+			 "peevish",
+			 "testy"
 		  ],
-		  "image":""
+		  "examples":[
+			 "She's very fractious today",
+			 "He's always so fractious when he's tired"
+		  ],
+		  "image":"https://www.example.com/images/fractious.png"
 	   },
 	   {
 		  "word":"fungible",
-		  "meaning":"mutually interchangeable",
-		  "examples":[
-			 ""
+		  "meaning":"able to be replaced by another thing of the same type or value",
+		  "synonyms":[
+			 "interchangeable",
+			 "replaceable",
+			 "substitutable"
 		  ],
-		  "image":""
+		  "examples":[
+			 "Money is a fungible commodity, so a dollar bill can be exchanged for any other dollar bill",
+			 "In the stock market, shares of a particular company are often considered to be fungible"
+		  ],
+		  "image":"https://www.example.com/images/fungible.png"
 	   },
 	   {
 		  "word":"immure",
-		  "meaning":"enclose or confine against their will",
-		  "examples":[
-			 ""
+		  "meaning":"confine or imprison within walls",
+		  "synonyms":[
+			 "incarcerate",
+			 "imprison",
+			 "jail",
+			 "shut in",
+			 "coop up"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The ruler immured his enemies in the tower",
+			 "She was immured in her bedroom for a week after breaking her leg"
+		  ],
+		  "image":"https://www.example.com/images/immure.png"
 	   },
 	   {
 		  "word":"libertine",
-		  "meaning":" a person who freely indulges in sensual pleasures without moral principles"
+		  "meaning":"a person who is sexually promiscuous and lacks moral principles",
+		  "synonyms":[
+			 "lecher",
+			 "debauchee",
+			 "roué",
+			 "dissolute",
+			 "debauched"
+		  ],
+		  "examples":[
+			 "He was notorious for his libertine lifestyle",
+			 "She was wary of his reputation as a libertine"
+		  ],
+		  "image":"https://www.example.com/images/libertine.png"
 	   }
 	],
 	[
