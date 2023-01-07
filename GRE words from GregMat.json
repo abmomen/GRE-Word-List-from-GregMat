@@ -5337,2189 +5337,2231 @@
 		  "image":"https://www.example.com/images/skulduggery.png"
 	   },
 	   {
-		"word": "stoic",
-		"meaning": "calm and unemotional, especially in difficult or painful situations",
-		"synonyms": [
-			"calm",
-			"unemotional",
-			"resigned",
-			"unruffled",
-			"unflappable"
-		],
-		"examples": [
-			"He remained stoic in the face of adversity",
-			"She was admired for her stoic demeanor during the crisis"
-		],
-		"image": "https://www.example.com/images/stoic.png"
-	}
-	,
-	{
-		"word": "ubiquitous",
-		"meaning": "present or appearing everywhere, constantly encountered",
-		"synonyms": [
-			"everywhere",
-			"omnipresent",
-			"pervasive",
-			"prevalent",
-			"widespread"
-		],
-		"examples": [
-			"Smartphones have become ubiquitous in modern society",
-			"His songs were ubiquitous on the radio"
-		],
-		"image": "https://www.example.com/images/ubiquitous.png"
-	}
-	,
-	{
-		"word": "undermine",
-		"meaning": "to weaken or damage, especially gradually or insidiously",
-		"synonyms": [
-			"weaken",
-			"damage",
-			"sabotage",
-			"subvert",
-			"erode"
-		],
-		"examples": [
-			"His constant criticism undermined her confidence",
-			"Her poor health habits were undermining her well-being"
-		],
-		"image": "https://www.example.com/images/undermine.png"
-	}
-	
-	],
-	[
-		{
-			"word": "diatribe",
-			"meaning": "a harsh and critical speech or written attack, especially a long and bitter one",
-			"synonyms": [
-				"attack",
-				"criticism",
-				"denunciation",
-				"tirade",
-				"rant"
-			],
-			"examples": [
-				"He launched into a diatribe against the government's policies",
-				"Her diatribe against her former employer was filled with accusations and insults"
-			],
-			"image": "https://www.example.com/images/diatribe.png"
-		}
-		,
-		{
-			"word": "polarize",
-			"meaning": "to cause (a group or society) to divide into two sharply conflicting groups or sets of opinions or beliefs",
-			"synonyms": [
-				"divide",
-				"split",
-				"fracture",
-				"disrupt",
-				"fragment"
-			],
-			"examples": [
-				"The issue of gun control has polarized the country",
-				"His controversial views have polarized the community"
-			],
-			"image": "https://www.example.com/images/polarize.png"
-		}
-		,
-		{
-			"word": "scrupulous",
-			"meaning": "careful and thorough in doing something, especially to ensure that it is done correctly and according to the rules",
-			"synonyms": [
-				"careful",
-				"thorough",
-				"conscientious",
-				"reliable",
-				"meticulous"
-			],
-			"examples": [
-				"She was known for her scrupulous attention to detail",
-				"He was scrupulous in following the procedures outlined in the manual"
-			],
-			"image": "https://www.example.com/images/scrupulous.png"
-		}
-		,
-		{
-			"word": "soporific",
-			"meaning": "having a sleep-inducing effect, causing drowsiness or lethargy",
-			"synonyms": [
-				"sleep-inducing",
-				"drowsy",
-				"lethargic",
-				"languid",
-				"lethargic"
-			],
-			"examples": [
-				"The long flight and soporific atmosphere of the conference room had put him to sleep",
-				"The medication had a strong soporific effect, making it difficult for him to stay awake"
-			],
-			"image": "https://www.example.com/images/soporific.png"
-		}
-		,
-		{
-			"word": "spendthrift",
-			"meaning": "a person who spends money carelessly or wastefully",
-			"synonyms": [
-				"extravagant",
-				"prodigal",
-				"wasteful",
-				"frivolous"
-			],
-			"examples": [
-				"His spendthrift ways had left him deeply in debt",
-				"She was known as a spendthrift, always buying lavish gifts for herself and others"
-			],
-			"image": "https://www.example.com/images/spendthrift.png"
-		}
-		,
-		{
-			"word": "supersede",
-			"meaning": "to take the place of (something), making it no longer necessary or useful",
-			"synonyms": [
-				"replace",
-				"supersede",
-				"supplant",
-				"eclipse",
-				"obviate"
-			],
-			"examples": [
-				"The new software will supersede the old version",
-				"His research superseded the previous findings on the topic"
-			],
-			"image": "https://www.example.com/images/supersede.png"
-		}
-		,
-		{
-			"word": "trivial",
-			"meaning": "of little importance or value, insignificant",
-			"synonyms": [
-				"unimportant",
-				"insignificant",
-				"minor",
-				"petty",
-				"frivolous"
-			],
-			"examples": [
-				"She dismissed the criticism as trivial",
-				"The problem was trivial and easily fixed"
-			],
-			"image": "https://www.example.com/images/trivial.png"
-		}
-		,
-		{
-			"word": "underscore",
-			"meaning": "to emphasize or give importance to something",
-			"synonyms": [
-				"emphasize",
-				"highlight",
-				"stress",
-				"emphasize",
-				"exaggerate"
-			],
-			"examples": [
-				"His speech underscored the importance of education",
-				"Her actions underscore her commitment to the cause"
-			],
-			"image": "https://www.example.com/images/underscore.png"
-		}
-		,
-		{
-			"word": "utterly",
-			"meaning": "completely, absolutely, totally",
-			"synonyms": [
-				"completely",
-				"absolutely",
-				"totally",
-				"fully",
-				"thoroughly"
-			],
-			"examples": [
-				"He was utterly exhausted after running the marathon",
-				"The play was utterly ridiculous and I couldn't stop laughing"
-			],
-			"image": "https://www.example.com/images/utterly.png"
-		}
-		
-	],
-	[
-		{
-			"word": "incredulous",
-			"meaning": "unable to believe something, skeptical or doubtful",
-			"synonyms": [
-				"skeptical",
-				"doubtful",
-				"unbelieving",
-				"disbelieving",
-				"dubious"
-			],
-			"examples": [
-				"She was incredulous when he told her the news",
-				"He was incredulous at the outrageous claim"
-			],
-			"image": "https://www.example.com/images/incredulous.png"
-		}
-		,
-		{
-			"word": "prodigal",
-			"meaning": "wastefully extravagant, lavish or reckless with money or resources",
-			"synonyms": [
-				"extravagant",
-				"wasteful",
-				"spendthrift",
-				"frivolous"
-			],
-			"examples": [
-				"His prodigal spending habits left him in debt",
-				"She was known for her prodigal generosity, always giving lavishly to others"
-			],
-			"image": "https://www.example.com/images/prodigal.png"
-		}
-		,
-		{
-			"word": "stern",
-			"meaning": "serious and strict, showing no kindness or warmth",
-			"synonyms": [
-				"serious",
-				"strict",
-				"harsh",
-				"severe",
-				"austere"
-			],
-			"examples": [
-				"He had a stern expression on his face",
-				"The teacher's stern voice silenced the classroom"
-			],
-			"image": "https://www.example.com/images/stern.png"
-		}
-		,
-		{
-			"word": "taciturn",
-			"meaning": "not inclined to speak much, quiet or reticent",
-			"synonyms": [
-				"quiet",
-				"reticent",
-				"reserved",
-				"silent",
-				"uncommunicative"
-			],
-			"examples": [
-				"He was known to be a taciturn person, preferring to listen rather than speak",
-				"She was surprised by his taciturn behavior, as he usually had a lot to say"
-			],
-			"image": "https://www.example.com/images/taciturn.png"
-		}
-		,
-		{
-			"word": "tout",
-			"meaning": "to promote or publicize something or someone in an aggressive or boastful way",
-			"synonyms": [
-				"promote",
-				"publicize",
-				"boast",
-				"brag",
-				"puff"
-			],
-			"examples": [
-				"He was always trying to tout his latest business venture",
-				"The company was accused of touting its product as a cure-all"
-			],
-			"image": "https://www.example.com/images/tout.png"
-		}
-		,
-		{
-			"word": "tout",
-			"meaning": "to promote or publicize something or someone in an aggressive or boastful way",
-			"synonyms": [
-				"promote",
-				"publicize",
-				"boast",
-				"brag",
-				"puff"
-			],
-			"examples": [
-				"He was always trying to tout his latest business venture",
-				"The company was accused of touting its product as a cure-all"
-			],
-			"image": "https://www.example.com/images/tout.png"
-		}
-		,
-		{
-			"word": "trifling",
-			"meaning": "of little value or importance, insignificant",
-			"synonyms": [
-				"unimportant",
-				"insignificant",
-				"minor",
-				"petty",
-				"frivolous"
-			],
-			"examples": [
-				"He dismissed the problem as trifling",
-				"The amount of money involved was trifling compared to their net worth"
-			],
-			"image": "https://www.example.com/images/trifling.png"
-		}
-		,
-		{
-			"word": "utilitarian",
-			"meaning": "having a practical purpose and being useful rather than decorative, designed for utility rather than beauty",
-			"synonyms": [
-				"practical",
-				"useful",
-				"functional",
-				"serviceable"
-			],
-			"examples": [
-				"The room was furnished with utilitarian pieces",
-				"He preferred utilitarian clothes that were comfortable and practical"
-			],
-			"image": "https://www.example.com/images/utilitarian.png"
-		}
-		,
-		{
-			"word": "venal",
-			"meaning": "willing to do dishonest or corrupt things in exchange for money or personal gain",
-			"synonyms": [
-				"corrupt",
-				"dishonest",
-				"bribable",
-				"greedy",
-				"unscrupulous"
-			],
-			"examples": [
-				"The company was accused of having venal executives who were willing to take bribes",
-				"He was a venal politician who would do anything for personal gain"
-			],
-			"image": "https://www.example.com/images/venal.png"
-		}
-		,
-		{
-			"word": "weary",
-			"meaning": "feeling tired, exhausted or drained, lacking energy or enthusiasm",
-			"synonyms": [
-				"tired",
-				"exhausted",
-				"drained",
-				"fatigued",
-				"lethargic"
-			],
-			"examples": [
-				"She was too weary to go out after a long day at work",
-				"He was weary of the never-ending conflict"
-			],
-			"image": "https://www.example.com/images/weary.png"
-		}
-		
-	],
-	[
-		{
-			"word": "ingenuous",
-			"meaning": "naive or innocent, showing lack of experience or sophistication",
-			"synonyms": [
-				"naive",
-				"innocent",
-				"unsophisticated",
-				"simple",
-				"unworldly"
-			],
-			"examples": [
-				"She was too ingenuous to realize the danger she was in",
-				"He was an ingenuous young man who trusted everyone"
-			],
-			"image": "https://www.example.com/images/ingenuous.png"
-		}
-		,
-		{
-			"word": "tendentious",
-			"meaning": "having a bias or an ulterior motive, designed to further a particular cause or point of view",
-			"synonyms": [
-				"biased",
-				"partial",
-				"prejudiced",
-				"subjective",
-				"one-sided"
-			],
-			"examples": [
-				"The article was tendentious and only presented one side of the argument",
-				"He was accused of writing tendentious history that was skewed in favor of his own beliefs"
-			],
-			"image": "https://www.example.com/images/tendentious.png"
-		}
-		,
-		{
-			"word": "turbulent",
-			"meaning": "having or characterized by violent disturbance, turmoil, or unrest",
-			"synonyms": [
-				"violent",
-				"disturbed",
-				"turmoil",
-				"unrest",
-				"agitation"
-			],
-			"examples": [
-				"The country was going through a turbulent period of political unrest",
-				"The flight encountered turbulent weather"
-			],
-			"image": "https://www.example.com/images/turbulent.png"
-		}
-		,
-		{
-			"word": "vacillate",
-			"meaning": "to change one's mind or indecisively waver between different opinions or actions",
-			"synonyms": [
-				"waver",
-				"hesitate",
-				"waver",
-				"oscillate",
-				"fluctuate"
-			],
-			"examples": [
-				"He vacillated between quitting his job and staying",
-				"She vacillated on whether to go on the trip or not"
-			],
-			"image": "https://www.example.com/images/vacillate.png"
-		}
-		,
-		{
-			"word": "vapid",
-			"meaning": "lacking liveliness, spirit, or interest, dull and uninspiring",
-			"synonyms": [
-				"dull",
-				"uninspiring",
-				"boring",
-				"uninteresting",
-				"stale"
-			],
-			"examples": [
-				"The movie was vapid and left me feeling unfulfilled",
-				"The party was filled with vapid conversations"
-			],
-			"image": "https://www.example.com/images/vapid.png"
-		}
-		,
-		{
-			"word": "venerate",
-			"meaning": "to respect or honor deeply, to hold in high regard",
-			"synonyms": [
-				"respect",
-				"honor",
-				"reverence",
-				"adore",
-				"worship"
-			],
-			"examples": [
-				"He venerated his mentor and always sought her guidance",
-				"The ancient civilization venerated their gods"
-			],
-			"image": "https://www.example.com/images/venerate.png"
-		}
-		,
-		{
-			"word": "verbose",
-			"meaning": "using or expressing more words than are necessary, tending to use a lot of words",
-			"synonyms": [
-				"wordy",
-				"long-winded",
-				"prolix",
-				"loquacious",
-				"garrulous"
-			],
-			"examples": [
-				"His speech was verbose and hard to follow",
-				"She had a tendency to be verbose in her writing"
-			],
-			"image": "https://www.example.com/images/verbose.png"
-		}
-		,
-		{
-			"word": "wane",
-			"meaning": "to gradually decrease in size, strength, or intensity",
-			"synonyms": [
-				"decrease",
-				"diminish",
-				"fade",
-				"ebb",
-				"decline"
-			],
-			"examples": [
-				"The moon waned from a full to a crescent shape",
-				"His enthusiasm for the project began to wane"
-			],
-			"image": "https://www.example.com/images/wane.png"
-		}
-		,
-		{
-			"word": "wary",
-			"meaning": "feeling or showing caution about something potentially dangerous, untrustworthy, or uncertain",
-			"synonyms": [
-				"cautious",
-				"vigilant",
-				"suspicious",
-				"guarded",
-				"hesitant"
-			],
-			"examples": [
-				"She was wary of his motives and didn't trust him",
-				"He was wary of the strange noise coming from the basement"
-			],
-			"image": "https://www.example.com/images/wary.png"
-		}
-		,
-		{
-			"word": "zealous",
-			"meaning": "having or showing great enthusiasm and determination, eager to do something",
-			"synonyms": [
-				"enthusiastic",
-				"determined",
-				"ardent",
-				"passionate",
-				"eager"
-			],
-			"examples": [
-				"She was zealous in her pursuit of justice",
-				"He was zealous in his support for the team"
-			],
-			"image": "https://www.example.com/images/zealous.png"
-		}
-		
-	],
-	[
-		{
-			"word": "abet",
-			"meaning": "to encourage, support, or help in the commission of a crime or wrongdoing",
-			"synonyms": [
-				"encourage",
-				"support",
-				"aid",
-				"assist",
-				"abet"
-			],
-			"examples": [
-				"He was charged with abetting the robbery",
-				"She was accused of abetting the embezzlement"
-			],
-			"image": "https://www.example.com/images/abet.png"
-		}
-		,
-		{
-			"word": "abhor",
-			"meaning": "to hate or detest intensely, to find repugnant",
-			"synonyms": [
-				"hate",
-				"detest",
-				"loathe",
-				"despise",
-				"abominate"
-			],
-			"examples": [
-				"He abhorred violence and would never use it himself",
-				"She abhorred the idea of eating sushi"
-			],
-			"image": "https://www.example.com/images/abhor.png"
-		}
-		,
-		{
-			"word": "abreast",
-			"meaning": "side by side, level with, in the same position",
-			"synonyms": [
-				"side by side",
-				"level with",
-				"in the same position",
-				"alongside"
-			],
-			"examples": [
-				"The two runners were running abreast of each other",
-				"The two cars were driving abreast in the same lane"
-			],
-			"image": "https://www.example.com/images/abreast.png"
-		}
-		,
-		{
-			"word": "acclaim",
-			"meaning": "strong approval or admiration expressed by shouting, applause, or other means, praise or honor",
-			"synonyms": [
-				"approval",
-				"admiration",
-				"praise",
-				"honor",
-				"fame"
-			],
-			"examples": [
-				"The singer received acclaim from the audience",
-				"The book received acclaim from critics"
-			],
-			"image": "https://www.example.com/images/acclaim.png"
-		}
-		,
-		{
-			"word": "acolyte",
-			"meaning": "a person who helps or assists, especially in a religious ceremony or service",
-			"synonyms": [
-				"assistant",
-				"aide",
-				"helper",
-				"attendant",
-				"follower"
-			],
-			"examples": [
-				"The acolytes assisted the priests during the mass",
-				"He served as an acolyte at the temple"
-			],
-			"image": "https://www.example.com/images/acolyte.png"
-		}
-		,
-		{
-			"word": "acquiesce",
-			"meaning": "to accept, comply, or agree to something reluctantly, but without protest",
-			"synonyms": [
-				"accept",
-				"comply",
-				"agree",
-				"submit",
-				"yield"
-			],
-			"examples": [
-				"She acquiesced to his request to attend the party",
-				"He reluctantly acquiesced to their demands"
-			],
-			"image": "https://www.example.com/images/acquiesce.png"
-		}
-		,
-		{
-			"word": "acrimonious",
-			"meaning": "full of anger and bitterness, harsh or venomous in language or tone",
-			"synonyms": [
-				"angry",
-				"bitter",
-				"harsh",
-				"venomous",
-				"fierce"
-			],
-			"examples": [
-				"The divorce was acrimonious and both sides said harsh things about each other",
-				"The meeting turned acrimonious when tempers flared"
-			],
-			"image": "https://www.example.com/images/acrimonious.png"
-		}
-		,
-		{
-			"word": "affinity",
-			"meaning": "a natural liking or attraction for someone or something, a relationship or connection",
-			"synonyms": [
-				"liking",
-				"attraction",
-				"relationship",
-				"connection",
-				"kinship"
-			],
-			"examples": [
-				"She had an affinity for animals and loved spending time with them",
-				"He had an affinity for music and played several instruments"
-			],
-			"image": "https://www.example.com/images/affinity.png"
-		}
-		,
-		{
-			"word": "alienate",
-			"meaning": "to cause someone to feel estranged or hostile, to cause someone to become indifferent or hostile",
-			"synonyms": [
-				"estrange",
-				"isolate",
-				"separate",
-				"dissociate",
-				"disaffiliate"
-			],
-			"examples": [
-				"His behavior alienated his friends and they stopped hanging out with him",
-				"Her actions alienated her from the rest of the group"
-			],
-			"image": "https://www.example.com/images/alienate.png"
-		}
-		,
-		{
-			"word": "antedate",
-			"meaning": "to be earlier in time than, to have a date that is earlier than the actual or expected one",
-			"synonyms": [
-				"precede",
-				"predate",
-				"precede",
-				"anterior",
-				"prior"
-			],
-			"examples": [
-				"The document was antedated to make it appear valid",
-				"The fossil was found to antedate the previously oldest known specimen"
-			],
-			"image": "https://www.example.com/images/antedate.png"
-		}
-		
-	],
-	[
-		{
-			"word": "accessible",
-			"meaning": "able to be reached, entered, or used, easy to approach, communicate with, or use",
-			"synonyms": [
-				"reachable",
-				"approachable",
-				"available",
-				"convenient",
-				"user-friendly"
-			],
-			"examples": [
-				"The beach was easily accessible by a short hike",
-				"The website was designed to be accessible to people with disabilities"
-			],
-			"image": "https://www.example.com/images/accessible.png"
-		}
-		,
-		{
-			"word": "adroit",
-			"meaning": "quick to learn, clever, and skilled in one's actions or work, able to think and act quickly in a skillful way",
-			"synonyms": [
-				"clever",
-				"skillful",
-				"dexterous",
-				"agile",
-				"deft"
-			],
-			"examples": [
-				"He was adroit at fixing things and could always find a solution to a problem",
-				"She was adroit at handling difficult situations and always kept a cool head"
-			],
-			"image": "https://www.example.com/images/adroit.png"
-		}
-		,
-		{
-			"word": "altruistic",
-			"meaning": "unselfishly concerned for the welfare of others, showing a desire to help others",
-			"synonyms": [
-				"unselfish",
-				"selfless",
-				"benevolent",
-				"philanthropic",
-				"humanitarian"
-			],
-			"examples": [
-				"He was an altruistic person and always put others' needs before his own",
-				"She showed altruistic behavior by volunteering her time at a soup kitchen"
-			],
-			"image": "https://www.example.com/images/altruistic.png"
-		}
-		,
-		{
-			"word": "anoint",
-			"meaning": "to apply oil or ointment to, to consecrate or sanctify someone or something",
-			"synonyms": [
-				"consecrate",
-				"sanctify",
-				"bless",
-				"ordain",
-				"invest"
-			],
-			"examples": [
-				"The priest anointed his head with oil during the ceremony",
-				"She anointed the wound with a special ointment"
-			],
-			"image": "https://www.example.com/images/anoint.png"
-		}
-		,
-		{
-			"word": "apathy",
-			"meaning": "lack of interest, concern, or emotion, lack of desire or ability to do something",
-			"synonyms": [
-				"indifference",
-				"unconcern",
-				"lethargy",
-				"torpor",
-				"stupor"
-			],
-			"examples": [
-				"He showed apathy towards the news and didn't seem to care about anything",
-				"She was overcome with apathy and couldn't bring herself to do anything"
-			],
-			"image": "https://www.example.com/images/apathy.png"
-		}
-		,
-		{
-			"word": "apathy",
-			"meaning": "lack of interest, concern, or emotion, lack of desire or ability to do something",
-			"synonyms": [
-				"indifference",
-				"unconcern",
-				"lethargy",
-				"torpor",
-				"stupor"
-			],
-			"examples": [
-				"He showed apathy towards the news and didn't seem to care about anything",
-				"She was overcome with apathy and couldn't bring herself to do anything"
-			],
-			"image": "https://www.example.com/images/apathy.png"
-		}
-		,
-		{
-			"word": "banish",
-			"meaning": "to expel or send away, especially from a country or home, to prohibit or forbid",
-			"synonyms": [
-				"expel",
-				"exile",
-				"eject",
-				"oust",
-				"deport"
-			],
-			"examples": [
-				"The king banished the traitor from the kingdom",
-				"She was banished from her home and had to start a new life elsewhere"
-			],
-			"image": "https://www.example.com/images/banish.png"
-		}
-		,
-		{
-			"word": "belligerent",
-			"meaning": "inclined to or prone to fight, aggressive, hostile",
-			"synonyms": [
-				"warlike",
-				"combative",
-				"bellicose",
-				"pugnacious",
-				"militant"
-			],
-			"examples": [
-				"The two countries were in a state of belligerent relations and tensions were high",
-				"He had a belligerent personality and was always ready to start a fight"
-			],
-			"image": "https://www.example.com/images/belligerent.png"
-		}
-		,
-		{
-			"word": "boisterous",
-			"meaning": "loud, noisy, and lacking in restraint or discipline, energetic and lively in a rough or uncontrolled way",
-			"synonyms": [
-				"raucous",
-				"rowdy",
-				"rambunctious",
-				"unruly",
-				"lively"
-			],
-			"examples": [
-				"The party was boisterous and the guests were making a lot of noise",
-				"He had a boisterous personality and was always the life of the party"
-			],
-			"image": "https://www.example.com/images/boisterous.png"
-		}
-		,
-		{
-			"word": "confound",
-			"meaning": "to confuse or mix up, to prove to be false or incorrect, to surprise or shock",
-			"synonyms": [
-				"confuse",
-				"bewilder",
-				"perplex",
-				"disconcert",
-				"disprove"
-			],
-			"examples": [
-				"The new policy confounded everyone and no one knew what to do",
-				"Her actions confounded all expectations and everyone was shocked"
-			],
-			"image": "https://www.example.com/images/confound.png"
-		}
-		
-	],
-	[
-		{
-			"word": "acquisitive",
-			"meaning": "having a strong desire to acquire or possess more material possessions or wealth, greedy",
-			"synonyms": [
-				"avaricious",
-				"covetous",
-				"acquisitive",
-				"greed",
-				"miserly"
-			],
-			"examples": [
-				"He was very acquisitive and always wanted more money and possessions",
-				"Her acquisitive nature led her to make many bad decisions"
-			],
-			"image": "https://www.example.com/images/acquisitive.png"
-		}
-		,
-		{
-			"word": "amend",
-			"meaning": "to make changes or corrections to, to improve or reform",
-			"synonyms": [
-				"modify",
-				"revise",
-				"correct",
-				"improve",
-				"reform"
-			],
-			"examples": [
-				"The bill was amended to include new provisions",
-				"He decided to amend his ways and make positive changes in his life"
-			],
-			"image": "https://www.example.com/images/amend.png"
-		}
-		,
-		{
-			"word": "apropos",
-			"meaning": "relevant or appropriate to the current situation, at an opportune time",
-			"synonyms": [
-				"relevant",
-				"appropriate",
-				"fitting",
-				"opportune",
-				"timely"
-			],
-			"examples": [
-				"She made a comment apropos to the conversation",
-				"He showed up at the party apropos, just as the food was being served"
-			],
-			"image": "https://www.example.com/images/apropos.png"
-		}
-		,
-		{
-			"word": "assertive",
-			"meaning": "confident and forceful in expressing one's opinions or demands, not hesitant or unsure",
-			"synonyms": [
-				"self-assured",
-				"confident",
-				"forceful",
-				"decisive",
-				"self-confident"
-			],
-			"examples": [
-				"She was assertive in the meeting and made sure her ideas were heard",
-				"He was very assertive and always got what he wanted"
-			],
-			"image": "https://www.example.com/images/assertive.png"
-		}
-		,
-		{
-			"word": "baroque",
-			"meaning": "characterized by elaborate, ornate design and decoration, grand or elaborate in style",
-			"synonyms": [
-				"ornate",
-				"elaborate",
-				"flamboyant",
-				"opulent",
-				"extravagant"
-			],
-			"examples": [
-				"The baroque palace was filled with intricate details and ornate decorations",
-				"Her baroque outfit was elaborate and extravagant"
-			],
-			"image": "https://www.example.com/images/baroque.png"
-		}
-		,
+		  "word":"stoic",
+		  "meaning":"calm and unemotional, especially in difficult or painful situations",
+		  "synonyms":[
+			 "calm",
+			 "unemotional",
+			 "resigned",
+			 "unruffled",
+			 "unflappable"
+		  ],
+		  "examples":[
+			 "He remained stoic in the face of adversity",
+			 "She was admired for her stoic demeanor during the crisis"
+		  ],
+		  "image":"https://www.example.com/images/stoic.png"
+	   },
 	   {
-		"word": "beneficent",
-		"meaning": "kind, generous, and doing good deeds, having a positive impact",
-		"synonyms": [
-			"benevolent",
-			"charitable",
-			"philanthropic",
-			"altruistic",
-			"beneficial"
-		],
-		"examples": [
-			"The beneficent organization provided aid to those in need",
-			"She was known for her beneficent actions and always tried to help others"
-		],
-		"image": "https://www.example.com/images/beneficent.png"
-	}
-	,
-	{
-		"word": "bridle",
-		"meaning": "a harness for a horse, consisting of a headpiece, reins, and a bit, used for controlling the horse; a restraint or check",
-		"synonyms": [
-			"harness",
-			"restraint",
-			"check",
-			"control"
-		],
-		"examples": [
-			"She put the bridle on the horse before going for a ride",
-			"He used the bridle to control the horse's movements"
-		],
-		"image": "https://www.example.com/images/bridle.png"
-	}
-	,
-	{
-		"word": "chivalrous",
-		"meaning": "having the qualities of a knight, such as courage, honor, and loyalty, especially towards women",
-		"synonyms": [
-			"gallant",
-			"honorable",
-			"noble",
-			"courteous",
-			"gallant"
-		],
-		"examples": [
-			"He was chivalrous and held the door open for her",
-			"The knights were known for their chivalrous behavior"
-		],
-		"image": "https://www.example.com/images/chivalrous.png"
-	}
-	,
-	{
-		"word": "digression",
-		"meaning": "a departure from the main subject in speaking or writing, a distraction or deviation",
-		"synonyms": [
-			"deviation",
-			"distraction",
-			"aside",
-			"side track",
-			"detour"
-		],
-		"examples": [
-			"The speaker's digression went on for several minutes before returning to the main topic",
-			"She made a digression in her essay, but eventually returned to the main point"
-		],
-		"image": "https://www.example.com/images/digression.png"
-	}
-	
-	],
-	[
-		{
-			"word": "amalgamate",
-			"meaning": "to mix or combine, to merge into a single entity",
-			"synonyms": [
-				"blend",
-				"combine",
-				"fuse",
-				"merge",
-				"unite"
-			],
-			"examples": [
-				"The two companies amalgamated to form a larger corporation",
-				"The ingredients were amalgamated to create the final product"
-			],
-			"image": "https://www.example.com/images/amalgamate.png"
-		}
-		,
-		{
-			"word": "animus",
-			"meaning": "a strong feeling of ill will or animosity, a feeling of enmity or resentment",
-			"synonyms": [
-				"ill will",
-				"animosity",
-				"enmity",
-				"resentment",
-				"hostility"
-			],
-			"examples": [
-				"There was a clear animus between the two politicians",
-				"Her animus towards her former boss was evident in her words"
-			],
-			"image": "https://www.example.com/images/animus.png"
-		}
-		,
-		{
-			"word": "apt",
-			"meaning": "having a natural tendency or suitability for a particular purpose or role; quick to learn or understand",
-			"synonyms": [
-				"suitable",
-				"fitting",
-				"appropriate",
-				"adept",
-				"gifted"
-			],
-			"examples": [
-				"She is an apt student and picks up new concepts quickly",
-				"The tool was apt for the job and made the task much easier"
-			],
-			"image": "https://www.example.com/images/apt.png"
-		}
-		,
-		{
-			"word": "bogus",
-			"meaning": "not genuine or real; fake, counterfeit",
-			"synonyms": [
-				"fake",
-				"fraudulent",
-				"phony",
-				"counterfeit",
-				"spurious"
-			],
-			"examples": [
-				"The police uncovered a bogus passport operation",
-				"The caller was using a bogus name and address"
-			],
-			"image": "https://www.example.com/images/bogus.png"
-		}
-		,
-		{
-			"word": "byzantine",
-			"meaning": "having a complex, intricate, or involved structure or organization; characterized by elaborate scheming or maneuvering",
-			"synonyms": [
-				"complex",
-				"intricate",
-				"elaborate",
-				"involved",
-				"cumbersome"
-			],
-			"examples": [
-				"The byzantine bureaucracy made it difficult to get anything done",
-				"The byzantine plot of the novel was hard to follow"
-			],
-			"image": "https://www.example.com/images/byzantine.png"
-		}
-		,
-		{
-			"word": "canny",
-			"meaning": "having or showing good judgement or common sense; careful and shrewd in managing one's own affairs",
-			"synonyms": [
-				"wise",
-				"prudent",
-				"shrewd",
-				"discreet",
-				"sagacious"
-			],
-			"examples": [
-				"She is a canny businesswoman and always makes wise financial decisions",
-				"He was canny enough to see through the scam and avoid being duped"
-			],
-			"image": "https://www.example.com/images/canny.png"
-		}
-		,
-		{
-			"word": "churlish",
-			"meaning": "having or showing a bad-tempered and surly disposition; rude and ungracious",
-			"synonyms": [
-				"surly",
-				"rude",
-				"ungracious",
-				"grouchy",
-				"crabby"
-			],
-			"examples": [
-				"He was churlish and refused to speak to his coworkers",
-				"Her churlish behavior ruined the party for everyone"
-			],
-			"image": "https://www.example.com/images/churlish.png"
-		}
-		,
-		{
-			"word": "coercion",
-			"meaning": "the act or practice of using force, threats, or psychological pressure to make someone do something against their will",
-			"synonyms": [
-				"force",
-				"compulsion",
-				"duress",
-				"constraint",
-				"pressure"
-			],
-			"examples": [
-				"She signed the contract under coercion",
-				"He was arrested for coercion and extortion"
-			],
-			"image": "https://www.example.com/images/coercion.png"
-		}
-		,
-		{
-			"word": "comply",
-			"meaning": "to follow a request or command; to act in accordance with a rule or a law",
-			"synonyms": [
-				"obey",
-				"adhere to",
-				"conform to",
-				"abide by",
-				"observe"
-			],
-			"examples": [
-				"He was asked to comply with the company's dress code",
-				"She agreed to comply with the request"
-			],
-			"image": "https://www.example.com/images/comply.png"
-		}
-		,
-		{
-			"word": "discrepancy",
-			"meaning": "a difference or inconsistency between two or more things that should be the same",
-			"synonyms": [
-				"difference",
-				"disagreement",
-				"inconsistency",
-				"variance",
-				"divergence"
-			],
-			"examples": [
-				"There was a discrepancy in the accounts that needed to be resolved",
-				"The discrepancy between the two reports was significant"
-			],
-			"image": "https://www.example.com/images/discrepancy.png"
-		}
-		
-	],
-	[
-		{
-			"word": "apologist",
-			"meaning": "a person who makes an argument or defense in favor of something, especially a controversial belief or cause",
-			"synonyms": [
-				"defender",
-				"supporter",
-				"advocate",
-				"proponent",
-				"champion"
-			],
-			"examples": [
-				"He was accused of being an apologist for the government's policies",
-				"She is a well-known apologist for the rights of animals"
-			],
-			"image": "https://www.example.com/images/apologist.png"
-		}
-		,
-		{
-			"word": "attenuate",
-			"meaning": "to weaken or reduce the strength or intensity of something",
-			"synonyms": [
-				"weaken",
-				"reduce",
-				"lessen",
-				"diminish",
-				"moderate"
-			],
-			"examples": [
-				"The vaccine is designed to attenuate the virus",
-				"The heat was attenuated by the shade of the trees"
-			],
-			"image": "https://www.example.com/images/attenuate.png"
-		}
-		,
-		{
-			"word": "cataclysmic",
-			"meaning": "having a sudden, dramatic and often destructive effect on a society or the environment",
-			"synonyms": [
-				"disastrous",
-				"devastating",
-				"destructive",
-				"catastrophic",
-				"calamitous"
-			],
-			"examples": [
-				"The earthquake was a cataclysmic event for the region",
-				"The financial crisis had cataclysmic consequences for the global economy"
-			],
-			"image": "https://www.example.com/images/cataclysmic.png"
-		}
-		,
-		{
-			"word": "cavalier",
-			"meaning": "having or displaying a casual or offhand manner, especially towards something important or serious",
-			"synonyms": [
-				"nonchalant",
-				"casual",
-				"indifferent",
-				"insouciant",
-				"careless"
-			],
-			"examples": [
-				"He was accused of being cavalier about the safety of his employees",
-				"She was known for her cavalier attitude towards punctuality"
-			],
-			"image": "https://www.example.com/images/cavalier.png"
-		}
-		,
-		{
-			"word": "clandestine",
-			"meaning": "done in secret, often for a nefarious or covert purpose",
-			"synonyms": [
-				"secret",
-				"hidden",
-				"covert",
-				"surreptitious",
-				"underground"
-			],
-			"examples": [
-				"The group met for their clandestine meetings in a remote location",
-				"The government carried out the operation in a clandestine manner"
-			],
-			"image": "https://www.example.com/images/clandestine.png"
-		}
-		,
-		{
-			"word": "cloak",
-			"meaning": "a long, loose piece of clothing worn over other clothes, typically for warmth or as a sign of rank or profession",
-			"synonyms": [
-				"cape",
-				"mantle",
-				"robe",
-				"shawl",
-				"scarf"
-			],
-			"examples": [
-				"She wore a long red cloak to keep warm",
-				"He wore a cloak of dignity and responsibility"
-			],
-			"image": "https://www.example.com/images/cloak.png"
-		}
-		,
-		{
-			"word": "coin",
-			"meaning": "a flat piece of metal with a special design, made to be used as money",
-			"synonyms": [
-				"money",
-				"currency",
-				"cash",
-				"change",
-				"mint"
-			],
-			"examples": [
-				"He pulled a coin out of his pocket and placed it on the counter",
-				"The country recently introduced a new coin to its currency"
-			],
-			"image": "https://www.example.com/images/coin.png"
-		}
-		,
-		{
-			"word": "compromise",
-			"meaning": "a settlement of differences in which each side makes concessions",
-			"synonyms": [
-				"agreement",
-				"settlement",
-				"resolution",
-				"conciliation",
-				"compromisation"
-			],
-			"examples": [
-				"The two sides reached a compromise on the terms of the contract",
-				"They were able to compromise on a solution that satisfied both parties"
-			],
-			"image": "https://www.example.com/images/compromise.png"
-		}
-		,
-		{
-			"word": "crestfallen",
-			"meaning": "feeling disappointed and unhappy because of a failure or defeat",
-			"synonyms": [
-				"disappointed",
-				"dismayed",
-				"disheartened",
-				"dejected",
-				"depressed"
-			],
-			"examples": [
-				"The team was crestfallen after losing the championship game",
-				"She was crestfallen when she found out she didn't get the job"
-			],
-			"image": "https://www.example.com/images/crestfallen.png"
-		}
-		,
-		{
-			"word": "duplicitous",
-			"meaning": "having a double nature or character, especially with the intent to deceive",
-			"synonyms": [
-				"deceitful",
-				"dishonest",
-				"treacherous",
-				"untrustworthy",
-				"disingenuous"
-			],
-			"examples": [
-				"He was accused of being duplicitous in his business dealings",
-				"She had a reputation for being duplicitous and untrustworthy"
-			],
-			"image": "https://www.example.com/images/duplicitous.png"
-		}
-		
-	],
-	[
-		{
-			"word": "astringent",
-			"meaning": "having a tightening effect on skin or other tissues, typically causing them to contract",
-			"synonyms": [
-				"tightening",
-				"contracting",
-				"constricting",
-				"toning",
-				"firming"
-			],
-			"examples": [
-				"She applied astringent to her skin to reduce the appearance of pores",
-				"The astringent properties of the tea helped to soothe a sore throat"
-			],
-			"image": "https://www.example.com/images/astringent.png"
-		}
-		,
-		{
-			"word": "augment",
-			"meaning": "make (something) greater by adding to it; increase",
-			"synonyms": [
-				"increase",
-				"enhance",
-				"magnify",
-				"amplify",
-				"intensify"
-			],
-			"examples": [
-				"The company decided to augment its advertising budget",
-				"She tried to augment her income by taking on extra work"
-			],
-			"image": "https://www.example.com/images/augment.png"
-		}
-		,
-		{
-			"word": "circumscribe",
-			"meaning": "restrict or limit (something); set bounds to",
-			"synonyms": [
-				"restrict",
-				"limit",
-				"constrain",
-				"confine",
-				"bound"
-			],
-			"examples": [
-				"His time was circumscribed by his busy work schedule",
-				"The rules of the game circumscribe the players' actions"
-			],
-			"image": "https://www.example.com/images/circumscribe.png"
-		}
-		,
-		{
-			"word": "complacent",
-			"meaning": "feeling or showing smug or uncritical satisfaction with oneself or one's achievements",
-			"synonyms": [
-				"self-satisfied",
-				"content",
-				"satisfied",
-				"pleased",
-				"contented"
-			],
-			"examples": [
-				"He was too complacent about the potential risks of the project",
-				"She became complacent in her success and stopped trying to improve"
-			],
-			"image": "https://www.example.com/images/complacent.png"
-		}
-		,
-		{
-			"word": "conciliatory",
-			"meaning": "intending or likely to placate or pacify",
-			"synonyms": [
-				"placating",
-				"pacifying",
-				"appeasing",
-				"reconciling",
-				"mollifying"
-			],
-			"examples": [
-				"He made a conciliatory gesture by offering her a gift",
-				"She tried to be conciliatory in order to resolve the conflict"
-			],
-			"image": "https://www.example.com/images/conciliatory.png"
-		}
-		,
-		{
-			"word": "consensus",
-			"meaning": "a general agreement among a group of people",
-			"synonyms": [
-				"agreement",
-				"accord",
-				"unanimity",
-				"concurrence",
-				"amity"
-			],
-			"examples": [
-				"There was a consensus among the team to go ahead with the project",
-				"They reached a consensus on the terms of the contract"
-			],
-			"image": "https://www.example.com/images/consensus.png"
-		}
-		,
-		{
-			"word": "cunning",
-			"meaning": "clever or skillful in achieving one's ends by deceit or evasion",
-			"synonyms": [
-				"sly",
-				"crafty",
-				"devious",
-				"shrewd",
-				"astute"
-			],
-			"examples": [
-				"He was known for his cunning tactics in business",
-				"She used her cunning to get out of trouble"
-			],
-			"image": "https://www.example.com/images/cunning.png"
-		}
-		,
-		{
-			"word": "distressed",
-			"meaning": "in a state of great unhappiness or anxiety",
-			"synonyms": [
-				"worried",
-				"upset",
-				"troubled",
-				"anxious",
-				"angry"
-			],
-			"examples": [
-				"She was visibly distressed by the news of her friend's illness",
-				"He was distressed by the state of his finances"
-			],
-			"image": "https://www.example.com/images/distressed.png"
-		}
-		,
-		{
-			"word": "expedient",
-			"meaning": "likely to be useful in a particular situation, especially as a means of achieving something",
-			"synonyms": [
-				"advantageous",
-				"convenient",
-				"beneficial",
-				"useful",
-				"practical"
-			],
-			"examples": [
-				"It would be expedient to bring a map on this hike",
-				"Using a mediator was an expedient way to resolve the dispute"
-			],
-			"image": "https://www.example.com/images/expedient.png"
-		}
-		
-	],
-	[
-		{
-			"word": "aversion",
-			"meaning": "a strong dislike or disinclination",
-			"synonyms": [
-				"antipathy",
-				"abhorrence",
-				"revulsion",
-				"loathing",
-				"hatred"
-			],
-			"examples": [
-				"She has a strong aversion to flying",
-				"He had an aversion to anything spicy"
-			],
-			"image": "https://www.example.com/images/aversion.png"
-		}
-		,
-		{
-			"word": "collaborate",
-			"meaning": "to work jointly with others or together especially in an intellectual endeavor",
-			"synonyms": [
-				"cooperate",
-				"join forces",
-				"work together",
-				"team up",
-				"unite"
-			],
-			"examples": [
-				"The two companies decided to collaborate on a new project",
-				"The scientist is collaborating with his colleagues on a research paper"
-			],
-			"image": "https://www.example.com/images/collaborate.png"
-		}
-		,
+		  "word":"ubiquitous",
+		  "meaning":"present or appearing everywhere, constantly encountered",
+		  "synonyms":[
+			 "everywhere",
+			 "omnipresent",
+			 "pervasive",
+			 "prevalent",
+			 "widespread"
+		  ],
+		  "examples":[
+			 "Smartphones have become ubiquitous in modern society",
+			 "His songs were ubiquitous on the radio"
+		  ],
+		  "image":"https://www.example.com/images/ubiquitous.png"
+	   },
 	   {
-		"word": "complementary",
-		"meaning": "serving to complete or bring to perfection",
-		"synonyms": [
-			"supplementary",
-			"supplemental",
-			"additional",
-			"ancillary",
-			"adjunct"
-		],
-		"examples": [
-			"The two colors are complementary to each other",
-			"The course on public speaking was a complementary addition to her communication degree"
-		],
-		"image": "https://www.example.com/images/complementary.png"
-	}
-	,
-	{
-		"word": "countenance",
-		"meaning": "the appearance presented by a person's face, especially the expression, color, or shape of the face",
-		"synonyms": [
-			"face",
-			"visage",
-			"appearance",
-			"look"
-		],
-		"examples": [
-			"She has a pleasant countenance",
-			"His countenance changed when he heard the news"
-		],
-		"image": "https://www.example.com/images/countenance.png"
-	}
-	,
-	{
-		"word": "cumbersome",
-		"meaning": "difficult to use or handle because of size, shape, or weight",
-		"synonyms": [
-			"awkward",
-			"clumsy",
-			"burdensome",
-			"unwieldy",
-			"bulky"
-		],
-		"examples": [
-			"The suitcase was too cumbersome to carry up the stairs",
-			"The old computer was cumbersome to use compared to newer models"
-		],
-		"image": "https://www.example.com/images/cumbersome.png"
-	}
-	,
-	{
-		"word": "discomfit",
-		"meaning": "to cause embarrassment, confusion, or discomfort to",
-		"synonyms": [
-			"unsettle",
-			"disconcert",
-			"fluster",
-			"embarrass",
-			"perturb"
-		],
-		"examples": [
-			"His rude comment discomfited her",
-			"She was discomfited by his piercing gaze"
-		],
-		"image": "https://www.example.com/images/discomfit.png"
-	}
-	,
-	{
-		"word": "distort",
-		"meaning": "to twist or bend out of shape or out of proportion",
-		"synonyms": [
-			"warp",
-			"twist",
-			"deform",
-			"mutilate",
-			"disfigure"
-		],
-		"examples": [
-			"The mirror distorted her reflection",
-			"His memories of the event had become distorted over time"
-		],
-		"image": "https://www.example.com/images/distort.png"
-	}
-	,
-	{
-		"word": "dwindling",
-		"meaning": "gradually decreasing in size, amount, or intensity",
-		"synonyms": [
-			"diminishing",
-			"decreasing",
-			"fading",
-			"ebbing",
-			"waning"
-		],
-		"examples": [
-			"The company's profits have been dwindling for the past year",
-			"The once-thriving town is now a dwindling community"
-		],
-		"image": "https://www.example.com/images/dwindling.png"
-	}
-	,
-	{
-		"word": "elucidate",
-		"meaning": "to make something clear or easier to understand; to explain or clarify",
-		"synonyms": [
-			"explain",
-			"clarify",
-			"illuminate",
-			"enlighten",
-			"demystify"
-		],
-		"examples": [
-			"The teacher tried to elucidate the difficult concept for the students",
-			"The speaker was able to elucidate the complex issue for the audience"
-		],
-		"image": "https://www.example.com/images/elucidate.png"
-	}
-	,
-	{
-		"word": "fabricate",
-		"meaning": "to make or manufacture something, especially by assembling or shaping parts; to create or invent something, often with the intent to deceive or mislead",
-		"synonyms": [
-			"create",
-			"manufacture",
-			"construct",
-			"assemble",
-			"forge",
-			"fake",
-			"invent"
-		],
-		"examples": [
-			"The company fabricates car parts in its factory",
-			"The politician was accused of fabricating evidence to support his claim"
-		],
-		"image": "https://www.example.com/images/fabricate.png"
-	}
-	
+		  "word":"undermine",
+		  "meaning":"to weaken or damage, especially gradually or insidiously",
+		  "synonyms":[
+			 "weaken",
+			 "damage",
+			 "sabotage",
+			 "subvert",
+			 "erode"
+		  ],
+		  "examples":[
+			 "His constant criticism undermined her confidence",
+			 "Her poor health habits were undermining her well-being"
+		  ],
+		  "image":"https://www.example.com/images/undermine.png"
+	   }
 	],
 	[
-		{
-			"word": "blithe",
-			"meaning": "carefree, lighthearted, and happy",
-			"synonyms": [
-				"cheerful",
-				"joyful",
-				"lighthearted",
-				"carefree",
-				"happy"
-			],
-			"examples": [
-				"She was in a blithe mood, singing as she walked down the street",
-				"The children were playing with blithe disregard for the muddy puddles"
-			],
-			"image": "https://www.example.com/images/blithe.png"
-		}
-		,
-		{
-			"word": "competent",
-			"meaning": "having the necessary ability, knowledge, or skill to do something successfully",
-			"synonyms": [
-				"able",
-				"capable",
-				"proficient",
-				"skilled",
-				"qualified"
-			],
-			"examples": [
-				"She is a competent pianist, having played for many years",
-				"He is competent at his job and always meets deadlines"
-			],
-			"image": "https://www.example.com/images/competent.png"
-		}
-		,
-		{
-			"word": "contentious",
-			"meaning": "likely to cause disagreement or argument",
-			"synonyms": [
-				"disputed",
-				"debatable",
-				"doubtful",
-				"questionable",
-				"controversial"
-			],
-			"examples": [
-				"The election results were contentious and many people disputed the outcome",
-				"The proposal for a new highway has been met with contentious debate"
-			],
-			"image": "https://www.example.com/images/contentious.png"
-		}
-		,
-		{
-			"word": "covert",
-			"meaning": "not openly acknowledged or displayed",
-			"synonyms": [
-				"clandestine",
-				"secret",
-				"hidden",
-				"surreptitious",
-				"undercover"
-			],
-			"examples": [
-				"The spy carried out covert operations for the government",
-				"The company was accused of conducting covert research on their competitors"
-			],
-			"image": "https://www.example.com/images/covert.png"
-		}
-		,
-		{
-			"word": "debilitating",
-			"meaning": "having a very damaging or weakening effect",
-			"synonyms": [
-				"crippling",
-				"weakening",
-				"enfeebling",
-				"sapping",
-				"enfeebling"
-			],
-			"examples": [
-				"The disease had a debilitating effect on the patient",
-				"The long hours were beginning to have a debilitating effect on the staff"
-			],
-			"image": "https://www.example.com/images/debilitating.png"
-		}
-		,
-		{
-			"word": "dissent",
-			"meaning": "a disagreement or difference of opinion, especially within a group",
-			"synonyms": [
-			"disagreement",
-			"opposition",
-			"dissidence",
-			"dispute",
-			"contradiction"
-			],
-			"examples": [
-			"There was dissent among the group over the proposed plan",
-			"He expressed his dissent by voting against the resolution"
-			],
-			"image": "https://www.example.com/images/dissent.png"
-			}
-			
-			
-			
-			,
-			{
-				"word": "divergent",
-				"meaning": "tending to be different or develop in different directions",
-				"synonyms": [
-				"different",
-				"diverging",
-				"varying",
-				"dissimilar",
-				"disparate"
-				],
-				"examples": [
-				"The two theories are divergent and cannot both be correct",
-				"The paths the two friends took after graduation were divergent"
-				],
-				"image": "https://www.example.com/images/divergent.png"
-				},
-				{
-					"word": "eclipse",
-					"meaning": "an astronomical event in which the moon or a planet moves into the shadow of the earth and is temporarily hidden from view",
-					"synonyms": [
-					"obscuration",
-					"occultation"
-					],
-					"examples": [
-					"There will be a lunar eclipse on July 16",
-					"The planet Venus will eclipse the sun next month"
-					],
-					"image": "https://www.example.com/images/eclipse.png"
-					},
-					{
-						"word": "evade",
-						"meaning": "to avoid or escape from something or someone, especially by using trickery or deception",
-						"synonyms": [
-						"escape",
-						"elude",
-						"shirk",
-						"dodge",
-						"shun"
-						],
-						"examples": [
-						"He evaded the reporters by using a back door",
-						"She evaded the question by changing the subject"
-						],
-						"image": "https://www.example.com/images/evade.png"
-						},
-						{
-							"word": "glum",
-							"meaning": "having a sad or morose appearance or expression",
-							"synonyms": [
-							"sullen",
-							"dour",
-							"grumpy",
-							"sad",
-							"downcast"
-							],
-							"examples": [
-							"He had a glum expression on his face as he left the room",
-							"She always looks so glum, I wonder what's wrong"
-							],
-							"image": "https://www.example.com/images/glum.png"
-							}
+	   {
+		  "word":"diatribe",
+		  "meaning":"a harsh and critical speech or written attack, especially a long and bitter one",
+		  "synonyms":[
+			 "attack",
+			 "criticism",
+			 "denunciation",
+			 "tirade",
+			 "rant"
+		  ],
+		  "examples":[
+			 "He launched into a diatribe against the government's policies",
+			 "Her diatribe against her former employer was filled with accusations and insults"
+		  ],
+		  "image":"https://www.example.com/images/diatribe.png"
+	   },
+	   {
+		  "word":"polarize",
+		  "meaning":"to cause (a group or society) to divide into two sharply conflicting groups or sets of opinions or beliefs",
+		  "synonyms":[
+			 "divide",
+			 "split",
+			 "fracture",
+			 "disrupt",
+			 "fragment"
+		  ],
+		  "examples":[
+			 "The issue of gun control has polarized the country",
+			 "His controversial views have polarized the community"
+		  ],
+		  "image":"https://www.example.com/images/polarize.png"
+	   },
+	   {
+		  "word":"scrupulous",
+		  "meaning":"careful and thorough in doing something, especially to ensure that it is done correctly and according to the rules",
+		  "synonyms":[
+			 "careful",
+			 "thorough",
+			 "conscientious",
+			 "reliable",
+			 "meticulous"
+		  ],
+		  "examples":[
+			 "She was known for her scrupulous attention to detail",
+			 "He was scrupulous in following the procedures outlined in the manual"
+		  ],
+		  "image":"https://www.example.com/images/scrupulous.png"
+	   },
+	   {
+		  "word":"soporific",
+		  "meaning":"having a sleep-inducing effect, causing drowsiness or lethargy",
+		  "synonyms":[
+			 "sleep-inducing",
+			 "drowsy",
+			 "lethargic",
+			 "languid",
+			 "lethargic"
+		  ],
+		  "examples":[
+			 "The long flight and soporific atmosphere of the conference room had put him to sleep",
+			 "The medication had a strong soporific effect, making it difficult for him to stay awake"
+		  ],
+		  "image":"https://www.example.com/images/soporific.png"
+	   },
+	   {
+		  "word":"spendthrift",
+		  "meaning":"a person who spends money carelessly or wastefully",
+		  "synonyms":[
+			 "extravagant",
+			 "prodigal",
+			 "wasteful",
+			 "frivolous"
+		  ],
+		  "examples":[
+			 "His spendthrift ways had left him deeply in debt",
+			 "She was known as a spendthrift, always buying lavish gifts for herself and others"
+		  ],
+		  "image":"https://www.example.com/images/spendthrift.png"
+	   },
+	   {
+		  "word":"supersede",
+		  "meaning":"to take the place of (something), making it no longer necessary or useful",
+		  "synonyms":[
+			 "replace",
+			 "supersede",
+			 "supplant",
+			 "eclipse",
+			 "obviate"
+		  ],
+		  "examples":[
+			 "The new software will supersede the old version",
+			 "His research superseded the previous findings on the topic"
+		  ],
+		  "image":"https://www.example.com/images/supersede.png"
+	   },
+	   {
+		  "word":"trivial",
+		  "meaning":"of little importance or value, insignificant",
+		  "synonyms":[
+			 "unimportant",
+			 "insignificant",
+			 "minor",
+			 "petty",
+			 "frivolous"
+		  ],
+		  "examples":[
+			 "She dismissed the criticism as trivial",
+			 "The problem was trivial and easily fixed"
+		  ],
+		  "image":"https://www.example.com/images/trivial.png"
+	   },
+	   {
+		  "word":"underscore",
+		  "meaning":"to emphasize or give importance to something",
+		  "synonyms":[
+			 "emphasize",
+			 "highlight",
+			 "stress",
+			 "emphasize",
+			 "exaggerate"
+		  ],
+		  "examples":[
+			 "His speech underscored the importance of education",
+			 "Her actions underscore her commitment to the cause"
+		  ],
+		  "image":"https://www.example.com/images/underscore.png"
+	   },
+	   {
+		  "word":"utterly",
+		  "meaning":"completely, absolutely, totally",
+		  "synonyms":[
+			 "completely",
+			 "absolutely",
+			 "totally",
+			 "fully",
+			 "thoroughly"
+		  ],
+		  "examples":[
+			 "He was utterly exhausted after running the marathon",
+			 "The play was utterly ridiculous and I couldn't stop laughing"
+		  ],
+		  "image":"https://www.example.com/images/utterly.png"
+	   }
 	],
 	[
-		{
-			"word": "contempt",
-			"meaning": "a feeling of strong dislike and disrespect for someone or something",
-			"synonyms": [
-			"disdain",
-			"scorn",
-			"disrespect",
-			"condemnation",
-			"disregard"
-			],
-			"examples": [
-			"She looked at him with contempt.",
-			"He held the proposal in contempt."
-			],
-			"image": "https://www.example.com/images/contempt.png"
-			},
-			{
-				"word": "correlate",
-				"meaning": "to show a connection between two or more things",
-				"synonyms": [
-				"connect",
-				"relate",
-				"link",
-				"associate"
-				],
-				"examples": [
-				"Studies have shown that there is a strong correlation between exercise and good health.",
-				"There appears to be a correlation between high levels of stress and an increased risk of heart disease."
-				],
-				"image": "https://www.example.com/images/correlate.png"
-				},
-				{
-					"word": "credible",
-					"meaning": "able to be believed",
-					"synonyms": [
-					"trustworthy",
-					"reliable",
-					"believable",
-					"plausible",
-					"convincing"
-					],
-					"examples": [
-					"The witness's testimony was credible",
-					"The company's financial statements are credible"
-					],
-					"image": "https://www.example.com/images/credible.png"
-					},
-					{
-						"word": "deliberate",
-						"meaning": "done or made after careful thought and planning",
-						"synonyms": [
-						"intentional",
-						"premeditated",
-						"calculated",
-						"willed",
-						"thought-out"
-						],
-						"examples": [
-						"The council made a deliberate decision to invest in the project",
-						"She gave a deliberate answer, taking her time to choose her words carefully"
-						],
-						"image": "https://www.example.com/images/deliberate.png"
-						},
-						{
-							"word": "disingenuous",
-							"meaning": "insincere or insincerely giving the impression of being honest, candid, or straightforward",
-							"synonyms": [
-							"insincere",
-							"untruthful",
-							"dishonest",
-							"deceptive",
-							"fake"
-							],
-							"examples": [
-							"His smile seemed so ingenuous and childlike that it was hard to believe he could be so disingenuous.",
-							"She gave a disingenuous excuse for being late."
-							],
-							"image": "https://www.example.com/images/disingenuous.png"
-							},
-							{
-								"word": "distill",
-								"meaning": "to purify or refine a substance, especially by heating it and collecting the condensed vapors",
-								"synonyms": [
-								"purify",
-								"refine",
-								"cleanse",
-								"filter",
-								"purge"
-								],
-								"examples": [
-								"The whiskey is distilled from corn, barley, and rye",
-								"The scientist was able to distill the solution to obtain a pure compound"
-								],
-								"image": "https://www.example.com/images/distill.png"
-								},
-								{
-									"word": "encyclopedic",
-									"meaning": "having a very wide range of knowledge on many subjects, or containing a lot of information about many subjects",
-									"synonyms": [
-									"comprehensive",
-									"exhaustive",
-									"expert",
-									"erudite",
-									"learned"
-									],
-									"examples": [
-									"She had an encyclopedic knowledge of classical literature",
-									"The encyclopedia contained encyclopedic information about many different subjects"
-									],
-									"image": "https://www.example.com/images/encyclopedic.png"
-									}
-									
-									
-									
-									,
-									{
-										"word": "feckless",
-										"meaning": "lacking in initiative or strength of character; irresponsible",
-										"synonyms": [
-										"irresponsible",
-										"incompetent",
-										"ineffectual",
-										"inefficient",
-										"lackadaisical"
-										],
-										"examples": [
-										"He was a feckless young man, incapable of holding down a job",
-										"The government was criticized for its feckless response to the crisis"
-										],
-										"image": "https://www.example.com/images/feckless.png"
-										},
-										{
-											"word": "harbinger",
-											"meaning": "a person or thing that foreshadows or foretells the coming of something",
-											"synonyms": [
-											"forerunner",
-											"prelude",
-											"omen",
-											"portent",
-											"sign"
-											],
-											"examples": [
-											"The strange clouds on the horizon were a harbinger of the approaching storm",
-											"His sudden illness was a harbinger of things to come"
-											],
-											"image": "https://www.example.com/images/harbinger.png"
-											}
-											
-											
-											
-											
+	   {
+		  "word":"incredulous",
+		  "meaning":"unable to believe something, skeptical or doubtful",
+		  "synonyms":[
+			 "skeptical",
+			 "doubtful",
+			 "unbelieving",
+			 "disbelieving",
+			 "dubious"
+		  ],
+		  "examples":[
+			 "She was incredulous when he told her the news",
+			 "He was incredulous at the outrageous claim"
+		  ],
+		  "image":"https://www.example.com/images/incredulous.png"
+	   },
+	   {
+		  "word":"prodigal",
+		  "meaning":"wastefully extravagant, lavish or reckless with money or resources",
+		  "synonyms":[
+			 "extravagant",
+			 "wasteful",
+			 "spendthrift",
+			 "frivolous"
+		  ],
+		  "examples":[
+			 "His prodigal spending habits left him in debt",
+			 "She was known for her prodigal generosity, always giving lavishly to others"
+		  ],
+		  "image":"https://www.example.com/images/prodigal.png"
+	   },
+	   {
+		  "word":"stern",
+		  "meaning":"serious and strict, showing no kindness or warmth",
+		  "synonyms":[
+			 "serious",
+			 "strict",
+			 "harsh",
+			 "severe",
+			 "austere"
+		  ],
+		  "examples":[
+			 "He had a stern expression on his face",
+			 "The teacher's stern voice silenced the classroom"
+		  ],
+		  "image":"https://www.example.com/images/stern.png"
+	   },
+	   {
+		  "word":"taciturn",
+		  "meaning":"not inclined to speak much, quiet or reticent",
+		  "synonyms":[
+			 "quiet",
+			 "reticent",
+			 "reserved",
+			 "silent",
+			 "uncommunicative"
+		  ],
+		  "examples":[
+			 "He was known to be a taciturn person, preferring to listen rather than speak",
+			 "She was surprised by his taciturn behavior, as he usually had a lot to say"
+		  ],
+		  "image":"https://www.example.com/images/taciturn.png"
+	   },
+	   {
+		  "word":"tout",
+		  "meaning":"to promote or publicize something or someone in an aggressive or boastful way",
+		  "synonyms":[
+			 "promote",
+			 "publicize",
+			 "boast",
+			 "brag",
+			 "puff"
+		  ],
+		  "examples":[
+			 "He was always trying to tout his latest business venture",
+			 "The company was accused of touting its product as a cure-all"
+		  ],
+		  "image":"https://www.example.com/images/tout.png"
+	   },
+	   {
+		  "word":"tout",
+		  "meaning":"to promote or publicize something or someone in an aggressive or boastful way",
+		  "synonyms":[
+			 "promote",
+			 "publicize",
+			 "boast",
+			 "brag",
+			 "puff"
+		  ],
+		  "examples":[
+			 "He was always trying to tout his latest business venture",
+			 "The company was accused of touting its product as a cure-all"
+		  ],
+		  "image":"https://www.example.com/images/tout.png"
+	   },
+	   {
+		  "word":"trifling",
+		  "meaning":"of little value or importance, insignificant",
+		  "synonyms":[
+			 "unimportant",
+			 "insignificant",
+			 "minor",
+			 "petty",
+			 "frivolous"
+		  ],
+		  "examples":[
+			 "He dismissed the problem as trifling",
+			 "The amount of money involved was trifling compared to their net worth"
+		  ],
+		  "image":"https://www.example.com/images/trifling.png"
+	   },
+	   {
+		  "word":"utilitarian",
+		  "meaning":"having a practical purpose and being useful rather than decorative, designed for utility rather than beauty",
+		  "synonyms":[
+			 "practical",
+			 "useful",
+			 "functional",
+			 "serviceable"
+		  ],
+		  "examples":[
+			 "The room was furnished with utilitarian pieces",
+			 "He preferred utilitarian clothes that were comfortable and practical"
+		  ],
+		  "image":"https://www.example.com/images/utilitarian.png"
+	   },
+	   {
+		  "word":"venal",
+		  "meaning":"willing to do dishonest or corrupt things in exchange for money or personal gain",
+		  "synonyms":[
+			 "corrupt",
+			 "dishonest",
+			 "bribable",
+			 "greedy",
+			 "unscrupulous"
+		  ],
+		  "examples":[
+			 "The company was accused of having venal executives who were willing to take bribes",
+			 "He was a venal politician who would do anything for personal gain"
+		  ],
+		  "image":"https://www.example.com/images/venal.png"
+	   },
+	   {
+		  "word":"weary",
+		  "meaning":"feeling tired, exhausted or drained, lacking energy or enthusiasm",
+		  "synonyms":[
+			 "tired",
+			 "exhausted",
+			 "drained",
+			 "fatigued",
+			 "lethargic"
+		  ],
+		  "examples":[
+			 "She was too weary to go out after a long day at work",
+			 "He was weary of the never-ending conflict"
+		  ],
+		  "image":"https://www.example.com/images/weary.png"
+	   }
+	],
+	[
+	   {
+		  "word":"ingenuous",
+		  "meaning":"naive or innocent, showing lack of experience or sophistication",
+		  "synonyms":[
+			 "naive",
+			 "innocent",
+			 "unsophisticated",
+			 "simple",
+			 "unworldly"
+		  ],
+		  "examples":[
+			 "She was too ingenuous to realize the danger she was in",
+			 "He was an ingenuous young man who trusted everyone"
+		  ],
+		  "image":"https://www.example.com/images/ingenuous.png"
+	   },
+	   {
+		  "word":"tendentious",
+		  "meaning":"having a bias or an ulterior motive, designed to further a particular cause or point of view",
+		  "synonyms":[
+			 "biased",
+			 "partial",
+			 "prejudiced",
+			 "subjective",
+			 "one-sided"
+		  ],
+		  "examples":[
+			 "The article was tendentious and only presented one side of the argument",
+			 "He was accused of writing tendentious history that was skewed in favor of his own beliefs"
+		  ],
+		  "image":"https://www.example.com/images/tendentious.png"
+	   },
+	   {
+		  "word":"turbulent",
+		  "meaning":"having or characterized by violent disturbance, turmoil, or unrest",
+		  "synonyms":[
+			 "violent",
+			 "disturbed",
+			 "turmoil",
+			 "unrest",
+			 "agitation"
+		  ],
+		  "examples":[
+			 "The country was going through a turbulent period of political unrest",
+			 "The flight encountered turbulent weather"
+		  ],
+		  "image":"https://www.example.com/images/turbulent.png"
+	   },
+	   {
+		  "word":"vacillate",
+		  "meaning":"to change one's mind or indecisively waver between different opinions or actions",
+		  "synonyms":[
+			 "waver",
+			 "hesitate",
+			 "waver",
+			 "oscillate",
+			 "fluctuate"
+		  ],
+		  "examples":[
+			 "He vacillated between quitting his job and staying",
+			 "She vacillated on whether to go on the trip or not"
+		  ],
+		  "image":"https://www.example.com/images/vacillate.png"
+	   },
+	   {
+		  "word":"vapid",
+		  "meaning":"lacking liveliness, spirit, or interest, dull and uninspiring",
+		  "synonyms":[
+			 "dull",
+			 "uninspiring",
+			 "boring",
+			 "uninteresting",
+			 "stale"
+		  ],
+		  "examples":[
+			 "The movie was vapid and left me feeling unfulfilled",
+			 "The party was filled with vapid conversations"
+		  ],
+		  "image":"https://www.example.com/images/vapid.png"
+	   },
+	   {
+		  "word":"venerate",
+		  "meaning":"to respect or honor deeply, to hold in high regard",
+		  "synonyms":[
+			 "respect",
+			 "honor",
+			 "reverence",
+			 "adore",
+			 "worship"
+		  ],
+		  "examples":[
+			 "He venerated his mentor and always sought her guidance",
+			 "The ancient civilization venerated their gods"
+		  ],
+		  "image":"https://www.example.com/images/venerate.png"
+	   },
+	   {
+		  "word":"verbose",
+		  "meaning":"using or expressing more words than are necessary, tending to use a lot of words",
+		  "synonyms":[
+			 "wordy",
+			 "long-winded",
+			 "prolix",
+			 "loquacious",
+			 "garrulous"
+		  ],
+		  "examples":[
+			 "His speech was verbose and hard to follow",
+			 "She had a tendency to be verbose in her writing"
+		  ],
+		  "image":"https://www.example.com/images/verbose.png"
+	   },
+	   {
+		  "word":"wane",
+		  "meaning":"to gradually decrease in size, strength, or intensity",
+		  "synonyms":[
+			 "decrease",
+			 "diminish",
+			 "fade",
+			 "ebb",
+			 "decline"
+		  ],
+		  "examples":[
+			 "The moon waned from a full to a crescent shape",
+			 "His enthusiasm for the project began to wane"
+		  ],
+		  "image":"https://www.example.com/images/wane.png"
+	   },
+	   {
+		  "word":"wary",
+		  "meaning":"feeling or showing caution about something potentially dangerous, untrustworthy, or uncertain",
+		  "synonyms":[
+			 "cautious",
+			 "vigilant",
+			 "suspicious",
+			 "guarded",
+			 "hesitant"
+		  ],
+		  "examples":[
+			 "She was wary of his motives and didn't trust him",
+			 "He was wary of the strange noise coming from the basement"
+		  ],
+		  "image":"https://www.example.com/images/wary.png"
+	   },
+	   {
+		  "word":"zealous",
+		  "meaning":"having or showing great enthusiasm and determination, eager to do something",
+		  "synonyms":[
+			 "enthusiastic",
+			 "determined",
+			 "ardent",
+			 "passionate",
+			 "eager"
+		  ],
+		  "examples":[
+			 "She was zealous in her pursuit of justice",
+			 "He was zealous in his support for the team"
+		  ],
+		  "image":"https://www.example.com/images/zealous.png"
+	   }
+	],
+	[
+	   {
+		  "word":"abet",
+		  "meaning":"to encourage, support, or help in the commission of a crime or wrongdoing",
+		  "synonyms":[
+			 "encourage",
+			 "support",
+			 "aid",
+			 "assist",
+			 "abet"
+		  ],
+		  "examples":[
+			 "He was charged with abetting the robbery",
+			 "She was accused of abetting the embezzlement"
+		  ],
+		  "image":"https://www.example.com/images/abet.png"
+	   },
+	   {
+		  "word":"abhor",
+		  "meaning":"to hate or detest intensely, to find repugnant",
+		  "synonyms":[
+			 "hate",
+			 "detest",
+			 "loathe",
+			 "despise",
+			 "abominate"
+		  ],
+		  "examples":[
+			 "He abhorred violence and would never use it himself",
+			 "She abhorred the idea of eating sushi"
+		  ],
+		  "image":"https://www.example.com/images/abhor.png"
+	   },
+	   {
+		  "word":"abreast",
+		  "meaning":"side by side, level with, in the same position",
+		  "synonyms":[
+			 "side by side",
+			 "level with",
+			 "in the same position",
+			 "alongside"
+		  ],
+		  "examples":[
+			 "The two runners were running abreast of each other",
+			 "The two cars were driving abreast in the same lane"
+		  ],
+		  "image":"https://www.example.com/images/abreast.png"
+	   },
+	   {
+		  "word":"acclaim",
+		  "meaning":"strong approval or admiration expressed by shouting, applause, or other means, praise or honor",
+		  "synonyms":[
+			 "approval",
+			 "admiration",
+			 "praise",
+			 "honor",
+			 "fame"
+		  ],
+		  "examples":[
+			 "The singer received acclaim from the audience",
+			 "The book received acclaim from critics"
+		  ],
+		  "image":"https://www.example.com/images/acclaim.png"
+	   },
+	   {
+		  "word":"acolyte",
+		  "meaning":"a person who helps or assists, especially in a religious ceremony or service",
+		  "synonyms":[
+			 "assistant",
+			 "aide",
+			 "helper",
+			 "attendant",
+			 "follower"
+		  ],
+		  "examples":[
+			 "The acolytes assisted the priests during the mass",
+			 "He served as an acolyte at the temple"
+		  ],
+		  "image":"https://www.example.com/images/acolyte.png"
+	   },
+	   {
+		  "word":"acquiesce",
+		  "meaning":"to accept, comply, or agree to something reluctantly, but without protest",
+		  "synonyms":[
+			 "accept",
+			 "comply",
+			 "agree",
+			 "submit",
+			 "yield"
+		  ],
+		  "examples":[
+			 "She acquiesced to his request to attend the party",
+			 "He reluctantly acquiesced to their demands"
+		  ],
+		  "image":"https://www.example.com/images/acquiesce.png"
+	   },
+	   {
+		  "word":"acrimonious",
+		  "meaning":"full of anger and bitterness, harsh or venomous in language or tone",
+		  "synonyms":[
+			 "angry",
+			 "bitter",
+			 "harsh",
+			 "venomous",
+			 "fierce"
+		  ],
+		  "examples":[
+			 "The divorce was acrimonious and both sides said harsh things about each other",
+			 "The meeting turned acrimonious when tempers flared"
+		  ],
+		  "image":"https://www.example.com/images/acrimonious.png"
+	   },
+	   {
+		  "word":"affinity",
+		  "meaning":"a natural liking or attraction for someone or something, a relationship or connection",
+		  "synonyms":[
+			 "liking",
+			 "attraction",
+			 "relationship",
+			 "connection",
+			 "kinship"
+		  ],
+		  "examples":[
+			 "She had an affinity for animals and loved spending time with them",
+			 "He had an affinity for music and played several instruments"
+		  ],
+		  "image":"https://www.example.com/images/affinity.png"
+	   },
+	   {
+		  "word":"alienate",
+		  "meaning":"to cause someone to feel estranged or hostile, to cause someone to become indifferent or hostile",
+		  "synonyms":[
+			 "estrange",
+			 "isolate",
+			 "separate",
+			 "dissociate",
+			 "disaffiliate"
+		  ],
+		  "examples":[
+			 "His behavior alienated his friends and they stopped hanging out with him",
+			 "Her actions alienated her from the rest of the group"
+		  ],
+		  "image":"https://www.example.com/images/alienate.png"
+	   },
+	   {
+		  "word":"antedate",
+		  "meaning":"to be earlier in time than, to have a date that is earlier than the actual or expected one",
+		  "synonyms":[
+			 "precede",
+			 "predate",
+			 "precede",
+			 "anterior",
+			 "prior"
+		  ],
+		  "examples":[
+			 "The document was antedated to make it appear valid",
+			 "The fossil was found to antedate the previously oldest known specimen"
+		  ],
+		  "image":"https://www.example.com/images/antedate.png"
+	   }
+	],
+	[
+	   {
+		  "word":"accessible",
+		  "meaning":"able to be reached, entered, or used, easy to approach, communicate with, or use",
+		  "synonyms":[
+			 "reachable",
+			 "approachable",
+			 "available",
+			 "convenient",
+			 "user-friendly"
+		  ],
+		  "examples":[
+			 "The beach was easily accessible by a short hike",
+			 "The website was designed to be accessible to people with disabilities"
+		  ],
+		  "image":"https://www.example.com/images/accessible.png"
+	   },
+	   {
+		  "word":"adroit",
+		  "meaning":"quick to learn, clever, and skilled in one's actions or work, able to think and act quickly in a skillful way",
+		  "synonyms":[
+			 "clever",
+			 "skillful",
+			 "dexterous",
+			 "agile",
+			 "deft"
+		  ],
+		  "examples":[
+			 "He was adroit at fixing things and could always find a solution to a problem",
+			 "She was adroit at handling difficult situations and always kept a cool head"
+		  ],
+		  "image":"https://www.example.com/images/adroit.png"
+	   },
+	   {
+		  "word":"altruistic",
+		  "meaning":"unselfishly concerned for the welfare of others, showing a desire to help others",
+		  "synonyms":[
+			 "unselfish",
+			 "selfless",
+			 "benevolent",
+			 "philanthropic",
+			 "humanitarian"
+		  ],
+		  "examples":[
+			 "He was an altruistic person and always put others' needs before his own",
+			 "She showed altruistic behavior by volunteering her time at a soup kitchen"
+		  ],
+		  "image":"https://www.example.com/images/altruistic.png"
+	   },
+	   {
+		  "word":"anoint",
+		  "meaning":"to apply oil or ointment to, to consecrate or sanctify someone or something",
+		  "synonyms":[
+			 "consecrate",
+			 "sanctify",
+			 "bless",
+			 "ordain",
+			 "invest"
+		  ],
+		  "examples":[
+			 "The priest anointed his head with oil during the ceremony",
+			 "She anointed the wound with a special ointment"
+		  ],
+		  "image":"https://www.example.com/images/anoint.png"
+	   },
+	   {
+		  "word":"apathy",
+		  "meaning":"lack of interest, concern, or emotion, lack of desire or ability to do something",
+		  "synonyms":[
+			 "indifference",
+			 "unconcern",
+			 "lethargy",
+			 "torpor",
+			 "stupor"
+		  ],
+		  "examples":[
+			 "He showed apathy towards the news and didn't seem to care about anything",
+			 "She was overcome with apathy and couldn't bring herself to do anything"
+		  ],
+		  "image":"https://www.example.com/images/apathy.png"
+	   },
+	   {
+		  "word":"apathy",
+		  "meaning":"lack of interest, concern, or emotion, lack of desire or ability to do something",
+		  "synonyms":[
+			 "indifference",
+			 "unconcern",
+			 "lethargy",
+			 "torpor",
+			 "stupor"
+		  ],
+		  "examples":[
+			 "He showed apathy towards the news and didn't seem to care about anything",
+			 "She was overcome with apathy and couldn't bring herself to do anything"
+		  ],
+		  "image":"https://www.example.com/images/apathy.png"
+	   },
+	   {
+		  "word":"banish",
+		  "meaning":"to expel or send away, especially from a country or home, to prohibit or forbid",
+		  "synonyms":[
+			 "expel",
+			 "exile",
+			 "eject",
+			 "oust",
+			 "deport"
+		  ],
+		  "examples":[
+			 "The king banished the traitor from the kingdom",
+			 "She was banished from her home and had to start a new life elsewhere"
+		  ],
+		  "image":"https://www.example.com/images/banish.png"
+	   },
+	   {
+		  "word":"belligerent",
+		  "meaning":"inclined to or prone to fight, aggressive, hostile",
+		  "synonyms":[
+			 "warlike",
+			 "combative",
+			 "bellicose",
+			 "pugnacious",
+			 "militant"
+		  ],
+		  "examples":[
+			 "The two countries were in a state of belligerent relations and tensions were high",
+			 "He had a belligerent personality and was always ready to start a fight"
+		  ],
+		  "image":"https://www.example.com/images/belligerent.png"
+	   },
+	   {
+		  "word":"boisterous",
+		  "meaning":"loud, noisy, and lacking in restraint or discipline, energetic and lively in a rough or uncontrolled way",
+		  "synonyms":[
+			 "raucous",
+			 "rowdy",
+			 "rambunctious",
+			 "unruly",
+			 "lively"
+		  ],
+		  "examples":[
+			 "The party was boisterous and the guests were making a lot of noise",
+			 "He had a boisterous personality and was always the life of the party"
+		  ],
+		  "image":"https://www.example.com/images/boisterous.png"
+	   },
+	   {
+		  "word":"confound",
+		  "meaning":"to confuse or mix up, to prove to be false or incorrect, to surprise or shock",
+		  "synonyms":[
+			 "confuse",
+			 "bewilder",
+			 "perplex",
+			 "disconcert",
+			 "disprove"
+		  ],
+		  "examples":[
+			 "The new policy confounded everyone and no one knew what to do",
+			 "Her actions confounded all expectations and everyone was shocked"
+		  ],
+		  "image":"https://www.example.com/images/confound.png"
+	   }
+	],
+	[
+	   {
+		  "word":"acquisitive",
+		  "meaning":"having a strong desire to acquire or possess more material possessions or wealth, greedy",
+		  "synonyms":[
+			 "avaricious",
+			 "covetous",
+			 "acquisitive",
+			 "greed",
+			 "miserly"
+		  ],
+		  "examples":[
+			 "He was very acquisitive and always wanted more money and possessions",
+			 "Her acquisitive nature led her to make many bad decisions"
+		  ],
+		  "image":"https://www.example.com/images/acquisitive.png"
+	   },
+	   {
+		  "word":"amend",
+		  "meaning":"to make changes or corrections to, to improve or reform",
+		  "synonyms":[
+			 "modify",
+			 "revise",
+			 "correct",
+			 "improve",
+			 "reform"
+		  ],
+		  "examples":[
+			 "The bill was amended to include new provisions",
+			 "He decided to amend his ways and make positive changes in his life"
+		  ],
+		  "image":"https://www.example.com/images/amend.png"
+	   },
+	   {
+		  "word":"apropos",
+		  "meaning":"relevant or appropriate to the current situation, at an opportune time",
+		  "synonyms":[
+			 "relevant",
+			 "appropriate",
+			 "fitting",
+			 "opportune",
+			 "timely"
+		  ],
+		  "examples":[
+			 "She made a comment apropos to the conversation",
+			 "He showed up at the party apropos, just as the food was being served"
+		  ],
+		  "image":"https://www.example.com/images/apropos.png"
+	   },
+	   {
+		  "word":"assertive",
+		  "meaning":"confident and forceful in expressing one's opinions or demands, not hesitant or unsure",
+		  "synonyms":[
+			 "self-assured",
+			 "confident",
+			 "forceful",
+			 "decisive",
+			 "self-confident"
+		  ],
+		  "examples":[
+			 "She was assertive in the meeting and made sure her ideas were heard",
+			 "He was very assertive and always got what he wanted"
+		  ],
+		  "image":"https://www.example.com/images/assertive.png"
+	   },
+	   {
+		  "word":"baroque",
+		  "meaning":"characterized by elaborate, ornate design and decoration, grand or elaborate in style",
+		  "synonyms":[
+			 "ornate",
+			 "elaborate",
+			 "flamboyant",
+			 "opulent",
+			 "extravagant"
+		  ],
+		  "examples":[
+			 "The baroque palace was filled with intricate details and ornate decorations",
+			 "Her baroque outfit was elaborate and extravagant"
+		  ],
+		  "image":"https://www.example.com/images/baroque.png"
+	   },
+	   {
+		  "word":"beneficent",
+		  "meaning":"kind, generous, and doing good deeds, having a positive impact",
+		  "synonyms":[
+			 "benevolent",
+			 "charitable",
+			 "philanthropic",
+			 "altruistic",
+			 "beneficial"
+		  ],
+		  "examples":[
+			 "The beneficent organization provided aid to those in need",
+			 "She was known for her beneficent actions and always tried to help others"
+		  ],
+		  "image":"https://www.example.com/images/beneficent.png"
+	   },
+	   {
+		  "word":"bridle",
+		  "meaning":"a harness for a horse, consisting of a headpiece, reins, and a bit, used for controlling the horse; a restraint or check",
+		  "synonyms":[
+			 "harness",
+			 "restraint",
+			 "check",
+			 "control"
+		  ],
+		  "examples":[
+			 "She put the bridle on the horse before going for a ride",
+			 "He used the bridle to control the horse's movements"
+		  ],
+		  "image":"https://www.example.com/images/bridle.png"
+	   },
+	   {
+		  "word":"chivalrous",
+		  "meaning":"having the qualities of a knight, such as courage, honor, and loyalty, especially towards women",
+		  "synonyms":[
+			 "gallant",
+			 "honorable",
+			 "noble",
+			 "courteous",
+			 "gallant"
+		  ],
+		  "examples":[
+			 "He was chivalrous and held the door open for her",
+			 "The knights were known for their chivalrous behavior"
+		  ],
+		  "image":"https://www.example.com/images/chivalrous.png"
+	   },
+	   {
+		  "word":"digression",
+		  "meaning":"a departure from the main subject in speaking or writing, a distraction or deviation",
+		  "synonyms":[
+			 "deviation",
+			 "distraction",
+			 "aside",
+			 "side track",
+			 "detour"
+		  ],
+		  "examples":[
+			 "The speaker's digression went on for several minutes before returning to the main topic",
+			 "She made a digression in her essay, but eventually returned to the main point"
+		  ],
+		  "image":"https://www.example.com/images/digression.png"
+	   }
+	],
+	[
+	   {
+		  "word":"amalgamate",
+		  "meaning":"to mix or combine, to merge into a single entity",
+		  "synonyms":[
+			 "blend",
+			 "combine",
+			 "fuse",
+			 "merge",
+			 "unite"
+		  ],
+		  "examples":[
+			 "The two companies amalgamated to form a larger corporation",
+			 "The ingredients were amalgamated to create the final product"
+		  ],
+		  "image":"https://www.example.com/images/amalgamate.png"
+	   },
+	   {
+		  "word":"animus",
+		  "meaning":"a strong feeling of ill will or animosity, a feeling of enmity or resentment",
+		  "synonyms":[
+			 "ill will",
+			 "animosity",
+			 "enmity",
+			 "resentment",
+			 "hostility"
+		  ],
+		  "examples":[
+			 "There was a clear animus between the two politicians",
+			 "Her animus towards her former boss was evident in her words"
+		  ],
+		  "image":"https://www.example.com/images/animus.png"
+	   },
+	   {
+		  "word":"apt",
+		  "meaning":"having a natural tendency or suitability for a particular purpose or role; quick to learn or understand",
+		  "synonyms":[
+			 "suitable",
+			 "fitting",
+			 "appropriate",
+			 "adept",
+			 "gifted"
+		  ],
+		  "examples":[
+			 "She is an apt student and picks up new concepts quickly",
+			 "The tool was apt for the job and made the task much easier"
+		  ],
+		  "image":"https://www.example.com/images/apt.png"
+	   },
+	   {
+		  "word":"bogus",
+		  "meaning":"not genuine or real; fake, counterfeit",
+		  "synonyms":[
+			 "fake",
+			 "fraudulent",
+			 "phony",
+			 "counterfeit",
+			 "spurious"
+		  ],
+		  "examples":[
+			 "The police uncovered a bogus passport operation",
+			 "The caller was using a bogus name and address"
+		  ],
+		  "image":"https://www.example.com/images/bogus.png"
+	   },
+	   {
+		  "word":"byzantine",
+		  "meaning":"having a complex, intricate, or involved structure or organization; characterized by elaborate scheming or maneuvering",
+		  "synonyms":[
+			 "complex",
+			 "intricate",
+			 "elaborate",
+			 "involved",
+			 "cumbersome"
+		  ],
+		  "examples":[
+			 "The byzantine bureaucracy made it difficult to get anything done",
+			 "The byzantine plot of the novel was hard to follow"
+		  ],
+		  "image":"https://www.example.com/images/byzantine.png"
+	   },
+	   {
+		  "word":"canny",
+		  "meaning":"having or showing good judgement or common sense; careful and shrewd in managing one's own affairs",
+		  "synonyms":[
+			 "wise",
+			 "prudent",
+			 "shrewd",
+			 "discreet",
+			 "sagacious"
+		  ],
+		  "examples":[
+			 "She is a canny businesswoman and always makes wise financial decisions",
+			 "He was canny enough to see through the scam and avoid being duped"
+		  ],
+		  "image":"https://www.example.com/images/canny.png"
+	   },
+	   {
+		  "word":"churlish",
+		  "meaning":"having or showing a bad-tempered and surly disposition; rude and ungracious",
+		  "synonyms":[
+			 "surly",
+			 "rude",
+			 "ungracious",
+			 "grouchy",
+			 "crabby"
+		  ],
+		  "examples":[
+			 "He was churlish and refused to speak to his coworkers",
+			 "Her churlish behavior ruined the party for everyone"
+		  ],
+		  "image":"https://www.example.com/images/churlish.png"
+	   },
+	   {
+		  "word":"coercion",
+		  "meaning":"the act or practice of using force, threats, or psychological pressure to make someone do something against their will",
+		  "synonyms":[
+			 "force",
+			 "compulsion",
+			 "duress",
+			 "constraint",
+			 "pressure"
+		  ],
+		  "examples":[
+			 "She signed the contract under coercion",
+			 "He was arrested for coercion and extortion"
+		  ],
+		  "image":"https://www.example.com/images/coercion.png"
+	   },
+	   {
+		  "word":"comply",
+		  "meaning":"to follow a request or command; to act in accordance with a rule or a law",
+		  "synonyms":[
+			 "obey",
+			 "adhere to",
+			 "conform to",
+			 "abide by",
+			 "observe"
+		  ],
+		  "examples":[
+			 "He was asked to comply with the company's dress code",
+			 "She agreed to comply with the request"
+		  ],
+		  "image":"https://www.example.com/images/comply.png"
+	   },
+	   {
+		  "word":"discrepancy",
+		  "meaning":"a difference or inconsistency between two or more things that should be the same",
+		  "synonyms":[
+			 "difference",
+			 "disagreement",
+			 "inconsistency",
+			 "variance",
+			 "divergence"
+		  ],
+		  "examples":[
+			 "There was a discrepancy in the accounts that needed to be resolved",
+			 "The discrepancy between the two reports was significant"
+		  ],
+		  "image":"https://www.example.com/images/discrepancy.png"
+	   }
+	],
+	[
+	   {
+		  "word":"apologist",
+		  "meaning":"a person who makes an argument or defense in favor of something, especially a controversial belief or cause",
+		  "synonyms":[
+			 "defender",
+			 "supporter",
+			 "advocate",
+			 "proponent",
+			 "champion"
+		  ],
+		  "examples":[
+			 "He was accused of being an apologist for the government's policies",
+			 "She is a well-known apologist for the rights of animals"
+		  ],
+		  "image":"https://www.example.com/images/apologist.png"
+	   },
+	   {
+		  "word":"attenuate",
+		  "meaning":"to weaken or reduce the strength or intensity of something",
+		  "synonyms":[
+			 "weaken",
+			 "reduce",
+			 "lessen",
+			 "diminish",
+			 "moderate"
+		  ],
+		  "examples":[
+			 "The vaccine is designed to attenuate the virus",
+			 "The heat was attenuated by the shade of the trees"
+		  ],
+		  "image":"https://www.example.com/images/attenuate.png"
+	   },
+	   {
+		  "word":"cataclysmic",
+		  "meaning":"having a sudden, dramatic and often destructive effect on a society or the environment",
+		  "synonyms":[
+			 "disastrous",
+			 "devastating",
+			 "destructive",
+			 "catastrophic",
+			 "calamitous"
+		  ],
+		  "examples":[
+			 "The earthquake was a cataclysmic event for the region",
+			 "The financial crisis had cataclysmic consequences for the global economy"
+		  ],
+		  "image":"https://www.example.com/images/cataclysmic.png"
+	   },
+	   {
+		  "word":"cavalier",
+		  "meaning":"having or displaying a casual or offhand manner, especially towards something important or serious",
+		  "synonyms":[
+			 "nonchalant",
+			 "casual",
+			 "indifferent",
+			 "insouciant",
+			 "careless"
+		  ],
+		  "examples":[
+			 "He was accused of being cavalier about the safety of his employees",
+			 "She was known for her cavalier attitude towards punctuality"
+		  ],
+		  "image":"https://www.example.com/images/cavalier.png"
+	   },
+	   {
+		  "word":"clandestine",
+		  "meaning":"done in secret, often for a nefarious or covert purpose",
+		  "synonyms":[
+			 "secret",
+			 "hidden",
+			 "covert",
+			 "surreptitious",
+			 "underground"
+		  ],
+		  "examples":[
+			 "The group met for their clandestine meetings in a remote location",
+			 "The government carried out the operation in a clandestine manner"
+		  ],
+		  "image":"https://www.example.com/images/clandestine.png"
+	   },
+	   {
+		  "word":"cloak",
+		  "meaning":"a long, loose piece of clothing worn over other clothes, typically for warmth or as a sign of rank or profession",
+		  "synonyms":[
+			 "cape",
+			 "mantle",
+			 "robe",
+			 "shawl",
+			 "scarf"
+		  ],
+		  "examples":[
+			 "She wore a long red cloak to keep warm",
+			 "He wore a cloak of dignity and responsibility"
+		  ],
+		  "image":"https://www.example.com/images/cloak.png"
+	   },
+	   {
+		  "word":"coin",
+		  "meaning":"a flat piece of metal with a special design, made to be used as money",
+		  "synonyms":[
+			 "money",
+			 "currency",
+			 "cash",
+			 "change",
+			 "mint"
+		  ],
+		  "examples":[
+			 "He pulled a coin out of his pocket and placed it on the counter",
+			 "The country recently introduced a new coin to its currency"
+		  ],
+		  "image":"https://www.example.com/images/coin.png"
+	   },
+	   {
+		  "word":"compromise",
+		  "meaning":"a settlement of differences in which each side makes concessions",
+		  "synonyms":[
+			 "agreement",
+			 "settlement",
+			 "resolution",
+			 "conciliation",
+			 "compromisation"
+		  ],
+		  "examples":[
+			 "The two sides reached a compromise on the terms of the contract",
+			 "They were able to compromise on a solution that satisfied both parties"
+		  ],
+		  "image":"https://www.example.com/images/compromise.png"
+	   },
+	   {
+		  "word":"crestfallen",
+		  "meaning":"feeling disappointed and unhappy because of a failure or defeat",
+		  "synonyms":[
+			 "disappointed",
+			 "dismayed",
+			 "disheartened",
+			 "dejected",
+			 "depressed"
+		  ],
+		  "examples":[
+			 "The team was crestfallen after losing the championship game",
+			 "She was crestfallen when she found out she didn't get the job"
+		  ],
+		  "image":"https://www.example.com/images/crestfallen.png"
+	   },
+	   {
+		  "word":"duplicitous",
+		  "meaning":"having a double nature or character, especially with the intent to deceive",
+		  "synonyms":[
+			 "deceitful",
+			 "dishonest",
+			 "treacherous",
+			 "untrustworthy",
+			 "disingenuous"
+		  ],
+		  "examples":[
+			 "He was accused of being duplicitous in his business dealings",
+			 "She had a reputation for being duplicitous and untrustworthy"
+		  ],
+		  "image":"https://www.example.com/images/duplicitous.png"
+	   }
+	],
+	[
+	   {
+		  "word":"astringent",
+		  "meaning":"having a tightening effect on skin or other tissues, typically causing them to contract",
+		  "synonyms":[
+			 "tightening",
+			 "contracting",
+			 "constricting",
+			 "toning",
+			 "firming"
+		  ],
+		  "examples":[
+			 "She applied astringent to her skin to reduce the appearance of pores",
+			 "The astringent properties of the tea helped to soothe a sore throat"
+		  ],
+		  "image":"https://www.example.com/images/astringent.png"
+	   },
+	   {
+		  "word":"augment",
+		  "meaning":"make (something) greater by adding to it; increase",
+		  "synonyms":[
+			 "increase",
+			 "enhance",
+			 "magnify",
+			 "amplify",
+			 "intensify"
+		  ],
+		  "examples":[
+			 "The company decided to augment its advertising budget",
+			 "She tried to augment her income by taking on extra work"
+		  ],
+		  "image":"https://www.example.com/images/augment.png"
+	   },
+	   {
+		  "word":"circumscribe",
+		  "meaning":"restrict or limit (something); set bounds to",
+		  "synonyms":[
+			 "restrict",
+			 "limit",
+			 "constrain",
+			 "confine",
+			 "bound"
+		  ],
+		  "examples":[
+			 "His time was circumscribed by his busy work schedule",
+			 "The rules of the game circumscribe the players' actions"
+		  ],
+		  "image":"https://www.example.com/images/circumscribe.png"
+	   },
+	   {
+		  "word":"complacent",
+		  "meaning":"feeling or showing smug or uncritical satisfaction with oneself or one's achievements",
+		  "synonyms":[
+			 "self-satisfied",
+			 "content",
+			 "satisfied",
+			 "pleased",
+			 "contented"
+		  ],
+		  "examples":[
+			 "He was too complacent about the potential risks of the project",
+			 "She became complacent in her success and stopped trying to improve"
+		  ],
+		  "image":"https://www.example.com/images/complacent.png"
+	   },
+	   {
+		  "word":"conciliatory",
+		  "meaning":"intending or likely to placate or pacify",
+		  "synonyms":[
+			 "placating",
+			 "pacifying",
+			 "appeasing",
+			 "reconciling",
+			 "mollifying"
+		  ],
+		  "examples":[
+			 "He made a conciliatory gesture by offering her a gift",
+			 "She tried to be conciliatory in order to resolve the conflict"
+		  ],
+		  "image":"https://www.example.com/images/conciliatory.png"
+	   },
+	   {
+		  "word":"consensus",
+		  "meaning":"a general agreement among a group of people",
+		  "synonyms":[
+			 "agreement",
+			 "accord",
+			 "unanimity",
+			 "concurrence",
+			 "amity"
+		  ],
+		  "examples":[
+			 "There was a consensus among the team to go ahead with the project",
+			 "They reached a consensus on the terms of the contract"
+		  ],
+		  "image":"https://www.example.com/images/consensus.png"
+	   },
+	   {
+		  "word":"cunning",
+		  "meaning":"clever or skillful in achieving one's ends by deceit or evasion",
+		  "synonyms":[
+			 "sly",
+			 "crafty",
+			 "devious",
+			 "shrewd",
+			 "astute"
+		  ],
+		  "examples":[
+			 "He was known for his cunning tactics in business",
+			 "She used her cunning to get out of trouble"
+		  ],
+		  "image":"https://www.example.com/images/cunning.png"
+	   },
+	   {
+		  "word":"distressed",
+		  "meaning":"in a state of great unhappiness or anxiety",
+		  "synonyms":[
+			 "worried",
+			 "upset",
+			 "troubled",
+			 "anxious",
+			 "angry"
+		  ],
+		  "examples":[
+			 "She was visibly distressed by the news of her friend's illness",
+			 "He was distressed by the state of his finances"
+		  ],
+		  "image":"https://www.example.com/images/distressed.png"
+	   },
+	   {
+		  "word":"expedient",
+		  "meaning":"likely to be useful in a particular situation, especially as a means of achieving something",
+		  "synonyms":[
+			 "advantageous",
+			 "convenient",
+			 "beneficial",
+			 "useful",
+			 "practical"
+		  ],
+		  "examples":[
+			 "It would be expedient to bring a map on this hike",
+			 "Using a mediator was an expedient way to resolve the dispute"
+		  ],
+		  "image":"https://www.example.com/images/expedient.png"
+	   }
+	],
+	[
+	   {
+		  "word":"aversion",
+		  "meaning":"a strong dislike or disinclination",
+		  "synonyms":[
+			 "antipathy",
+			 "abhorrence",
+			 "revulsion",
+			 "loathing",
+			 "hatred"
+		  ],
+		  "examples":[
+			 "She has a strong aversion to flying",
+			 "He had an aversion to anything spicy"
+		  ],
+		  "image":"https://www.example.com/images/aversion.png"
+	   },
+	   {
+		  "word":"collaborate",
+		  "meaning":"to work jointly with others or together especially in an intellectual endeavor",
+		  "synonyms":[
+			 "cooperate",
+			 "join forces",
+			 "work together",
+			 "team up",
+			 "unite"
+		  ],
+		  "examples":[
+			 "The two companies decided to collaborate on a new project",
+			 "The scientist is collaborating with his colleagues on a research paper"
+		  ],
+		  "image":"https://www.example.com/images/collaborate.png"
+	   },
+	   {
+		  "word":"complementary",
+		  "meaning":"serving to complete or bring to perfection",
+		  "synonyms":[
+			 "supplementary",
+			 "supplemental",
+			 "additional",
+			 "ancillary",
+			 "adjunct"
+		  ],
+		  "examples":[
+			 "The two colors are complementary to each other",
+			 "The course on public speaking was a complementary addition to her communication degree"
+		  ],
+		  "image":"https://www.example.com/images/complementary.png"
+	   },
+	   {
+		  "word":"countenance",
+		  "meaning":"the appearance presented by a person's face, especially the expression, color, or shape of the face",
+		  "synonyms":[
+			 "face",
+			 "visage",
+			 "appearance",
+			 "look"
+		  ],
+		  "examples":[
+			 "She has a pleasant countenance",
+			 "His countenance changed when he heard the news"
+		  ],
+		  "image":"https://www.example.com/images/countenance.png"
+	   },
+	   {
+		  "word":"cumbersome",
+		  "meaning":"difficult to use or handle because of size, shape, or weight",
+		  "synonyms":[
+			 "awkward",
+			 "clumsy",
+			 "burdensome",
+			 "unwieldy",
+			 "bulky"
+		  ],
+		  "examples":[
+			 "The suitcase was too cumbersome to carry up the stairs",
+			 "The old computer was cumbersome to use compared to newer models"
+		  ],
+		  "image":"https://www.example.com/images/cumbersome.png"
+	   },
+	   {
+		  "word":"discomfit",
+		  "meaning":"to cause embarrassment, confusion, or discomfort to",
+		  "synonyms":[
+			 "unsettle",
+			 "disconcert",
+			 "fluster",
+			 "embarrass",
+			 "perturb"
+		  ],
+		  "examples":[
+			 "His rude comment discomfited her",
+			 "She was discomfited by his piercing gaze"
+		  ],
+		  "image":"https://www.example.com/images/discomfit.png"
+	   },
+	   {
+		  "word":"distort",
+		  "meaning":"to twist or bend out of shape or out of proportion",
+		  "synonyms":[
+			 "warp",
+			 "twist",
+			 "deform",
+			 "mutilate",
+			 "disfigure"
+		  ],
+		  "examples":[
+			 "The mirror distorted her reflection",
+			 "His memories of the event had become distorted over time"
+		  ],
+		  "image":"https://www.example.com/images/distort.png"
+	   },
+	   {
+		  "word":"dwindling",
+		  "meaning":"gradually decreasing in size, amount, or intensity",
+		  "synonyms":[
+			 "diminishing",
+			 "decreasing",
+			 "fading",
+			 "ebbing",
+			 "waning"
+		  ],
+		  "examples":[
+			 "The company's profits have been dwindling for the past year",
+			 "The once-thriving town is now a dwindling community"
+		  ],
+		  "image":"https://www.example.com/images/dwindling.png"
+	   },
+	   {
+		  "word":"elucidate",
+		  "meaning":"to make something clear or easier to understand; to explain or clarify",
+		  "synonyms":[
+			 "explain",
+			 "clarify",
+			 "illuminate",
+			 "enlighten",
+			 "demystify"
+		  ],
+		  "examples":[
+			 "The teacher tried to elucidate the difficult concept for the students",
+			 "The speaker was able to elucidate the complex issue for the audience"
+		  ],
+		  "image":"https://www.example.com/images/elucidate.png"
+	   },
+	   {
+		  "word":"fabricate",
+		  "meaning":"to make or manufacture something, especially by assembling or shaping parts; to create or invent something, often with the intent to deceive or mislead",
+		  "synonyms":[
+			 "create",
+			 "manufacture",
+			 "construct",
+			 "assemble",
+			 "forge",
+			 "fake",
+			 "invent"
+		  ],
+		  "examples":[
+			 "The company fabricates car parts in its factory",
+			 "The politician was accused of fabricating evidence to support his claim"
+		  ],
+		  "image":"https://www.example.com/images/fabricate.png"
+	   }
+	],
+	[
+	   {
+		  "word":"blithe",
+		  "meaning":"carefree, lighthearted, and happy",
+		  "synonyms":[
+			 "cheerful",
+			 "joyful",
+			 "lighthearted",
+			 "carefree",
+			 "happy"
+		  ],
+		  "examples":[
+			 "She was in a blithe mood, singing as she walked down the street",
+			 "The children were playing with blithe disregard for the muddy puddles"
+		  ],
+		  "image":"https://www.example.com/images/blithe.png"
+	   },
+	   {
+		  "word":"competent",
+		  "meaning":"having the necessary ability, knowledge, or skill to do something successfully",
+		  "synonyms":[
+			 "able",
+			 "capable",
+			 "proficient",
+			 "skilled",
+			 "qualified"
+		  ],
+		  "examples":[
+			 "She is a competent pianist, having played for many years",
+			 "He is competent at his job and always meets deadlines"
+		  ],
+		  "image":"https://www.example.com/images/competent.png"
+	   },
+	   {
+		  "word":"contentious",
+		  "meaning":"likely to cause disagreement or argument",
+		  "synonyms":[
+			 "disputed",
+			 "debatable",
+			 "doubtful",
+			 "questionable",
+			 "controversial"
+		  ],
+		  "examples":[
+			 "The election results were contentious and many people disputed the outcome",
+			 "The proposal for a new highway has been met with contentious debate"
+		  ],
+		  "image":"https://www.example.com/images/contentious.png"
+	   },
+	   {
+		  "word":"covert",
+		  "meaning":"not openly acknowledged or displayed",
+		  "synonyms":[
+			 "clandestine",
+			 "secret",
+			 "hidden",
+			 "surreptitious",
+			 "undercover"
+		  ],
+		  "examples":[
+			 "The spy carried out covert operations for the government",
+			 "The company was accused of conducting covert research on their competitors"
+		  ],
+		  "image":"https://www.example.com/images/covert.png"
+	   },
+	   {
+		  "word":"debilitating",
+		  "meaning":"having a very damaging or weakening effect",
+		  "synonyms":[
+			 "crippling",
+			 "weakening",
+			 "enfeebling",
+			 "sapping",
+			 "enfeebling"
+		  ],
+		  "examples":[
+			 "The disease had a debilitating effect on the patient",
+			 "The long hours were beginning to have a debilitating effect on the staff"
+		  ],
+		  "image":"https://www.example.com/images/debilitating.png"
+	   },
+	   {
+		  "word":"dissent",
+		  "meaning":"a disagreement or difference of opinion, especially within a group",
+		  "synonyms":[
+			 "disagreement",
+			 "opposition",
+			 "dissidence",
+			 "dispute",
+			 "contradiction"
+		  ],
+		  "examples":[
+			 "There was dissent among the group over the proposed plan",
+			 "He expressed his dissent by voting against the resolution"
+		  ],
+		  "image":"https://www.example.com/images/dissent.png"
+	   },
+	   {
+		  "word":"divergent",
+		  "meaning":"tending to be different or develop in different directions",
+		  "synonyms":[
+			 "different",
+			 "diverging",
+			 "varying",
+			 "dissimilar",
+			 "disparate"
+		  ],
+		  "examples":[
+			 "The two theories are divergent and cannot both be correct",
+			 "The paths the two friends took after graduation were divergent"
+		  ],
+		  "image":"https://www.example.com/images/divergent.png"
+	   },
+	   {
+		  "word":"eclipse",
+		  "meaning":"an astronomical event in which the moon or a planet moves into the shadow of the earth and is temporarily hidden from view",
+		  "synonyms":[
+			 "obscuration",
+			 "occultation"
+		  ],
+		  "examples":[
+			 "There will be a lunar eclipse on July 16",
+			 "The planet Venus will eclipse the sun next month"
+		  ],
+		  "image":"https://www.example.com/images/eclipse.png"
+	   },
+	   {
+		  "word":"evade",
+		  "meaning":"to avoid or escape from something or someone, especially by using trickery or deception",
+		  "synonyms":[
+			 "escape",
+			 "elude",
+			 "shirk",
+			 "dodge",
+			 "shun"
+		  ],
+		  "examples":[
+			 "He evaded the reporters by using a back door",
+			 "She evaded the question by changing the subject"
+		  ],
+		  "image":"https://www.example.com/images/evade.png"
+	   },
+	   {
+		  "word":"glum",
+		  "meaning":"having a sad or morose appearance or expression",
+		  "synonyms":[
+			 "sullen",
+			 "dour",
+			 "grumpy",
+			 "sad",
+			 "downcast"
+		  ],
+		  "examples":[
+			 "He had a glum expression on his face as he left the room",
+			 "She always looks so glum, I wonder what's wrong"
+		  ],
+		  "image":"https://www.example.com/images/glum.png"
+	   }
+	],
+	[
+	   {
+		  "word":"contempt",
+		  "meaning":"a feeling of strong dislike and disrespect for someone or something",
+		  "synonyms":[
+			 "disdain",
+			 "scorn",
+			 "disrespect",
+			 "condemnation",
+			 "disregard"
+		  ],
+		  "examples":[
+			 "She looked at him with contempt.",
+			 "He held the proposal in contempt."
+		  ],
+		  "image":"https://www.example.com/images/contempt.png"
+	   },
+	   {
+		  "word":"correlate",
+		  "meaning":"to show a connection between two or more things",
+		  "synonyms":[
+			 "connect",
+			 "relate",
+			 "link",
+			 "associate"
+		  ],
+		  "examples":[
+			 "Studies have shown that there is a strong correlation between exercise and good health.",
+			 "There appears to be a correlation between high levels of stress and an increased risk of heart disease."
+		  ],
+		  "image":"https://www.example.com/images/correlate.png"
+	   },
+	   {
+		  "word":"credible",
+		  "meaning":"able to be believed",
+		  "synonyms":[
+			 "trustworthy",
+			 "reliable",
+			 "believable",
+			 "plausible",
+			 "convincing"
+		  ],
+		  "examples":[
+			 "The witness's testimony was credible",
+			 "The company's financial statements are credible"
+		  ],
+		  "image":"https://www.example.com/images/credible.png"
+	   },
+	   {
+		  "word":"deliberate",
+		  "meaning":"done or made after careful thought and planning",
+		  "synonyms":[
+			 "intentional",
+			 "premeditated",
+			 "calculated",
+			 "willed",
+			 "thought-out"
+		  ],
+		  "examples":[
+			 "The council made a deliberate decision to invest in the project",
+			 "She gave a deliberate answer, taking her time to choose her words carefully"
+		  ],
+		  "image":"https://www.example.com/images/deliberate.png"
+	   },
+	   {
+		  "word":"disingenuous",
+		  "meaning":"insincere or insincerely giving the impression of being honest, candid, or straightforward",
+		  "synonyms":[
+			 "insincere",
+			 "untruthful",
+			 "dishonest",
+			 "deceptive",
+			 "fake"
+		  ],
+		  "examples":[
+			 "His smile seemed so ingenuous and childlike that it was hard to believe he could be so disingenuous.",
+			 "She gave a disingenuous excuse for being late."
+		  ],
+		  "image":"https://www.example.com/images/disingenuous.png"
+	   },
+	   {
+		  "word":"distill",
+		  "meaning":"to purify or refine a substance, especially by heating it and collecting the condensed vapors",
+		  "synonyms":[
+			 "purify",
+			 "refine",
+			 "cleanse",
+			 "filter",
+			 "purge"
+		  ],
+		  "examples":[
+			 "The whiskey is distilled from corn, barley, and rye",
+			 "The scientist was able to distill the solution to obtain a pure compound"
+		  ],
+		  "image":"https://www.example.com/images/distill.png"
+	   },
+	   {
+		  "word":"encyclopedic",
+		  "meaning":"having a very wide range of knowledge on many subjects, or containing a lot of information about many subjects",
+		  "synonyms":[
+			 "comprehensive",
+			 "exhaustive",
+			 "expert",
+			 "erudite",
+			 "learned"
+		  ],
+		  "examples":[
+			 "She had an encyclopedic knowledge of classical literature",
+			 "The encyclopedia contained encyclopedic information about many different subjects"
+		  ],
+		  "image":"https://www.example.com/images/encyclopedic.png"
+	   },
+	   {
+		  "word":"feckless",
+		  "meaning":"lacking in initiative or strength of character; irresponsible",
+		  "synonyms":[
+			 "irresponsible",
+			 "incompetent",
+			 "ineffectual",
+			 "inefficient",
+			 "lackadaisical"
+		  ],
+		  "examples":[
+			 "He was a feckless young man, incapable of holding down a job",
+			 "The government was criticized for its feckless response to the crisis"
+		  ],
+		  "image":"https://www.example.com/images/feckless.png"
+	   },
+	   {
+		  "word":"harbinger",
+		  "meaning":"a person or thing that foreshadows or foretells the coming of something",
+		  "synonyms":[
+			 "forerunner",
+			 "prelude",
+			 "omen",
+			 "portent",
+			 "sign"
+		  ],
+		  "examples":[
+			 "The strange clouds on the horizon were a harbinger of the approaching storm",
+			 "His sudden illness was a harbinger of things to come"
+		  ],
+		  "image":"https://www.example.com/images/harbinger.png"
+	   }
 	],
 	[
 	   {
 		  "word":"dawdle",
-		  "meaning":"waste time, be slow",
-		  "examples":[
-			 ""
+		  "meaning":"to waste time; to move slowly",
+		  "synonyms":[
+			 "dally",
+			 "procrastinate",
+			 "lingering",
+			 "tarry",
+			 "loiter"
 		  ],
-		  "image":""
+		  "examples":[
+			 "I can't believe you're still dawdling over breakfast! We're going to be late!",
+			 "She dawdled for so long at the store that I had to go back and get her."
+		  ],
+		  "image":"https://www.example.com/images/dawdle.png"
 	   },
 	   {
 		  "word":"deride",
-		  "meaning":"ridicule",
-		  "examples":[
-			 ""
+		  "meaning":"to speak or write about with contempt or mockery",
+		  "synonyms":[
+			 "ridicule",
+			 "mock",
+			 "taunt",
+			 "sneer at",
+			 "scorn"
 		  ],
-		  "image":""
+		  "examples":[
+			 "He was derided for his unusual fashion sense",
+			 "She was constantly derided by her classmates for her shyness"
+		  ],
+		  "image":"https://www.example.com/images/deride.png"
 	   },
 	   {
 		  "word":"diffuse",
-		  "meaning":"spread out/ lacking clarity or conciseness, verbose",
-		  "examples":[
-			 ""
+		  "meaning":"spread over a wide area or distance",
+		  "synonyms":[
+			 "disseminate",
+			 "disperse",
+			 "scatter",
+			 "distribute",
+			 "spread out"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The company has diffuse operations across the country",
+			 "The light was diffuse and didn't cast any shadows"
+		  ],
+		  "image":"https://www.example.com/images/diffuse.png"
 	   },
 	   {
 		  "word":"divulge",
-		  "meaning":"make known (private or sensitive info)/ disclose/ reveal",
-		  "examples":[
-			 ""
+		  "meaning":"reveal or make known (something private or secret)",
+		  "synonyms":[
+			 "disclose",
+			 "reveal",
+			 "uncover",
+			 "expose",
+			 "unveil"
 		  ],
-		  "image":""
+		  "examples":[
+			 "She refused to divulge the name of her informant",
+			 "He was reluctant to divulge the details of his plan"
+		  ],
+		  "image":"https://www.example.com/images/divulge.png"
 	   },
 	   {
 		  "word":"droll",
-		  "meaning":"curious or unusual in a way that provokes dry amusement/ funny/ comic/ amusing",
-		  "examples":[
-			 ""
+		  "meaning":"amusing in a wry, subtle way",
+		  "synonyms":[
+			 "amusing",
+			 "humorous",
+			 "funny",
+			 "comic",
+			 "laughable"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The comedian's droll jokes had the audience in stitches",
+			 "She told droll stories about her childhood"
+		  ],
+		  "image":"https://www.example.com/images/droll.png"
 	   },
 	   {
 		  "word":"dubious",
-		  "meaning":"hesitating/ not to be relied upon, morally suspect",
-		  "examples":[
-			 ""
+		  "meaning":"uncertain or doubtful about something",
+		  "synonyms":[
+			 "questionable",
+			 "doubtful",
+			 "suspicious",
+			 "doubtful",
+			 "unreliable"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The validity of the research is dubious",
+			 "His story is questionable at best"
+		  ],
+		  "image":"https://www.example.com/images/dubious.png"
 	   },
 	   {
 		  "word":"trenchant",
-		  "meaning":"vigorous or incisive in expression or style",
-		  "examples":[
-			 ""
+		  "meaning":"having a sharp and penetrating quality; incisive",
+		  "synonyms":[
+			 "sharp",
+			 "penetrating",
+			 "incisive",
+			 "perceptive",
+			 "insightful"
 		  ],
-		  "image":""
+		  "examples":[
+			 "He made a trenchant critique of the government's policies",
+			 "She had a trenchant wit and was known for her sharp comebacks"
+		  ],
+		  "image":"https://www.example.com/images/trenchant.png"
 	   },
 	   {
 		  "word":"exacerbate",
-		  "meaning":"make problems worse",
-		  "examples":[
-			 ""
+		  "meaning":"make (a problem, bad situation, or negative feeling) worse",
+		  "synonyms":[
+			 "aggravate",
+			 "worsen",
+			 "intensify",
+			 "heighten",
+			 "escalate"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The news only served to exacerbate the situation",
+			 "Her comments exacerbated the tension between the two sides"
+		  ],
+		  "image":"https://www.example.com/images/exacerbate.png"
 	   },
 	   {
 		  "word":"fester",
-		  "meaning":"(of wound) become septic, (of feeling) become worse",
-		  "examples":[
-			 ""
+		  "meaning":"to produce pus or to produce an unpleasant or unhealthy situation as a result of neglect",
+		  "synonyms":[
+			 "putrefy",
+			 "rot",
+			 "decay",
+			 "go bad",
+			 "foul"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The wound on his leg had started to fester",
+			 "The problem with the company's management had been allowed to fester for years"
+		  ],
+		  "image":"https://www.example.com/images/fester.png"
 	   },
 	   {
 		  "word":"intrinsic",
-		  "meaning":"belonging naturally, essential"
+		  "meaning":"belonging naturally; essential",
+		  "synonyms":[
+			 "inherent",
+			 "essential",
+			 "inborn",
+			 "innate",
+			 "natural"
+		  ],
+		  "examples":[
+			 "The intrinsic value of a diamond is determined by its size and clarity",
+			 "His intrinsic ability as a leader was evident in the way he inspired his team"
+		  ],
+		  "image":"https://www.example.com/images/intrinsic.png"
 	   }
 	],
 	[
 	   {
 		  "word":"deflect",
-		  "meaning":"cause to change direction/ cause to deviate from intended",
-		  "examples":[
-			 ""
+		  "meaning":"turn aside or away from a straight course or direction",
+		  "synonyms":[
+			 "deviate",
+			 "swerve",
+			 "veer",
+			 "bend",
+			 "turn"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The ball was deflected off the wall and into the goal",
+			 "The driver had to swerve to deflect the oncoming car"
+		  ],
+		  "image":"https://www.example.com/images/deflect.png"
 	   },
 	   {
 		  "word":"dictate",
-		  "meaning":"an order or principle that must be obeyed/ give orders",
-		  "examples":[
-			 ""
+		  "meaning":"to say or read out loud for someone else to write down",
+		  "synonyms":[
+			 "order",
+			 "command",
+			 "prescribe",
+			 "require",
+			 "direct"
 		  ],
-		  "image":""
+		  "examples":[
+			 "She dictated the letter to her secretary",
+			 "He dictated his will to his lawyer"
+		  ],
+		  "image":"https://www.example.com/images/dictate.png"
 	   },
 	   {
 		  "word":"documentary",
-		  "meaning":"based on official documents or aspects, comprehensive",
-		  "examples":[
-			 ""
+		  "meaning":"a film or television program that provides a factual record or report",
+		  "synonyms":[
+			 "factual",
+			 "non-fiction",
+			 "informative",
+			 "educational"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The documentary provided an in-depth look at the history of the company",
+			 "She made a documentary about the plight of refugees"
+		  ],
+		  "image":"https://www.example.com/images/documentary.png"
 	   },
 	   {
 		  "word":"dogmatic",
-		  "meaning":"inclined to law down principles as underlying true/ highly opinionated",
-		  "examples":[
-			 ""
+		  "meaning":"asserting opinions or beliefs as if they are unquestionably true",
+		  "synonyms":[
+			 "doctrinal",
+			 "doctrinaire",
+			 "orthodox",
+			 "unquestioning",
+			 "unwavering"
 		  ],
-		  "image":""
+		  "examples":[
+			 "He was very dogmatic in his beliefs",
+			 "She was accused of being too dogmatic in her teaching style"
+		  ],
+		  "image":"https://www.example.com/images/dogmatic.png"
 	   },
 	   {
 		  "word":"ebullient",
-		  "meaning":"cheerful and full of energy",
-		  "examples":[
-			 ""
+		  "meaning":"showing enthusiasm and excitement",
+		  "synonyms":[
+			 "excited",
+			 "animated",
+			 "high-spirited",
+			 "full of life",
+			 "bubbling over"
 		  ],
-		  "image":""
+		  "examples":[
+			 "She was ebullient with joy at the news",
+			 "The crowd was ebullient with anticipation for the concert"
+		  ],
+		  "image":"https://www.example.com/images/ebullient.png"
 	   },
 	   {
 		  "word":"eccentric",
-		  "meaning":"(of a person) unconventional and slightly strange",
-		  "examples":[
-			 ""
+		  "meaning":"deviating from the recognized or customary character, practice, etc.",
+		  "synonyms":[
+			 "nonconformist",
+			 "oddball",
+			 "quirky",
+			 "unconventional",
+			 "unusual"
 		  ],
-		  "image":""
+		  "examples":[
+			 "He was always an eccentric, wearing strange hats and walking around barefoot.",
+			 "She has an eccentric sense of style, mixing patterns and colors in unexpected ways."
+		  ],
+		  "image":"https://www.example.com/images/eccentric.png"
 	   },
 	   {
 		  "word":"entrenched",
-		  "meaning":"(of an attitude, habit or belief) firmly established and difficult or unlikely to change; ingrained",
-		  "examples":[
-			 ""
+		  "meaning":"firmly established and difficult to change",
+		  "synonyms":[
+			 "ingrained",
+			 "deep-seated",
+			 "rooted",
+			 "ingrained",
+			 "deeply ingrained"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The entrenched attitudes of the old guard made it difficult to introduce new ideas",
+			 "The entrenched social hierarchy made it difficult for the new arrivals to assimilate"
+		  ],
+		  "image":"https://www.example.com/images/entrenched.png"
 	   },
 	   {
 		  "word":"exasperated",
-		  "meaning":"intensely irritated and frustrated",
-		  "examples":[
-			 ""
+		  "meaning":"feeling or showing extreme impatience, annoyance, or anger",
+		  "synonyms":[
+			 "irritated",
+			 "frustrated",
+			 "annoyed",
+			 "angered",
+			 "vexed"
 		  ],
-		  "image":""
+		  "examples":[
+			 "The constant interruptions left him feeling exasperated",
+			 "She looked at him with an exasperated expression"
+		  ],
+		  "image":"https://www.example.com/images/exasperated.png"
 	   },
 	   {
 		  "word":"iconoclastic",
-		  "meaning":"criticizing cherished beliefs or institutions"
+		  "meaning":"attacking or challenging traditional beliefs or institutions",
+		  "synonyms":[
+			 "rebellious",
+			 "revolutionary",
+			 "radical",
+			 "unconventional",
+			 "nonconformist"
+		  ],
+		  "examples":[
+			 "The iconoclastic artist's work was often controversial and challenged the status quo",
+			 "The iconoclastic thinker's ideas were considered radical and ahead of their time"
+		  ],
+		  "image":"https://www.example.com/images/iconoclastic.png"
 	   }
 	],
 	[
@@ -11337,3 +11379,4 @@
 	   }
 	]
  ]
+ 
